@@ -1,0 +1,6642 @@
+Manifest-Version: 1.0
+
+Name: res/layout/test_toolbar.xml
+SHA1-Digest: 1N+P6cs+HEg8i/NM1+lNXKhoSdI=
+
+Name: res/layout/activity_map_list.xml
+SHA1-Digest: d1u0c36A5/92UUjipYtzNp0Yulw=
+
+Name: res/interpolator/btn_checkbox_checked_mtrl_animation_interpolato
+ r_0.xml
+SHA1-Digest: 8YKmDaoIyU5UJZwrlw5/59+pZKI=
+
+Name: assets/pics/rubl_1854.jpg
+SHA1-Digest: 98O5hToNGbV81rVTQJzyyUk7BTI=
+
+Name: assets/pics/gallery/arch/sobor_usprenskiy_msk.jpg
+SHA1-Digest: GTX043ER2moWnJ63N9jEW+3ZdpI=
+
+Name: res/color/material_on_primary_disabled.xml
+SHA1-Digest: 4GBv6lUObGh6/DQfexwPArzz+7o=
+
+Name: res/layout/fragment_info.xml
+SHA1-Digest: TRhVjpnpwflV7+I2q6Xm2Nytie0=
+
+Name: res/drawable/ic_chevron_up.xml
+SHA1-Digest: uNSssszxLwK5MgPiKXz3Pg033Cg=
+
+Name: assets/pics/ivan_2.jpg
+SHA1-Digest: 8p1QSCu7CgrIi6N8eWTctATBVwc=
+
+Name: assets/pics/krevskaya_unia.jpg
+SHA1-Digest: dpemDH4qYhXaCE26fp3P4IYmU2k=
+
+Name: res/drawable-night-mdpi-v8/ic_folder_48dp.png
+SHA1-Digest: aOZw81NxohQuhvJzNe7MpC0K3cg=
+
+Name: assets/pics/moskva_kreml.jpg
+SHA1-Digest: FrC/8n22/2NDkf3GMjTqENFt8zk=
+
+Name: res/drawable-v21/circle_progress_gray.xml
+SHA1-Digest: OrjL5FsHMVHX7rjyOM4UB9Kyk1A=
+
+Name: res/drawable-night-hdpi-v8/ic_pdf_box.png
+SHA1-Digest: hpoBDUV1vQwUw8SGq4abjWZYoo4=
+
+Name: res/layout/activity_result.xml
+SHA1-Digest: AeD+fxMZ0omi8ekedRCU9bQv/JY=
+
+Name: assets/pics/soyuz_borby.jpg
+SHA1-Digest: mFwDMX33cZujoQ8XoMVUMOrih/4=
+
+Name: res/drawable-xxhdpi-v4/ic_music_box.png
+SHA1-Digest: 7ADJD/vYuL/EQGR//TA/FpTAs5k=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: +E+/gSJ1PDqS6la80hmP89Vn31w=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: pUh1yzyRb6c3D0mL7cI4wKExeTI=
+
+Name: assets/pics/sobchak.jpg
+SHA1-Digest: 3fUe9NNrXUZOy548GYwryYv1oxM=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: Nfp5qmKfyCig729DQyKeWARIovg=
+
+Name: res/drawable-night-hdpi-v8/ic_apk_box.png
+SHA1-Digest: SpVdL1JQSU16nAgW4Oy4a81x3C8=
+
+Name: res/drawable-xhdpi-v4/ic_music_box.png
+SHA1-Digest: l9+LVqP4mhGoXwJnWJmd5JsAL9o=
+
+Name: res/menu/menu_detail.xml
+SHA1-Digest: //Y3nIvAsGBHjzgiTiwWBTkFnQc=
+
+Name: assets/pics/notes/ferry.png
+SHA1-Digest: P2rcwy5GRX/PWPUfrgMsPoax+AM=
+
+Name: res/drawable-night-xhdpi-v8/ic_image_box.png
+SHA1-Digest: vGGW1utxYr+9hV5mB9q5I96y/Z4=
+
+Name: assets/tests/test.json
+SHA1-Digest: PrNohoxitA/X542ry2YYlSEHMac=
+
+Name: assets/pics/battle_1216.jpg
+SHA1-Digest: Hxz0MoZtgVvzsvvxjj5vXPR+2fc=
+
+Name: res/drawable-v24/ic_launcher_foreground.xml
+SHA1-Digest: ME5ICglWyoyqVK6hQ6MKPQ8aySI=
+
+Name: res/drawable/ic_edit.xml
+SHA1-Digest: gz7pJAXd8ift/OQK1aO2CT9uGT4=
+
+Name: res/menu/menu_category.xml
+SHA1-Digest: uywqhrpGcUGyVu+QUjLnvPMvotk=
+
+Name: res/drawable/slav1.png
+SHA1-Digest: y5LZLXeF5p/SZy86uf4ALLjlPtY=
+
+Name: res/drawable/ic_nav_notes.xml
+SHA1-Digest: WVOlUeoZdc8rZivdSJI6jh16Iow=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: x44uUsdD5wnS8x1uTf9WTb3Fux4=
+
+Name: res/drawable-night-xxhdpi-v8/ic_apk_box.png
+SHA1-Digest: M5bxy+/wkC7HZe38urUy+kE4o8Q=
+
+Name: res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: 08nYkofkFxe3+OlvK9ayitQoSX8=
+
+Name: res/drawable-night-xhdpi-v8/ic_zip_box.png
+SHA1-Digest: vpTyuuUKVTQGEKTKeU2zoZsk7ok=
+
+Name: res/drawable-xxxhdpi-v4/ic_excel_box.png
+SHA1-Digest: sFYcoHA4B21zHcdpCFMn2Dvzfno=
+
+Name: assets/pics/guchkov.jpg
+SHA1-Digest: CzYGO/q0IuKlhpdL+OC9laXLdhc=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 99GkU44EvefOaxLCiFW5KAUEIJQ=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: fvqpYatS1b2DlCeJm4C0TogU/KQ=
+
+Name: assets/pics/chapaev.jpg
+SHA1-Digest: KgeY1PsugpD0xKpSlnXep0S0a9k=
+
+Name: assets/pics/ekaterina_commissia.jpg
+SHA1-Digest: 0Z8Ab2qwKKRG2wIS90iydwDu74I=
+
+Name: assets/pics/ww2_tegeran.jpg
+SHA1-Digest: xH2DAE4XPDt3OP1F+u2gL99U/eM=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: tuRD5c264eqGC6Sft2JY5RmwskI=
+
+Name: assets/pics/antanta.jpg
+SHA1-Digest: TgsweVTrzYwykNV3Kig7ozdBUm0=
+
+Name: res/layout/app_bar_main.xml
+SHA1-Digest: zvnfUGwW+pZyhWSHOULFtVKH+Ug=
+
+Name: res/anim/abc_popup_exit.xml
+SHA1-Digest: q2e4jEu65FKoTiWZ+Rfq7iSeyT4=
+
+Name: res/layout/ucat_list_item_more.xml
+SHA1-Digest: g/GheKEQO1AO6eVBKkDVtDFdaTA=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 34/BHr2WudsZR6oOAFDmPiDC6/w=
+
+Name: res/drawable/outline_test.xml
+SHA1-Digest: qnHo/ROdYsfs8825Xpe+L46bhBo=
+
+Name: res/drawable/ic_view_list_outline.xml
+SHA1-Digest: IOPniwC2XVZp/Tl5s2ZKuXwHGqc=
+
+Name: res/drawable/material_ic_menu_arrow_up_black_24dp.xml
+SHA1-Digest: FxaVAsv3j9kXwgwwBbReoX5HjvI=
+
+Name: assets/pics/gallery/pers/pers_bulgakov.jpg
+SHA1-Digest: N59Vcc+aX8ywojyishNhTFddDzQ=
+
+Name: assets/pics/notes/nature.png
+SHA1-Digest: df659qbufbVUy7B0mer7Q4Yjzko=
+
+Name: res/drawable-xxxhdpi-v4/ic_powerpoint_box.png
+SHA1-Digest: V7JHMoIGWtKJTUyvSuaXTUG+qCE=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: RMyXK+FyPHHFR02cRVMAofD2Db0=
+
+Name: assets/pics/pravda_2.jpg
+SHA1-Digest: 3WIjXvj75peF4CFUoH+4YBXD4gE=
+
+Name: res/drawable-hdpi-v4/ic_close_white_24dp.png
+SHA1-Digest: mr2i26uBg5CAv210r1I5HaPhEL8=
+
+Name: res/drawable-hdpi-v4/ic_zip_box.png
+SHA1-Digest: /8SrqfXkOC59Sl1vTw/9y/x1Xy4=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.
+ png
+SHA1-Digest: dOjymfO7tQPa8kQCGNculrdtmzM=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.p
+ ng
+SHA1-Digest: RFU8ebcpWdq1WfG1+5m0rjD3S0w=
+
+Name: assets/pics/ww2_riga.jpg
+SHA1-Digest: toyBP7PV2UCoYQJzosrh5yBq3HU=
+
+Name: assets/pics/gallery/flag/gerb_16v_1.jpg
+SHA1-Digest: T4cHY0usJ5yoI8+imUbcuspRVQI=
+
+Name: res/color/material_on_primary_emphasis_medium.xml
+SHA1-Digest: nZLNyF2IRaGTJKebSr2hyNMXAW0=
+
+Name: assets/pics/ww_1.jpg
+SHA1-Digest: f0VGrsX8yOv5YEXoPjKqGBtZhCc=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: dd2zj6sr+xRmZWNPRjYGn37/Nm8=
+
+Name: assets/pics/lenin_out.jpg
+SHA1-Digest: 42IJAixtY+FeYNhp/KkVmBXMl3I=
+
+Name: assets/pics/pugachev_sud.jpg
+SHA1-Digest: LfGk8QJePFi/QX5ZI1PVXol8DJs=
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA1-Digest: 84kR1v0CObF3GJhYKsVzacEh5Xo=
+
+Name: res/drawable/ic_ex_cards.xml
+SHA1-Digest: 0cjO3xQ1rllul7x83aeklIW/yt0=
+
+Name: assets/pics/boyare.jpg
+SHA1-Digest: +LWZRoq9As0pstqC+g4v1b6W/FM=
+
+Name: assets/pics/port_artur.jpg
+SHA1-Digest: FLsgrCP/akAoYgNsU2Y9EU2Y5v8=
+
+Name: assets/pics/gallery/pers/pers_polzunov.jpg
+SHA1-Digest: 0Sa7aJvpoDtZNWp2aSM0LYbWCWk=
+
+Name: res/drawable-v21/list_ripple_dark.xml
+SHA1-Digest: O3jLt97onYUbgtsC9nMEwbIMric=
+
+Name: res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml
+SHA1-Digest: eTKysgB33EFMmwDTPt0tQYhgLds=
+
+Name: res/layout/view_img_item_card.xml
+SHA1-Digest: N6Fg7/L+ZEqo9W3GOVCQ4ioVaUU=
+
+Name: assets/pics/picto/shape_green_l.png
+SHA1-Digest: Iy50OGv8d4WIQOgdBwU5rTG6p/k=
+
+Name: assets/pics/revolution_oktober.jpg
+SHA1-Digest: iuHtNOxtHllcbYb5x0lmZa0LctI=
+
+Name: res/layout/content_search.xml
+SHA1-Digest: Tu6dOJn5syU4Osupoz3bhCDuAHg=
+
+Name: assets/pics/bloody_sunday.jpg
+SHA1-Digest: t3yw1m4jFBkJXaIpG0gx3lBrWxM=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: vgGy8pBTjoL/yJmNDQQ42DiT8vg=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.pn
+ g
+SHA1-Digest: 10kBvBUte2AZyag/8SjtRBJJBog=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: eobI6VkMzG98QREBV+/eaTz00LY=
+
+Name: res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: GsekZVTmqt7NzcA9FoawMuFDm0E=
+
+Name: assets/pics/gallery/sculpture/sc_oktyabr.jpg
+SHA1-Digest: yWbG5dkwnme95A93tk+NcNr2x48=
+
+Name: res/layout/starred_list_item.xml
+SHA1-Digest: Sc1PCt6fbE2mkIXWjdXTS5/b0DM=
+
+Name: assets/pics/battle_elisavetpol.jpg
+SHA1-Digest: bZEDfBjOFPF5rZk1+5EKpl4uOFk=
+
+Name: res/menu/activity_main_drawer.xml
+SHA1-Digest: BaAyNa+wKbVvue7HE3swNRBqriE=
+
+Name: assets/pics/russia_gerb_1.jpg
+SHA1-Digest: nrVJbD8Iu+pq4LvOgWqmd+vum0Y=
+
+Name: assets/pics/gallery/arch/bolshoi_theater.jpg
+SHA1-Digest: Y7OBBz7AnvaglFye3dF90IrfDRM=
+
+Name: assets/pics/pozharsky.jpg
+SHA1-Digest: KtAfgi1B2QfSvBrYpmHh+OEi7uE=
+
+Name: assets/pics/notes/map.png
+SHA1-Digest: bE1Wg3AZMJULAIMZqoiW+qHMkGc=
+
+Name: assets/pics/battle_noteburg.jpg
+SHA1-Digest: yDnntAVCPElU/qIAU7fYhLsuNZo=
+
+Name: assets/pics/gerb_ussr.jpg
+SHA1-Digest: ufgvL+uV6Mr6WMBfXCzvbvXirJY=
+
+Name: assets/pics/primakov.jpg
+SHA1-Digest: +K1iLYCdp4PHeOpRatH5m//Dw3M=
+
+Name: assets/pics/tsar_aleks.jpg
+SHA1-Digest: KuESxx5H+Iw94e97w2PiDcrcPfU=
+
+Name: res/drawable-night-xxhdpi-v8/ic_pdf_box.png
+SHA1-Digest: 4XLR3QRqj2Dk2Xb0wCiNABnC4Vg=
+
+Name: assets/pics/ww2_no_blocade.jpg
+SHA1-Digest: /uRBqtmw+A8etwGcsqJceppD4Pk=
+
+Name: assets/pics/traktat_pekin.jpg
+SHA1-Digest: jQV13K55YWGrlEq1l6Gi5RZ33ow=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: rciAiTdJ+MRPTsG/UvNRmHGoqCA=
+
+Name: res/drawable-xxxhdpi-v4/ic_folder_48dp.png
+SHA1-Digest: s/JuKKBvMZr4a34c26lmLkivW0Q=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.pn
+ g
+SHA1-Digest: MoCkoRXaiGThFVhhLr4wDS0VuM4=
+
+Name: res/anim/abc_popup_enter.xml
+SHA1-Digest: XjW+bYNwmfD83od4BiKWW8EgH/M=
+
+Name: res/color/abc_tint_switch_track.xml
+SHA1-Digest: WqtjA+FDOmKBUs5/i+qK7vF8sj0=
+
+Name: assets/pics/gallery/arch/kolokolnya_ivan.jpg
+SHA1-Digest: Rzd2lBVQnmKq55TzROD52GfDOs8=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 4zGcfOpUs1o++ryH0Ic/MXd371k=
+
+Name: assets/pics/gallery/arch/sobor_pokrov_fili.jpg
+SHA1-Digest: p6Ph3DjRdxqP6ygHnfTbbn6ZEJE=
+
+Name: res/layout/design_navigation_item_header.xml
+SHA1-Digest: 4/8DNUNusYLlc9/pxERhqfCqMqc=
+
+Name: res/drawable-xhdpi-v4/ic_word_box.png
+SHA1-Digest: 9Mp6NHKMdNrxeMDVTomW4ECbXeQ=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: DanLp1AOv7LDEHoiayudiPPc26w=
+
+Name: assets/pics/dissident.jpg
+SHA1-Digest: ha/IACgD8Wwac1cJWNc+kVv5r3U=
+
+Name: res/layout/exercise_item.xml
+SHA1-Digest: +5EOnfri6tbSykwnz3K52oSHB9U=
+
+Name: res/menu/stats_mode_info.xml
+SHA1-Digest: PSiKL4nncFzvebBQHbuRc0q/yL0=
+
+Name: res/layout/activity_section_list.xml
+SHA1-Digest: ecwKWx8+aahaypWsj81IB5HgWvA=
+
+Name: assets/pics/gallery/paint/shuyskiy.jpg
+SHA1-Digest: i2QXI+Ttv0k3IfbGJFg29i5CvRk=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_video_box.png
+SHA1-Digest: 9vkPseoyIfvt0iIIm+ePIrnTW9Y=
+
+Name: assets/pics/petr.jpg
+SHA1-Digest: QF3QztSc2vu8z5zVwxeruPkDIvE=
+
+Name: res/layout/content_ex_notif.xml
+SHA1-Digest: ZoDjEdVtcncrT8LWzzn/i66lYiA=
+
+Name: res/drawable/material_ic_menu_arrow_down_black_24dp.xml
+SHA1-Digest: bRNbGVd5pnE3Q9ZDZNIP6WqIDDM=
+
+Name: res/drawable/card_edge.xml
+SHA1-Digest: PjMgiue6YybbJNdRdb0pU36Y6tw=
+
+Name: res/drawable/ic_action_up.xml
+SHA1-Digest: pHWNFvB7Nlv5xXU6iUdM0lMhFeE=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 0kKvPwdj7zBzN9UX4+jHAPKwyCA=
+
+Name: res/drawable/ic_emo_sad_bg.xml
+SHA1-Digest: kktXzxi4DYtWy9J7selDauCrvFI=
+
+Name: assets/pics/gallery/flag/gerb_19v_maliy.jpg
+SHA1-Digest: qkUTLmBHMrExui0Dz8IJYAuLsdE=
+
+Name: res/menu/menu_note.xml
+SHA1-Digest: Y8lFyoLErHf/fjR9K9rJqN0uebE=
+
+Name: res/layout/content_cat_data_stats.xml
+SHA1-Digest: Ic+HtMHs3xQg7JiSB9PSc86kJGg=
+
+Name: assets/pics/svyatoslav.jpg
+SHA1-Digest: 6xAZe8qxQnYiZvvvq8zwxbuTRWo=
+
+Name: assets/pics/maps/rus_1240_nevski.png
+SHA1-Digest: Wp6QAglmj5XZ2J2bRtUwnqu7rG8=
+
+Name: assets/pics/gallery/pers/pers_gorkiy.jpg
+SHA1-Digest: 9QpHiYSWSmuXKUZPziev9PncFMA=
+
+Name: assets/pics/muraviev_apostol.jpg
+SHA1-Digest: 1SO75e09Prd6AltfDzFYjAbhGJA=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: zLtLDGOiJ207WrTCsWah2jkG/84=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: sOzFy8p0z5aqGsrWEATtwLsgEH0=
+
+Name: res/drawable-night-xxhdpi-v8/ic_document_box.png
+SHA1-Digest: VTPRY1KYH1icEzBNLteMXyuTj4E=
+
+Name: assets/pics/ww2_blokade_end.jpg
+SHA1-Digest: b/s/6hsrxlZYxgNhSpw5vmQhzJQ=
+
+Name: convertGermanToBoolean.properties
+SHA1-Digest: kKqYRTvmOj6iR5igFzsDJEujAes=
+
+Name: assets/pics/gagarin.jpg
+SHA1-Digest: 45nCZNkgLt52RpnZmx7ceAsUXec=
+
+Name: assets/pics/gallery/pers/pers_rimskiy.jpg
+SHA1-Digest: q3Ayk5wJghNg7l0CyeVaGMM8TEs=
+
+Name: assets/pics/praga.jpg
+SHA1-Digest: 7Zml03ABNd0IZI5aSZqEYUsqBE8=
+
+Name: assets/pics/gallery/flag/gerb_20_soviet_2.jpg
+SHA1-Digest: Bp6VLnhxosQirfaiusWlgfLyFCE=
+
+Name: res/color/mtrl_tabs_ripple_color.xml
+SHA1-Digest: gzCaM2j0p8rLw/6H1xUYh4R2+1o=
+
+Name: assets/pics/gallery/pers/pers_glinka.jpg
+SHA1-Digest: +755AMoLzeQlLJ6AZrnecC0t0Kc=
+
+Name: res/drawable-xxhdpi-v4/ic_certificate_box.png
+SHA1-Digest: 6O3MK1jpWcvjrdACXZy3/xtvYcY=
+
+Name: res/layout/content_backup.xml
+SHA1-Digest: xRGLuUXNY1zzDGcLkwjavj5gGXM=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.p
+ ng
+SHA1-Digest: Fv+MHn2EjJlYrnRlsip5/7aL0Wg=
+
+Name: res/drawable-night-xxhdpi-v8/ic_certificate_box.png
+SHA1-Digest: 8kH1J3qN9nkuXQUJRuIhTLQ+5p0=
+
+Name: assets/pics/shishkov.jpg
+SHA1-Digest: Q9q+8Y+Tbi1d3YGKRv/TyQRYuZk=
+
+Name: res/drawable-v21/circle_progress_green.xml
+SHA1-Digest: Wy/0Xb0U9gP/LJOVhI+alfjiDSU=
+
+Name: res/drawable-night-hdpi-v8/ic_excel_box.png
+SHA1-Digest: 2PrUxh2h7/BNLnoMPR+/cSQbJW8=
+
+Name: assets/pics/picto/flower_red_l.png
+SHA1-Digest: zTjgkD+lb3V/BqDIPVrU8VBXLKM=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.pn
+ g
+SHA1-Digest: FavPjuk6olEZey6sIq7rywmBBwY=
+
+Name: assets/pics/zasedanie.jpg
+SHA1-Digest: sG23bhQHRtSioFMGPuRkoJhD8mQ=
+
+Name: assets/pics/moskva_smolensk.jpg
+SHA1-Digest: SKysuYFI+M2eigs7vK6dZjvevQY=
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: Isoau2+nSwjWWXmKikdruk98JPA=
+
+Name: res/layout/design_bottom_navigation_item.xml
+SHA1-Digest: KjLTbBqVEsrWuhKfZCqlLDtjAGE=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: h4G5TeOQ9xufiMtoFfAe3fINBds=
+
+Name: res/layout/activity_file_picker.xml
+SHA1-Digest: XUZjd2zLJaVXRW26eq3Z3p9pvS8=
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: KeYlnNX3N4Fxxxtr5iR+kpC5lRo=
+
+Name: res/layout/section_list_title.xml
+SHA1-Digest: EX7MaQTgXlwtCmeHsZp9s1wmrJI=
+
+Name: assets/pics/ussr.png
+SHA1-Digest: k9B4oKf0IQvcYrV5/yCa6SFVlUA=
+
+Name: res/drawable/ic_nav_home.xml
+SHA1-Digest: bGEviZihv5tUpat5q+1Mzi9YUdI=
+
+Name: assets/navstructure.json
+SHA1-Digest: nQP5gESxkrUgdAxd2I29nw/JfsE=
+
+Name: res/drawable/material_ic_clear_black_24dp.xml
+SHA1-Digest: ZCK5t1hM5LHXOg/kwE5+o+Hj+rA=
+
+Name: res/menu/menu_starred.xml
+SHA1-Digest: H0hC+AGIZaQYOdPUgQKIs9LKE18=
+
+Name: res/anim/slide_in_left.xml
+SHA1-Digest: 6Q3r9GFB1T+1h/09IWcrPgItTgE=
+
+Name: assets/pics/alaska_purchase.jpg
+SHA1-Digest: eMPx1U/ZVDdRnpKf65MABJdWn1E=
+
+Name: assets/pics/gallery/pers/pers_pirogov.jpg
+SHA1-Digest: XPS8FWXtgL8B0/0tjFMqMCjIuqM=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA1-Digest: cx31R0y0Z/9PFDwoS2pcV+6bRzE=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: C4mDHI0C9UheHV5pERrS+vZLNIQ=
+
+Name: res/drawable-mdpi-v4/ic_close_white_24dp.png
+SHA1-Digest: gU90H++cm9UAgJ/EwWsv5g9CiCU=
+
+Name: res/layout/starred_gallery_item.xml
+SHA1-Digest: D13ZGO9UYNt2ajqlVCpWumMwOp8=
+
+Name: res/color/material_on_background_disabled.xml
+SHA1-Digest: Nw+2SXA433aMNbzn9ImOVXyHrnc=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.pn
+ g
+SHA1-Digest: 2yBDAHgYTM0FfiL8gWf0VdNXNwA=
+
+Name: assets/pics/yagujinskiy.jpg
+SHA1-Digest: jl3VtsO3p8bvjhIf99HJfDUltIE=
+
+Name: res/animator/mtrl_fab_hide_motion_spec.xml
+SHA1-Digest: FLpXvKMSJphHR1qbTE7J41rL75I=
+
+Name: res/drawable-hdpi-v4/ic_file_gray_116dp.png
+SHA1-Digest: gari0L753n5lpGpeVqhd3gfvhUQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: ++0JraYcPG1W6gax2v1T4h5rv9E=
+
+Name: assets/pics/kutuzov_fili.jpg
+SHA1-Digest: Xqply5pTJYtBqOumNNfzRYNDVkI=
+
+Name: res/layout/toolbar_tablayout.xml
+SHA1-Digest: Dqr05rURBbYV+0pL0QpCbMBlBG0=
+
+Name: assets/pics/gallery/arch/admiralty.jpg
+SHA1-Digest: 667zWQINmv5/2zBcTuXGyCpWk8M=
+
+Name: assets/pics/bashkir.jpg
+SHA1-Digest: lD8Z3a1vW8QiXN6DnijJknvcCFg=
+
+Name: res/layout/mtrl_alert_select_dialog_item.xml
+SHA1-Digest: 1V2eo2MDV0uuy77u364aa8iqDAI=
+
+Name: res/layout/content_map_list.xml
+SHA1-Digest: UvsyzX626x4dTD4k8nQCy8m8Llw=
+
+Name: assets/pics/burbulis.jpg
+SHA1-Digest: 5ZYALdgC8/oYu+GpY4WorQSZVU0=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: dk0LWqCARlbxH1k2prVePUnbuQM=
+
+Name: res/drawable-xxxhdpi-v4/ic_pdf_box.png
+SHA1-Digest: IWPdIUgdoTEe9PcG2UxNT17fjLI=
+
+Name: assets/pics/gallery/paint/devochka_s_persikami.jpg
+SHA1-Digest: mGDJSkdi8NM5EjvorJxc5xHf7xY=
+
+Name: assets/pics/pavel_1.jpg
+SHA1-Digest: vu4/rwbIoK6aJOrIyYnZHW+7hfA=
+
+Name: res/xml/settings.xml
+SHA1-Digest: hiNpS1ZtNVzYnP15ome5fceBwEo=
+
+Name: assets/pics/kulibin.jpg
+SHA1-Digest: A7qp5PqcVxyTuTChmKALBYwQSlQ=
+
+Name: assets/pics/traktat_simod.jpg
+SHA1-Digest: 6+lIeFTll+T9Fs9VfPzZJfYAVgk=
+
+Name: assets/pics/maps/rus_1583.png
+SHA1-Digest: LO+c5Q0ZI8XlHdRuYD9WNQXITvI=
+
+Name: res/drawable/ic_star_border.xml
+SHA1-Digest: hL/s5zZ58xJuEXnviVF+ubZTpJA=
+
+Name: assets/pics/olga.jpg
+SHA1-Digest: ieYn89JKAQ9KMYmHU+FrJNIlfko=
+
+Name: assets/pics/denikin.jpg
+SHA1-Digest: cxGWfeuyVF4PpNQdbnupNRT6bP4=
+
+Name: assets/pics/gallery/pers/pers_rahmaninov.jpg
+SHA1-Digest: kElXNOz5Y9E9P2C8kvt6DrFs5LY=
+
+Name: res/drawable/screem_top.xml
+SHA1-Digest: xmSAtHZlQl2wLty+w5jdezL/f3M=
+
+Name: assets/pics/aleksandr_1.jpg
+SHA1-Digest: xIr7JUQLOPrQ3kUxg0DL70Kg96k=
+
+Name: res/layout/activity_section_test.xml
+SHA1-Digest: 44OH+juYrML3iQSDMiplylAKAuY=
+
+Name: res/drawable/ic_emo_very_good.xml
+SHA1-Digest: 30kWf1oztHaHZ6fQg6yYzPDM2hQ=
+
+Name: res/drawable/ic_circle.xml
+SHA1-Digest: zqD53FM2rBKDIcQhcfhCY1QE4jo=
+
+Name: assets/pics/gallery/monument/fontan_drujby.jpg
+SHA1-Digest: 2GXlI1j6OhyXfhqnqpnwbNdnqWY=
+
+Name: assets/test_details.json
+SHA1-Digest: LMwK82uPovPbqN/328AQ4KhCRyo=
+
+Name: res/layout/mtrl_alert_dialog_title.xml
+SHA1-Digest: U3dTeYA17jWTryuXOoPp1UASTqo=
+
+Name: assets/pics/bestujev.jpg
+SHA1-Digest: 7hiJ84Ndq94wllRk9iGaEFpjY74=
+
+Name: assets/pics/perestroyka.jpg
+SHA1-Digest: 1DXQaBBqKq+EV1RoqsdgQGPfY7M=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: mboP65UWQI1kSsyj/eTSuRHBAhU=
+
+Name: assets/pics/afgan.jpg
+SHA1-Digest: 7gWd1ZVO8T5lN/aatOlydtcVgqI=
+
+Name: assets/pics/govern_temp_2.jpg
+SHA1-Digest: u1+eDYjshK3WPPDdfW9Ci9Kv1tI=
+
+Name: assets/pics/oborona_tsaritsino.jpg
+SHA1-Digest: HjsiPSNvn33hlh0+lJh+d4zSPIw=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: LT/K8YQrPGMA1+J5e/zY2xGFhQg=
+
+Name: res/drawable/app_english.png
+SHA1-Digest: qT+Ps9E7TNsJ28FW32F9FppAkqw=
+
+Name: res/drawable/ic_launcher_background.xml
+SHA1-Digest: xKnb0IquT8ozkKQPsSQxc3OMgO8=
+
+Name: assets/pics/gallery/flag/flag_1924_usr.jpg
+SHA1-Digest: ofw//dET0BAbbMy7/+KHKWeYio4=
+
+Name: res/drawable/ic_splash_1.png
+SHA1-Digest: QVHnIKNvakO9xPVJ2bNgGkr0ss0=
+
+Name: assets/pics/stachka_ivanovo.jpg
+SHA1-Digest: I7yQvrpfytpUE/UKmrGv4tFKJ1U=
+
+Name: assets/pics/duma_2.jpg
+SHA1-Digest: lQQUOXXwcInh2NrY8D97gHI8b64=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: uwiP3ApwLduQ11Jf4UyIGf8WaSw=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_document_box.png
+SHA1-Digest: F/7vXeA3PuEPRntmUW0kQMeShMc=
+
+Name: assets/pics/zasulich.jpg
+SHA1-Digest: NbH2mNfaXQ3G4+5zSZnLa8AazkE=
+
+Name: assets/pics/picto/image_blue.png
+SHA1-Digest: imHkapalJOWVAwD24ewwKYjNZ+4=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: HwYRA4Yjsg7sAAmIUylpGPC9yPA=
+
+Name: assets/pics/aleksandr_2_end.jpg
+SHA1-Digest: 8tkioiPBPCDb370EjHPPdgrkJyc=
+
+Name: res/layout-v21/multipane_menu.xml
+SHA1-Digest: C/vAK2YZS+mFChklH/V6TmQu3Cw=
+
+Name: assets/pics/barclay.jpg
+SHA1-Digest: 97r3ke6Kc4Nkmz5CXGAhh7aUv4s=
+
+Name: assets/pics/kojina.jpg
+SHA1-Digest: vQHuaEqubShByQ3xIFgw9EYP26o=
+
+Name: res/layout-v21/preference_category_material.xml
+SHA1-Digest: PPJtX0l2GoDo+6MrZPTj8LZzoF8=
+
+Name: assets/pics/karta_1939_poland.png
+SHA1-Digest: ZiO4mDcYtJQYefFmqYK99XkCkIg=
+
+Name: assets/pics/vasilevsky.jpg
+SHA1-Digest: 507MtF0tKbXdLRVbXio1RYpx23g=
+
+Name: assets/pics/gallery/arch/kunstkamera.jpg
+SHA1-Digest: LSjEiWPwUuWPU5kEcQrE3I9QUTE=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA1-Digest: ROUgIoQClpazz7AHx3sr4FexTQU=
+
+Name: assets/pics/salt_riot.jpg
+SHA1-Digest: mPugimxKozxDE0zzeKsmSKXEqB4=
+
+Name: assets/pics/gallery/pers/pers_tytchev.jpg
+SHA1-Digest: 85Z0FeJTD7MyVfKt+ibDB2Ndy6M=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: otncOZG21mw8ew/aFY/F4swt8TY=
+
+Name: res/drawable/ic_emo_bad.xml
+SHA1-Digest: OWB5PF7gfofodvjEttL965CiuDY=
+
+Name: res/color/material_on_background_emphasis_medium.xml
+SHA1-Digest: iNRp2MZapBCaz7Ze1G6Kr8TKwko=
+
+Name: res/layout/test_design_radiobutton.xml
+SHA1-Digest: +OQuE4Ld5Iwmmm09A7bo8o4nvDg=
+
+Name: res/color/mtrl_chip_surface_color.xml
+SHA1-Digest: ZGxlHc52AZ2B2j+25DgGXfxAAs4=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: jF21mE1H534HgIqUHSHSNbk77Ns=
+
+Name: assets/pics/kongress_berlin.jpg
+SHA1-Digest: 1kVJB0soSShzbL2MoWjMA/qonAY=
+
+Name: assets/pics/elizaveta.jpg
+SHA1-Digest: G7rvgqrDblyVu6sGc6JqwEBS4lo=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: Fm09+WRDtBCRv4/ah+XmMouGBLA=
+
+Name: res/drawable/ic_chevron_down.xml
+SHA1-Digest: mX5hrfDg4I8zQbEb8J1ukiUAhMQ=
+
+Name: assets/pics/ww2_kapitulatsia.jpg
+SHA1-Digest: EMDfbOxCz+NTaAKqU2bCDWw8of0=
+
+Name: assets/pics/gordon.jpg
+SHA1-Digest: UsbCjFUULV1kesYe/G4Ls9Ps0M4=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: ogkXOgxRGBjnx5tzFEPyX+N+5J0=
+
+Name: assets/pics/gallery/arch/sobor_voznesenie.jpg
+SHA1-Digest: 5JgqrZDOmJWY2kcZEN1Rc35JFhI=
+
+Name: assets/pics/gallery/pers/pers_mendeleev.jpg
+SHA1-Digest: o3hBSG9OUs3e+vh720+icKcOVmk=
+
+Name: res/anim/fade_in_2.xml
+SHA1-Digest: JonMFs8crFMbXonMpWLGWTvxeSk=
+
+Name: res/color/mtrl_chip_text_color.xml
+SHA1-Digest: 43ofi+f9aC478ZnadpWWMfCt7c4=
+
+Name: assets/pics/dogovor_nishtad.jpg
+SHA1-Digest: He/6pWoW+4hp1diWZkl7KikNoPQ=
+
+Name: res/menu/menu_scrolling.xml
+SHA1-Digest: EgsdvaFjwNbLXO4Vl+Cr9Li5THU=
+
+Name: res/xml/standalone_badge_gravity_bottom_end.xml
+SHA1-Digest: XE2Zb1efJkIkGGw7VNJV0rzsrOM=
+
+Name: assets/pics/gallery/paint/morozova.jpg
+SHA1-Digest: JHMQAGy3r7VQu3pKeAsnY0s9Jtw=
+
+Name: res/layout/activity_images_list.xml
+SHA1-Digest: yTJc4CHg6A58LU+cguI+pDsLpxw=
+
+Name: res/menu/menu_simple_info.xml
+SHA1-Digest: OG25lLMDzJLZrcwqLakKVrQqGEU=
+
+Name: res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xm
+ l
+SHA1-Digest: s3HCvk2fxS+R8rapUWfEDgbekVs=
+
+Name: assets/pics/rumjanzev.jpg
+SHA1-Digest: Nac4gdJlk6jPmAyske+fI1cASEA=
+
+Name: play-services-gass.properties
+SHA1-Digest: h7Jr8yNuu4yimr57EH3hBHleYPI=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: oqMthJZaa99vAYrJAeXsWlb3nl4=
+
+Name: assets/pics/godunov.jpg
+SHA1-Digest: hgMujIXKTvKBF2GJDrFhZFg4iJE=
+
+Name: assets/pics/gallery/pers/pers_fet.jpg
+SHA1-Digest: o6CD80QMuszcGHR4Eh1ow0ebJ1U=
+
+Name: assets/pics/yaroslav_triumvirat.jpg
+SHA1-Digest: eAy0Yo8fSiva95Ct1WULToCElpw=
+
+Name: assets/pics/14_syezd.jpg
+SHA1-Digest: Fl7Xfmsqw5lKBubTzITjP2l+vIc=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.pn
+ g
+SHA1-Digest: izNlbouSIXW9/WiRR/UlgyT9VEs=
+
+Name: assets/pics/ww2_krim.jpg
+SHA1-Digest: CBaiAr4CkKY0gJ/Zkflii6uEQpA=
+
+Name: res/animator/mtrl_extended_fab_change_size_motion_spec.xml
+SHA1-Digest: TB/dIeQZjtfJaHbrbzAYfTF6MT4=
+
+Name: assets/pics/milutin_1865.jpg
+SHA1-Digest: RAiecKunbc2Rl5p0kiGHVrN2TKg=
+
+Name: assets/pics/picto/pers_blue.png
+SHA1-Digest: p0W0bsWvmBT/SE43JSKR/8/mRm8=
+
+Name: res/drawable-night-xhdpi-v8/ic_word_box.png
+SHA1-Digest: ANkVirDTtvtSZ7k6Uk5Gk68gpfw=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: I7yrQ7nrQC41MaIvtC0ygFTJm0c=
+
+Name: res/menu/bottom_nav_base_more.xml
+SHA1-Digest: WYx9Awj0ULinTyyJ5aQWQZh5EaI=
+
+Name: assets/pics/22june1941.jpg
+SHA1-Digest: CH413O0iiPVQfjVR0C95QFNmLjo=
+
+Name: assets/pics/yaroslav_1043.jpg
+SHA1-Digest: YkgQ0MO6nW0ZZG2Zy3R8hY8nEJs=
+
+Name: res/animator/mtrl_fab_show_motion_spec.xml
+SHA1-Digest: eWGDEqT/KrUUhKW8N2cNlSOTFrM=
+
+Name: res/anim-v21/design_bottom_sheet_slide_in.xml
+SHA1-Digest: gxX2DeRqkewPnwrkIIO/PswQb40=
+
+Name: assets/pics/russia_gubernii.png
+SHA1-Digest: Luus/V0JZ5niTBvCR1hynjtHMN4=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.pn
+ g
+SHA1-Digest: ZMTKws3Yf0EOK1CpWECY7+yKtn0=
+
+Name: assets/pics/katerina_2_4.jpg
+SHA1-Digest: GLPSuCroYfEDuHuilpVVdTk/mDg=
+
+Name: res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: /irrV5qi5QeT+gQcCsR8hXIg+Xk=
+
+Name: assets/pics/picto/shape_blue_l.png
+SHA1-Digest: kmOVe/LnEmRO6e8XBJ5Zps1TYPU=
+
+Name: res/color/mtrl_card_view_ripple.xml
+SHA1-Digest: DVZSLEA7iwikq4UO/g47Aglbby4=
+
+Name: assets/pics/gallery/paint/spas.jpg
+SHA1-Digest: c9KAeJTI+RwdtxQkFGPH67DN7d0=
+
+Name: assets/pics/maps/map_razin.jpg
+SHA1-Digest: WDl5eYhJdevXOCWOvL/wG3mE3tU=
+
+Name: res/anim/fade_out.xml
+SHA1-Digest: pDwWyvX2D2CFP032Q7z4dt/EWb8=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: nrSR6Cj5AAFhLDBo5XOuCzzOUCE=
+
+Name: assets/pics/petrashevsky.jpg
+SHA1-Digest: H3PeRnx1LeQYh5NtXyCTHDFDAPY=
+
+Name: res/color/mtrl_tabs_icon_color_selector_colored.xml
+SHA1-Digest: WyYzPBPXOlWd4FZZR6NCpR21MxY=
+
+Name: assets/pics/battle_poltava.jpg
+SHA1-Digest: WoLkn1iPIS1xvxXCkBeKaUB/F7g=
+
+Name: assets/pics/mongols_vladimir.jpg
+SHA1-Digest: +llOdF4WLPZgvQ5nyZ8rKx4twNA=
+
+Name: assets/pics/tserkov.jpg
+SHA1-Digest: igV99FJCQIUL3TQdBV7Oau0YbGg=
+
+Name: assets/pics/stoglaviy_sobor.jpg
+SHA1-Digest: PQkOqTh0FCVeBlQ9LilpT4CHSgg=
+
+Name: res/drawable-v21/progress_vertical_green.xml
+SHA1-Digest: Ao/v6QhsGDphedwc5ssigi7pYHE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: oNMmaxvntxz3TzvTAEE9bmNV3AI=
+
+Name: res/layout/note_item.xml
+SHA1-Digest: fI14dcDN8pY9wdEx2QcmWhOzeN0=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: 4eyqloBe4i++Lnjut9rv30zXGjc=
+
+Name: assets/pics/gallery/paint/lopuhina.jpg
+SHA1-Digest: JrP3ELRdobsoPvIzSdz6m28sXvo=
+
+Name: assets/pics/rynok.jpg
+SHA1-Digest: NRs9jQp8s0OsC+JCB5hK9ronZws=
+
+Name: res/drawable-anydpi-v21/ic_arrow_down_24dp.xml
+SHA1-Digest: NJPGyviXGOHx8cRNihAjv4XTguw=
+
+Name: res/drawable-ldpi-v4/ic_arrow_down_24dp.png
+SHA1-Digest: FXn0wrWgrP5vEXDTI0MBX9Mn1cI=
+
+Name: res/drawable-night-hdpi-v8/ic_document_box.png
+SHA1-Digest: kDb378oHY/YD2TNf4bp/zx5HTAQ=
+
+Name: assets/pics/stalin.jpg
+SHA1-Digest: aMblvareV9oPWElSaBBb1LZEhMI=
+
+Name: res/drawable-xhdpi-v4/ic_zip_box.png
+SHA1-Digest: 1eL/WuDC4WPz2K1JfDw5jUqnfys=
+
+Name: res/layout-v26/mtrl_calendar_month.xml
+SHA1-Digest: gAlfmiK7iuFbylZ3g03i+dGvi+U=
+
+Name: assets/pics/notes/crown_king.png
+SHA1-Digest: fGqPn1WRCD2PqWqCUKy1kuZG3c8=
+
+Name: assets/pics/kirov.jpg
+SHA1-Digest: 6msTzCbyJEmdBcHLbWeEx6f6xI0=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: res/layout/activity_progress_stats.xml
+SHA1-Digest: bdSK/LmGuWTLfLSWeTWFBiePKgc=
+
+Name: assets/pics/notes/flag_orange.png
+SHA1-Digest: cxx3kdPJudx3SMZ79vX/l8TfMYw=
+
+Name: res/layout/activity_ucat_archive.xml
+SHA1-Digest: 9roapmt+6fs0+xcMoZnDEYTOm4I=
+
+Name: assets/pics/picto/flower_blue.png
+SHA1-Digest: TTFZtnQZ3HeRd/PhK8MIKKuxMQo=
+
+Name: res/drawable/ic_emo_good.xml
+SHA1-Digest: 1evipBA80LID4dtjgSyyL4e+bPE=
+
+Name: res/anim/slide_in_right.xml
+SHA1-Digest: vS+bjU3EGoFi39O/EJHmpl5fjEg=
+
+Name: assets/pics/gallery/monument/monument_jukov.jpg
+SHA1-Digest: spHjXBX98lDF6TClnL1pVeugs3Q=
+
+Name: assets/pics/maps/map_battle_1709.jpg
+SHA1-Digest: njxB+EON/8LzWbhIp14nIma2UXo=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.p
+ ng
+SHA1-Digest: NlZeJG8MEHDXkZ6eZeHaVGnlZgM=
+
+Name: res/layout/custom_dialog.xml
+SHA1-Digest: sqCqH/12QWkesPeXydIHAfU3Px0=
+
+Name: res/layout/fragment_prefs.xml
+SHA1-Digest: WIso1lxefvIj1FAIpgGXpnEptzg=
+
+Name: assets/pics/krasnogvardeytsi_2.jpg
+SHA1-Digest: Y/1+FqETYhnSr+S1tbACrj82gY4=
+
+Name: assets/pics/picto/shape_green.png
+SHA1-Digest: Xaeysh/XpKreb4U+BHRFv7Bh6k0=
+
+Name: assets/pics/ww2_perl_harbor.jpg
+SHA1-Digest: Efp62uoMpKp5EzptSpecIc9/B1Y=
+
+Name: assets/pics/rajevskij.jpg
+SHA1-Digest: iJsseUZPY141JsuefKHn3TGoUx0=
+
+Name: res/layout-sw600dp-v13/design_layout_snackbar.xml
+SHA1-Digest: j4Mqu1/CLQqX2qiFyxmXsYT0VCE=
+
+Name: res/layout/dialog_confirm_remove.xml
+SHA1-Digest: 0+g36XE3Oerc9AohLLYECTEEXv4=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 4yQp5RGqcPJVhL3STB21W1r3uqI=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: 8guTAEXvUmh+eaLeokeYvH7643o=
+
+Name: assets/pics/gallery/arch/dom_pashkova.jpg
+SHA1-Digest: H+FuIWLuTAI5lGH+RonhAr5vX+Q=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: Q/O2n5kJkEtI6LRrVpGVjadpHX8=
+
+Name: assets/pics/kuchum.jpg
+SHA1-Digest: JM0ccU/gK/w5ChKjQ7GN/eRG6x8=
+
+Name: assets/pics/pravda.jpg
+SHA1-Digest: fYq6a4puVUdq1Z+rm0MAArx6m20=
+
+Name: res/drawable-mdpi-v4/ic_drawing_box.png
+SHA1-Digest: VX/ysTwoh1jAhIX8wCsbnSFHzpU=
+
+Name: res/layout/activity_image_detail.xml
+SHA1-Digest: ibPrO3RpEFr27m5xVK+swjvIQYE=
+
+Name: res/animator/design_fab_hide_motion_spec.xml
+SHA1-Digest: yKY1kL0amU4iulqJjqFX3N8HjO4=
+
+Name: assets/pics/krim_han.jpg
+SHA1-Digest: V4dYAUincmpC/GMoimRYWmifPHA=
+
+Name: assets/pics/gallery/paint/neizvestnaya.jpg
+SHA1-Digest: JMHxzGRSh3y7yw5uKbfB2ldMUfk=
+
+Name: assets/pics/gallery/pers/pers_esenin.jpg
+SHA1-Digest: iEkIKI4Wt3uZwbpGDyWJ0bEomOc=
+
+Name: assets/pics/aleksandr_tilzit.jpg
+SHA1-Digest: ehA6y5Tlwtnh35WAcnWYY4RohhM=
+
+Name: assets/pics/riot_novoch.jpg
+SHA1-Digest: Po04TRpza3S5y9Uo4srhR2WeuHU=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: lP85nXzNzaRJULgljjBQBBKL824=
+
+Name: res/drawable/ic_stats_test.xml
+SHA1-Digest: B9TqwwO8caRR7jvHGG8JVRryags=
+
+Name: res/drawable-xhdpi-v4/ic_arrow_down_24dp.png
+SHA1-Digest: CK17iBhxxOdDFQJyzM9IvYAz9RA=
+
+Name: res/drawable/ic_info_item.xml
+SHA1-Digest: RjWtn1qsO2md6hmE9uFQILMB2y8=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: xc9EUi8JbA506uG62boWpLo9DB8=
+
+Name: assets/pics/kutuzov.jpg
+SHA1-Digest: kY+qT4A4Hz0lVPNBvDFZN7gb9Ck=
+
+Name: res/layout/radion_option_tem.xml
+SHA1-Digest: Lk1PVGD9cn4CMBrhivgclIDSIOw=
+
+Name: res/color/mtrl_filled_stroke_color.xml
+SHA1-Digest: yQbQ/MWSf/1xSfl5bwKl2nZRfh0=
+
+Name: assets/pics/gorby.jpg
+SHA1-Digest: s1s6gz9ujlB1jCTB8uA5TBIxyxE=
+
+Name: assets/pics/french_war.jpg
+SHA1-Digest: CzPJUB9Z3xGEdZ2mlyYcWpwTICs=
+
+Name: assets/pics/kamenev.jpg
+SHA1-Digest: EiS33rierNLebQFsYvhpJSpvDUQ=
+
+Name: assets/pics/ww2_kursk.jpg
+SHA1-Digest: uhZB+BFADwW7eN948cLHMIlGWb8=
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: dOXQD8h3YWfM1HdKhYNaenJKxGE=
+
+Name: assets/pics/ivan_kalita.jpg
+SHA1-Digest: Gtj82ek9mZ/8YzjvuoCFKlqVVQ8=
+
+Name: assets/pics/war_litva.jpg
+SHA1-Digest: 79lfqvXxJ6PNeT8fuN4EpVVlvXE=
+
+Name: res/drawable-night-xxhdpi-v8/ic_music_box.png
+SHA1-Digest: TM/vUwX2Gp+tyLTNmwQJm+yMvOo=
+
+Name: res/color/material_slider_active_tick_marks_color.xml
+SHA1-Digest: EqAE7ZeBBKGUGtFoJ8LaL6q0Qls=
+
+Name: res/drawable/test_custom_background.xml
+SHA1-Digest: Uua3USm9QiCQPeMTwqMuRYKO1Wg=
+
+Name: assets/pics/chevarnadze.jpg
+SHA1-Digest: vIoYRwJMIg/93M4H1a+Kwizwd+w=
+
+Name: res/anim/fade_in.xml
+SHA1-Digest: OLL0EAWSf7HhjOwMC9auI0vWdLs=
+
+Name: res/drawable-night-xhdpi-v8/ic_drawing_box.png
+SHA1-Digest: WWkd9UCgXWILhFKDljNVuxqjxGs=
+
+Name: res/layout/mtrl_calendar_vertical.xml
+SHA1-Digest: NBe38GOZ1QfxwEE3QYcDGe7rN0M=
+
+Name: assets/pics/maps/map_pugachev.jpg
+SHA1-Digest: E/WrejnfVAoZGmDhg35lp0/xfdc=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: qYVwLmRV5dEgD+lGrTB+vnPWnDs=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: aOHscrMdohZJBfwHauYtj9LvYTw=
+
+Name: assets/pics/tsarevich_dmitri.jpg
+SHA1-Digest: KE4D6ojtHBtT6ZFfbxts3ZBLX50=
+
+Name: assets/pics/silvestr.jpg
+SHA1-Digest: 2Q3UEfbaqtBu/OPcU2CMK0Q4Muk=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: OBELUky/hMRu50hd+fRgMPXT3ZE=
+
+Name: assets/pics/gallery/sculpture/sc_grozniy.jpg
+SHA1-Digest: DTUfDxCZKrQrWpiy0pXlxOOJKp0=
+
+Name: assets/pics/hram.jpg
+SHA1-Digest: Afb2DdZWP+3wGEYIKBDKV96JEec=
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA1-Digest: f4KUFxH1Jg6siUb3Oy6Lkg0ElQo=
+
+Name: assets/pics/daniil_moskva.jpg
+SHA1-Digest: q1Zjcuq4vRahkcNqgzmnTfofBtw=
+
+Name: res/drawable/ic_star_border_older.xml
+SHA1-Digest: +v2wPTyc8YfmB9+QsdaOSrhcCNE=
+
+Name: assets/pics/bluher.jpg
+SHA1-Digest: kieavAlu2/QpqMd6Sk8p3Mafdsg=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: +app1PnQgJUnK3bImFTrQ2ALwSQ=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: Lt73A7D4KTpDcrxpQ2Qn0T/ubYE=
+
+Name: res/layout/activity_cat_data_stats.xml
+SHA1-Digest: BYBBRSGhgFiqFg3Dax19TTB7vAs=
+
+Name: assets/pics/gallery/sculpture/sc_iron.jpg
+SHA1-Digest: k3P/WKd6JAT4cAkvIPh17Vwmwc8=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 0OG2GgwzcQVFzj+BwQ+1UYki6vU=
+
+Name: assets/pics/lvov.jpg
+SHA1-Digest: CpbqclWX5ZKsw6PJ3pEyHNUmFms=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: doXTq0PGlseahO7qxrAxAjB7JIA=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: oWuW+wf7RDugzGE5OcOKk/wfAWQ=
+
+Name: assets/pics/gallery/flag/flag_1858.jpg
+SHA1-Digest: UUUSewrBHwXM14SpAqa1NkPrfe0=
+
+Name: assets/pics/notes/book-open.png
+SHA1-Digest: wCG+ptAw4CPFvtTYvbT7jCCBxx4=
+
+Name: assets/pics/battle_neva.jpg
+SHA1-Digest: osLyT57R/vaxg2ujxghgHOn0c6Q=
+
+Name: assets/pics/delyanov.jpg
+SHA1-Digest: 7uF02D9ZRzGDvCND/YUMqT7Z6MM=
+
+Name: assets/pics/battle_grengam.jpg
+SHA1-Digest: rDpk8h/V+WcR3Wg/BogbmgDXZuU=
+
+Name: assets/pics/dogovor_deulin.jpg
+SHA1-Digest: CbsFfDGds16Bsa59OyGsg0We2uE=
+
+Name: assets/pics/gallery/monument/column_alexandr.jpg
+SHA1-Digest: 9kpk81EMYzRngZCoxYVXQda4pJc=
+
+Name: res/drawable/ic_gallery_item.xml
+SHA1-Digest: hVythU7iAOmhEF4LlGo+vVmV5eY=
+
+Name: res/drawable/ic_star_tool_border.xml
+SHA1-Digest: Dyg6oef1lDU7VrErdL+pWj30CJU=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: vs5sXFVGnqpXFZuXg+uY+nALal4=
+
+Name: res/drawable/ic_archive_toolbar.xml
+SHA1-Digest: HJ1wIHMFikLcKLIs4NSwBcC8g+A=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: hWrdXoC/eBvOmJQhh4BPUNvOFC4=
+
+Name: res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: w8+RBD8wMiMBu8QYz2SticlAqhY=
+
+Name: res/color/mtrl_calendar_selected_range.xml
+SHA1-Digest: 8v0Bi+uRKucLLtCjRygIbBaxg24=
+
+Name: assets/pics/gapon.jpg
+SHA1-Digest: 41LspfJ2qE6tK9ZKSuLYSXhUoL4=
+
+Name: assets/pics/maps/war_livon.jpg
+SHA1-Digest: V7hbLqDSlldD01MjpMxPSP0hWIY=
+
+Name: assets/pics/skopin.jpg
+SHA1-Digest: 3qlDFr5DH4QzNdnbO6SM05HRhDs=
+
+Name: assets/pics/gallery/paint/svatovstvo.jpg
+SHA1-Digest: qgzOVz9/x6dJ3Zin0K1jzseP2XY=
+
+Name: assets/pics/battle_alma.jpg
+SHA1-Digest: Sy9SL3kYoqDn13EAkEvMQ2sskQ4=
+
+Name: assets/pics/gallery/paint/devyatiy_val.jpg
+SHA1-Digest: 8GExw7Q4a/D+if18tW6NQEdcIq0=
+
+Name: res/color/mtrl_navigation_item_background_color.xml
+SHA1-Digest: F0Fuj6TopONcuqpvoDo6q9rLvOo=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.pn
+ g
+SHA1-Digest: NlLE4WLe09sFAjGcYGx9OeUuyzA=
+
+Name: assets/pics/nikolay_2_0.jpg
+SHA1-Digest: Kvu0alcWEE1lyjlANyV1K+ErW40=
+
+Name: assets/pics/mahno.jpg
+SHA1-Digest: RZwtwxIR/6TOfpXkvVB/kiv50Os=
+
+Name: res/drawable/design_password_eye.xml
+SHA1-Digest: bXt1BWYL1ZqwyNASgv4t1KGDKNQ=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: sk0rERRHxBHTLx83NS6FqhClw8o=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: evq/KAk8pbUnIJoPVRfhbdmK8SI=
+
+Name: res/drawable/ic_fullscreen.xml
+SHA1-Digest: t2A6mW4qrsQewknwGFunapBRqMk=
+
+Name: assets/pics/trubeckoy.jpg
+SHA1-Digest: IzdjdZ+DIbMBIMn3qnrx3ybzCoI=
+
+Name: assets/pics/festival_1957.jpg
+SHA1-Digest: rKuz1RqLj1hVBjwdOhFLim4i/HY=
+
+Name: assets/pics/sergiy_radonejski.jpg
+SHA1-Digest: 0g6uebhr/MlrBo2ICz/3Wd8hdSw=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA1-Digest: phBJ0kDcIfqluXE1RO48r+vIQks=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA1-Digest: F28kXxHsAXAcNeoDj9kw/YB9tvY=
+
+Name: assets/pics/riot_moroz.jpg
+SHA1-Digest: M3ZlvRs8ki7OC4228lW8Qwzf4W4=
+
+Name: res/layout/mtrl_alert_dialog.xml
+SHA1-Digest: 6FgQZFT8wDh/zSVWo4mAGFEiA3E=
+
+Name: assets/pics/battle_sinop.jpg
+SHA1-Digest: muoZLlS+5xYhTciqe/QiFPpWDec=
+
+Name: assets/pics/revolution_february.jpg
+SHA1-Digest: D7sxwWslRPYhOD8vmxbpRvFBXGM=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=
+
+Name: res/drawable/ic_delete_toolbar.xml
+SHA1-Digest: X/h/JnqZgLiqRjnw8AbFVvfhvoE=
+
+Name: assets/simple_structure.json
+SHA1-Digest: 8pyVvasmyvAfanqhth+z+Wzvp78=
+
+Name: res/drawable/ic_star_dialog_inactive.xml
+SHA1-Digest: DOQhrsubTZCrB8WF1B456Tfk8BE=
+
+Name: res/layout/popup_actions_archive.xml
+SHA1-Digest: tfHUpfFEF9qW0YUKJdyoMZCapeM=
+
+Name: assets/pics/gallery/paint/petr_3.jpg
+SHA1-Digest: ZTm15zfpv5FXxpL3WyhCQgCQMOc=
+
+Name: res/drawable/btn_checkbox_checked_mtrl.xml
+SHA1-Digest: lorsme/bDpD1w3cdHl7vFMRGtTw=
+
+Name: res/drawable/ic_nav_stats.xml
+SHA1-Digest: t4wEIJeI3OhjYOWihIWUcDiSrqQ=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: u0BDMRMzXDXc536hJuSAWCU346w=
+
+Name: assets/pics/gallery/sculpture/sc_rock.jpg
+SHA1-Digest: 10g6sFUj3SK+8F+fxdwRfMW4Tz0=
+
+Name: res/color-v21/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: edCGOxmi8FAD34T6cD5CbROSMLM=
+
+Name: res/layout/abc_cascading_menu_item_layout.xml
+SHA1-Digest: 5sZjHCwtaJtrg6ya+GZNIF1tBfM=
+
+Name: res/color/mtrl_chip_close_icon_tint.xml
+SHA1-Digest: BspydzdQ02VnS2wTsFO3AqPOomU=
+
+Name: assets/pics/moskva_rost.jpg
+SHA1-Digest: 6YzZc3GIT6mC4YQS7CR+twWcQ2A=
+
+Name: assets/pics/krim_war.jpg
+SHA1-Digest: qJ0pPo068PGrhAAkJpzqxEt310I=
+
+Name: assets/pics/nikolay_1.jpg
+SHA1-Digest: tibLEbi/cLkhxMsVJ6AzjAnm2Nw=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: MMW5ShwB1m9oRvGdlbR//t0h77U=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: QkrkIsgl0goUJMF9TOYWcYiVBlQ=
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA1-Digest: ugsu0w/PdzNIraUKEXCZ4VPasa0=
+
+Name: assets/pics/maps/rus_11v.png
+SHA1-Digest: 6XcuN/Y6X2PWN9Z7p5IOBMytnzA=
+
+Name: res/anim/slide_in_down.xml
+SHA1-Digest: XOw60I7sMfnQa/CdB6pwVEPudsQ=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: O4LV3MlKvjWNJh2evtOBliiMkuY=
+
+Name: res/layout/activity_note_edit.xml
+SHA1-Digest: sLChz/HFtZQdP3nVZu/DRYY7u04=
+
+Name: assets/pics/lewenhaupt.jpg
+SHA1-Digest: lmopjjdjPKgTM6U08ghpys//RO0=
+
+Name: assets/pics/notes/empty.png
+SHA1-Digest: O6Hsab4qG5kQj5Q1yfmWEOtdKsc=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: CUTo0hgVLf4sZdNMZeKkTge3hSE=
+
+Name: res/drawable/mtrl_ic_cancel.xml
+SHA1-Digest: AzPXw9wxGesponVX6M2O1QLEaUA=
+
+Name: assets/pics/battle_kunersdorff.jpg
+SHA1-Digest: 0LRNt0cWwpiZK+s1i3xWlAXE1Og=
+
+Name: res/layout/preference_list_fragment.xml
+SHA1-Digest: yjXBp9Z2Zg+8NcKEfXzNKjGa5LQ=
+
+Name: res/layout/home_grid_item.xml
+SHA1-Digest: WDeC9rRFB32lm8csgILpHH/dWc8=
+
+Name: assets/pics/katukov.jpg
+SHA1-Digest: iWpdsfgVykRYACks0C9rq4NFhhI=
+
+Name: assets/pics/polsha_upadok.jpg
+SHA1-Digest: /wWBtZ6ws/0JYCwH+9bdEMIN6Mc=
+
+Name: assets/pics/tkachev.jpg
+SHA1-Digest: UEPAwp+R+Z63fdxDKN0Zte8yOzM=
+
+Name: res/drawable-xhdpi-v4/ic_video_box.png
+SHA1-Digest: 5juhtvBGPAYP1q9ufahthY3FZgw=
+
+Name: assets/pics/kaganat.jpg
+SHA1-Digest: xS7FPhkMFHL6J+U/N8g5tDNEXm8=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.p
+ ng
+SHA1-Digest: 1cl/IsP/z8hq0fSoUb3Z29rLRVM=
+
+Name: res/color/test_mtrl_calendar_day.xml
+SHA1-Digest: uvPjNdVvJv1wXFle/f3yRu4bEWs=
+
+Name: assets/pics/notes/mountain.png
+SHA1-Digest: 1kdd1N+CL9ne6efhSdHgmBw/plc=
+
+Name: assets/pics/fedor_3.jpg
+SHA1-Digest: Ri7ZEcyftiLwtkT1LS5Xs/8vLME=
+
+Name: assets/pics/shuysky.jpg
+SHA1-Digest: zd6MZG95MIRxtMvxPCt3CZ/BlqM=
+
+Name: assets/pics/gallery/arch/zdanie_mgu.jpg
+SHA1-Digest: 5GAQAEKjVo1d9djcip8XEwsO+Ww=
+
+Name: res/drawable/outline_list.xml
+SHA1-Digest: zMBgN/cvDil6a2ZpK1wJD80e6I0=
+
+Name: assets/pics/kolchak.jpg
+SHA1-Digest: KTIfReJyOzZvMegnpNwGF5t7FBs=
+
+Name: assets/pics/sheremetyev_b.jpg
+SHA1-Digest: 6ot9Hn/+pGSmiixhQPgH71hGimk=
+
+Name: assets/pics/maps/map_ussr.jpg
+SHA1-Digest: ENNJ2KcHfnlutWCPbnW5FQSH28E=
+
+Name: assets/pics/vsevolod.jpg
+SHA1-Digest: q4wRnxEx8DKeVWC9WrIbbyI4b2M=
+
+Name: res/anim/fade_out_2.xml
+SHA1-Digest: dDWZFcy5EqWoHX6pISbB+VnmCg8=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA1-Digest: weiMhk/DCcn3ybdTuKh909t1/ME=
+
+Name: res/layout/bottom_sheet.xml
+SHA1-Digest: TI/8FNalna8EQBu70zLb9we1Vkk=
+
+Name: res/drawable/ic_school.xml
+SHA1-Digest: g+zuyn5zlVCj17imI4NpTEjy+EM=
+
+Name: res/layout-v21/preference_widget_seekbar_material.xml
+SHA1-Digest: aFRfPRZmEqZWLpry8i5dILoQ+g4=
+
+Name: assets/pics/styatoslav_yarosl.jpg
+SHA1-Digest: A5IvDVx4qj9HzO/dli2mCDvJE50=
+
+Name: res/layout/content_scrolling.xml
+SHA1-Digest: yHHfiMsOL+GzRDN6yT3a6D6nSqU=
+
+Name: res/anim/abc_tooltip_enter.xml
+SHA1-Digest: hDkj3Nfts/tbwmeqPEJsq03Yxb4=
+
+Name: assets/pics/battle_hasan.jpg
+SHA1-Digest: 1CFUQH6e7possUoLU3QtOR7MxVM=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: lHP2KU/WCXjWVnoatuFo6tnTPPs=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: pS2IISWVF11RXQXLyxHF6AODLJQ=
+
+Name: assets/pics/niva.jpg
+SHA1-Digest: 7X5WtJRJHJaOPoUyXI6zcHVRTvA=
+
+Name: res/drawable-xhdpi-v4/ic_certificate_box.png
+SHA1-Digest: QGnwKgzrGUgozTT6hxscPSXEsW4=
+
+Name: assets/pics/ship_1922.jpg
+SHA1-Digest: 7xYcylv887xyzFclgMDO4a11MFw=
+
+Name: res/drawable-xxhdpi-v4/ic_video_box.png
+SHA1-Digest: ddNZldjAZPEs2w/f/+hEJwFz/ho=
+
+Name: assets/pics/maps/map_war_1856.jpg
+SHA1-Digest: QjF1JueH+e1T7F0pnUx+BVqqFNM=
+
+Name: res/drawable/design_snackbar_background.xml
+SHA1-Digest: FAkhzRfZmwwWOAuHhtmPiVUJaXo=
+
+Name: assets/pics/gallery/flag/flag_1914_united.jpg
+SHA1-Digest: DFnT+62jhvWVJSTWQo8amD2ygjo=
+
+Name: assets/pics/gallery/paint/vsadnitsa_t.jpg
+SHA1-Digest: Fybq+33s3Rk/PPUQ7i/HggG7TK4=
+
+Name: assets/pics/maps/rus_1725.png
+SHA1-Digest: a2AZFlZukWAL264SgVR5lry8ltc=
+
+Name: assets/pics/fedorov.jpg
+SHA1-Digest: lV2emyqVnTAyfjaPBDZKBR8tNgE=
+
+Name: res/drawable-night-xxhdpi-v8/ic_video_box.png
+SHA1-Digest: kTodXMmyJZ23sbCFb3i08qUe8qY=
+
+Name: assets/pics/gallery/paint/zhatva.jpg
+SHA1-Digest: TdYDqiX/wOQ1Ah99+g2JsEZz5WM=
+
+Name: assets/pics/stachka.jpg
+SHA1-Digest: cTa8BSR2Qn5FkEyQKzL4lRHOpQM=
+
+Name: res/drawable/ic_nav_info_dialog.xml
+SHA1-Digest: Y1/QuWskk4wNCIbJfBu6l4xXHEc=
+
+Name: res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+SHA1-Digest: grTm5A/VX/yJpall/02zmhUaRJw=
+
+Name: assets/pics/gallery/sculpture/sc_swimmer.jpg
+SHA1-Digest: 2pdQBTRv1ZqqDMQPBPhhbjnvxkQ=
+
+Name: assets/pics/ww2_elba.jpg
+SHA1-Digest: k9u6J4JwbGFRSxXF2UeQfHloJ7A=
+
+Name: res/drawable/ic_replay.xml
+SHA1-Digest: bCErZusSVFBMaAUcxmZXylwPbts=
+
+Name: assets/pics/notes/church.png
+SHA1-Digest: HWj2+z5DeSJfO4K/h7y5Plv5E+4=
+
+Name: assets/pics/gallery/arch/sobor_dmitrievskiy.jpg
+SHA1-Digest: qmncL9yBt/vAzeN+/Z0PCZNVbSw=
+
+Name: assets/pics/maksim_mitr.jpg
+SHA1-Digest: +79hXKES0qWi/ZEAqPXlRk9j/Cc=
+
+Name: assets/pics/war_1937.jpg
+SHA1-Digest: uF/bmVnUQZ4G0qhFJXBi79ss1Ok=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: YWbbt9prsOJPwsIvkwmEAQ9AjM4=
+
+Name: assets/pics/gallery/paint/progulka.jpg
+SHA1-Digest: 8A5ysvIM9serehNbKlncJq8/58M=
+
+Name: res/drawable/ic_stats_history.xml
+SHA1-Digest: lbGwi1fU4sYGsDkReaZyg6VgBsk=
+
+Name: res/color/mtrl_chip_background_color.xml
+SHA1-Digest: UZC8r5/dV8JXhAFgWj7ivalFOD4=
+
+Name: assets/pics/rada.jpg
+SHA1-Digest: NPauVJOu58Lmj+NIRkdQZyOywQg=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: res/drawable-night-mdpi-v8/ic_excel_box.png
+SHA1-Digest: 1Ext0KBVXd1foxJaNZ9zbJgQ6rU=
+
+Name: res/drawable-mdpi-v4/ic_folder_48dp.png
+SHA1-Digest: mb1VmkZkAPn6rmiIqSB7uFsyRAQ=
+
+Name: res/layout/design_navigation_item.xml
+SHA1-Digest: TxPCjs3rPdX6MgHsEa+rmrwlsXo=
+
+Name: classes.dex
+SHA1-Digest: XeGGAoTzetEjvTQg5muF0CW8ykA=
+
+Name: res/color/design_icon_tint.xml
+SHA1-Digest: J10iRJyrZGWpXR6/PLsjbe0iwEw=
+
+Name: res/color/material_on_surface_disabled.xml
+SHA1-Digest: dHNW/nruhBp6tthXeDDIraCYqWs=
+
+Name: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: KQunCQh0E4bP0utgN0cHdQr9OwA=
+
+Name: assets/pics/gallery/monument/tsar_pushka.jpg
+SHA1-Digest: GUdfjEnYnr++nII0e2wOUqqnrIo=
+
+Name: assets/pics/battle_borodino.jpg
+SHA1-Digest: n9GKLqvC5zWvl0OhmmNtPK3xJ3I=
+
+Name: res/color/mtrl_fab_bg_color_selector.xml
+SHA1-Digest: vM7VUxCTePLNow6XnkqRku4cUVU=
+
+Name: assets/pics/sviatopolk.jpg
+SHA1-Digest: wOSjQgdJNUxz6yusvSVAOUwiMWI=
+
+Name: assets/pics/eltsin.jpg
+SHA1-Digest: KcC+LPrf8cEaG2AJOsvHjakWYF8=
+
+Name: assets/pics/picto/pers_green_l.png
+SHA1-Digest: yDIfKqXwyMtaPM7h80xT93iT37Y=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: assets/pics/perovskaya.jpg
+SHA1-Digest: Zc4/vsQhkkjCd1tyE16ns7FSP84=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: 02nBcK0ou91ukynkxGLtaBHy3KA=
+
+Name: assets/pics/suslov.jpg
+SHA1-Digest: g0rz8fAi96VpXLN97cmsUcQGutY=
+
+Name: res/drawable-hdpi-v4/ic_drawing_box.png
+SHA1-Digest: KCffr4pT7hEQegRoOOWLP0E7NYg=
+
+Name: res/drawable-xxhdpi-v4/ic_arrow_down_24dp.png
+SHA1-Digest: jU20ZeIyChpUrkGrMgZbCoAxxmM=
+
+Name: res/drawable-mdpi-v4/ic_video_box.png
+SHA1-Digest: L5fu7NBSKBgQodggv2IEpL+x6vU=
+
+Name: res/drawable/ic_menu_search.xml
+SHA1-Digest: SbPCyfDiVTer7SFpLGErvP7GA+U=
+
+Name: assets/pics/picto/image_red_l.png
+SHA1-Digest: djZMOO657q/W3TDOrLXmQ6S3Gmk=
+
+Name: assets/pics/gallery/monument/monument_nikolay_1.jpg
+SHA1-Digest: ZKgUbM8RX+kcYr3HOXkhnWTlvYo=
+
+Name: assets/pics/gallery/pers/pers_soljenitsin.jpg
+SHA1-Digest: MRDkXj9YfJvCYh0mp3svfMMiBpA=
+
+Name: assets/pics/vasili_2.jpg
+SHA1-Digest: eXPhC+71L+Sqvsi6zESMLk7ZB1s=
+
+Name: res/layout/fragment_cat_2.xml
+SHA1-Digest: aP7lqTPk8HJCG1cKFXRZNuHl9VU=
+
+Name: assets/pics/gallery/flag/gerb_ussr.jpg
+SHA1-Digest: UauwkfALv7FjOVDMl1PpRuDFB2M=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA1-Digest: fJSE0nVY/aXx8gVbBmqEA4Ocoss=
+
+Name: res/drawable-xhdpi-v4/ic_document_box.png
+SHA1-Digest: k77R4imtDWJspuOB9aWhYk66wkw=
+
+Name: res/layout/activity_detail_include.xml
+SHA1-Digest: lJ8d1o20cIQuofHVRTQ8NL9jK8k=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: xgnROefed1vgMaxaqCgtRMAIU/Q=
+
+Name: res/drawable/ic_tool_exercise.xml
+SHA1-Digest: hqFcDFE80feK4wqjHBL9UsXSMEs=
+
+Name: assets/pics/adashev.jpg
+SHA1-Digest: auKBVqpuTOVzAnh82kvFLFSxoN4=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: 8RJKeE4cMWr11qQzkXylS7FMiaY=
+
+Name: assets/pics/gallery/paint/kupanie_konya_t.jpg
+SHA1-Digest: HNT/QYVrEnUyWLybvF0i1+EoP9M=
+
+Name: assets/pics/notes/basketball.png
+SHA1-Digest: TkjhCCdcKSqH44OE7iL91zyG8LM=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: 5ETrJ0P6KM4asgYFS4qjNuLPsdI=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA1-Digest: gEASdCSZRJ4YOoVpRWWNHiS124A=
+
+Name: res/color/mtrl_filled_icon_tint.xml
+SHA1-Digest: ypU54LlGwXzlwbX7Lozs/wenQxE=
+
+Name: res/layout/preference_widget_checkbox.xml
+SHA1-Digest: BJwLvuKsGY+qV2U8tJDVmyZa9mo=
+
+Name: assets/test_structure.json
+SHA1-Digest: l6IOhED1C4sgr1GyswsogvlBczE=
+
+Name: res/drawable-night-xhdpi-v8/ic_excel_box.png
+SHA1-Digest: lDNjc7mZsby1rEcZH9NPUvuiafc=
+
+Name: assets/pics/yaroslav_alta.jpg
+SHA1-Digest: TzC7n6FGDCzwFbQE120+s9t+oZg=
+
+Name: assets/pics/gallery/paint/noch_na_dnepre.jpg
+SHA1-Digest: 98wmYkNBQPWRnR8sItQg3+4ouk4=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: vKu7RFb+NhQUoNUzgJ9N4axYEr8=
+
+Name: assets/pics/kiselev.jpg
+SHA1-Digest: DZ5NdSc8XnTRO1aANVZeARMo7/U=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: Q9A39Gubbfmvh6wgqcLHzLWlGtU=
+
+Name: assets/pics/battle_izmail.jpg
+SHA1-Digest: LWPkWqmF4SadeMnPjJR+Vxd2XHA=
+
+Name: res/drawable-xxxhdpi-v4/ic_word_box.png
+SHA1-Digest: 39Ecd1NfGGNK65MQ4G+g/516Lcw=
+
+Name: res/drawable-xxhdpi-v4/ic_document_box.png
+SHA1-Digest: OnnuvFVu2KGseky4tZlm0IoOe9o=
+
+Name: res/drawable/ic_view_grid.xml
+SHA1-Digest: BMMnkWsTbINbqVOEsh+u5LO0PWo=
+
+Name: res/drawable/ic_lock.xml
+SHA1-Digest: dly3AQuZhyqJkeTKjr5htR6O21w=
+
+Name: res/drawable/ic_tick_option_error.xml
+SHA1-Digest: YDPsVdR2hjQsoSIRXrEgfeFQ5TM=
+
+Name: assets/pics/gallery/pers/pers_dostoevskiy.jpg
+SHA1-Digest: jQM49u1pJ7iJ2Dn10TtPGwBNTwk=
+
+Name: assets/pics/dogovor_lrsd.jpg
+SHA1-Digest: lYh6bpEmhdDU6Se6GhkdqlnJyRo=
+
+Name: assets/pics/ww2_kiev.jpg
+SHA1-Digest: nmYm84wFQScjAJZUJ9LHx26zMVk=
+
+Name: res/color/mtrl_fab_icon_text_color_selector.xml
+SHA1-Digest: ePZpsNTH2xx4SDk7iPSrFBrPTio=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: fJ9bPgtUdYiPfy2SUi0Dw7SAvZI=
+
+Name: assets/pics/tselina.jpg
+SHA1-Digest: RyITydNRAkQjh3EKUFkaf8gre+M=
+
+Name: res/drawable/material_ic_calendar_black_24dp.xml
+SHA1-Digest: cE5sbcruDehIfVlGyF6Q/FE4H5M=
+
+Name: assets/pics/gallery/paint/suprematic_kompositsia.jpg
+SHA1-Digest: Xdu8aa8uN0nN8T/sxdFQ+9apyHo=
+
+Name: assets/pics/gallery/sculpture/sc_shubin.jpg
+SHA1-Digest: Fcl3HEm5wDg7J61yrJz5e4KS7i8=
+
+Name: res/anim/fade_in_img_back.xml
+SHA1-Digest: aKmfQd+dHfjJ5vcPuBX7SSgxgaU=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: s67XyJ58V/nJ3gadGH+Bc7MppnU=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: lZvYglov/F7rh1bqR+gIZerpDBA=
+
+Name: res/layout/content_get_premium.xml
+SHA1-Digest: yDlkj2kWF9xfD3NLLmnA+En/tog=
+
+Name: assets/pics/gallery/pers/pers_svyatoslav.png
+SHA1-Digest: oXATKmSsQLMvK4Dl5czmQ36QWV0=
+
+Name: res/menu/menu_gallery_fragement.xml
+SHA1-Digest: 2qYRfFexAhKn8Ux3vmwHaH1Ie6M=
+
+Name: res/drawable/text_round_red_bg.xml
+SHA1-Digest: r2lVI/RPQFI870YGtnq94AVCR3E=
+
+Name: assets/pics/maps/rus_battle_1380.jpg
+SHA1-Digest: nkvFJnMtiYI5hiD5ijrV6Mk7odM=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: jfednz8uPSpGKGfZW9s4scCnTzU=
+
+Name: res/layout/test_reflow_chipgroup.xml
+SHA1-Digest: 0MndnzdQIt4NlfbNa6zkrEsF8ok=
+
+Name: res/menu/menu_gallery_activity.xml
+SHA1-Digest: vrwIlAWtTuXnFpjeHNtYnk9/C58=
+
+Name: res/layout-v22/mtrl_alert_dialog_actions.xml
+SHA1-Digest: 8Xb7yhkULhrkH9Gix8JilXHBiGQ=
+
+Name: assets/pics/picto/image_black.png
+SHA1-Digest: SsIPXfW0Hrho08S5KAh+RG8yOHA=
+
+Name: assets/pics/mongol_dan.jpg
+SHA1-Digest: H4+aTFkuTn0ihz2owZkqtJQvZxI=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: SnKN2n5JIeGfnXk3e5jzVPWib4k=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: UBWu2OXC5E5jZMKVbHUxTKOXrKo=
+
+Name: res/layout/activity_custom_data_list.xml
+SHA1-Digest: 953O17DQwg+6lMockLIaI+1TRkw=
+
+Name: assets/pics/gallery/arch/palace_ekaterina.jpg
+SHA1-Digest: LOqE+bimoxN+f4ny6SqXy1I2ul4=
+
+Name: assets/pics/gerb_russia.jpg
+SHA1-Digest: YzVeX3YFLlm1hZg1gO0uEsrqIzY=
+
+Name: assets/pics/ww2_karpat.jpg
+SHA1-Digest: ZZ2IX/NCC/ZcQE3fXxuvnvSu24c=
+
+Name: assets/pics/dmitri_donskoy.jpg
+SHA1-Digest: mBhdRUndaTDzEkXCL5lih88Szfo=
+
+Name: assets/pics/friedrich_2.jpg
+SHA1-Digest: rqt291XkTsm5oqJZdk+SuSUdbAk=
+
+Name: assets/pics/florence.jpg
+SHA1-Digest: 1CD/eYhFOuMDYzYGo1etJhxMy9s=
+
+Name: res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA1-Digest: O4LV3MlKvjWNJh2evtOBliiMkuY=
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA1-Digest: kfjIMPfl/t+3ryyvA3Vj/laKIBA=
+
+Name: res/drawable-night-hdpi-v8/ic_image_box.png
+SHA1-Digest: 97eJnAxbFpNrWsSgXSD/IaeWnoA=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: IKtTqnzlIY7DpFmknZLDUcK+O3s=
+
+Name: assets/pics/notes/house.png
+SHA1-Digest: U8R5wGL13IM518mP76FL27On/jI=
+
+Name: assets/pics/ivan_4_alt.jpg
+SHA1-Digest: yDw/1UVx66dNW7RZvLcOhrAD2mA=
+
+Name: assets/pics/semiboyare.jpg
+SHA1-Digest: dI8DeB2EZsstGx1SA70oQebZAoc=
+
+Name: assets/pics/battle_smolensk.jpg
+SHA1-Digest: 73aC//9XRKowk8ZRJ5xK6+q1mwo=
+
+Name: res/drawable-hdpi-v4/ic_powerpoint_box.png
+SHA1-Digest: 4BQg5zTDGN3aAJxw1QMi99Bc2+g=
+
+Name: assets/pics/gallery/monument/monument_suvorov.jpg
+SHA1-Digest: nOuxdyvXlX8HQLg2c/rXWKjR7E4=
+
+Name: assets/pics/udenich.jpg
+SHA1-Digest: bEEtFpXQuxCr/ajUjL2Ma1/+3KY=
+
+Name: assets/pics/astrahan.jpg
+SHA1-Digest: 42mIYdFE2jRqDrODu/muixyLQQ0=
+
+Name: assets/pics/stalin_end.jpg
+SHA1-Digest: JYfPMqWr+fi2KMeGnHZIBcGwQLU=
+
+Name: assets/pics/gallery/monument/tsar_kolokol.jpg
+SHA1-Digest: TN+p+H/+f6VSxcknuqrmRwXPWLI=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: rKn9bykS/S15HwhB01QfnElUA4A=
+
+Name: res/layout/fragment_starred_tab_2.xml
+SHA1-Digest: DJdQjBowANpxws8hClCcOafNRNA=
+
+Name: assets/pics/peresvet.jpg
+SHA1-Digest: MpbFNUW+wHZ0LAASVm9DuEzNRNg=
+
+Name: assets/pics/maps/rus_1132.png
+SHA1-Digest: 95Q52JCIrrAQH2mpQP9w/A6+Q/k=
+
+Name: res/layout/progress_item.xml
+SHA1-Digest: XAu1OHhs6JwMZSc7iygebzyNNCA=
+
+Name: assets/pics/chubays.jpg
+SHA1-Digest: g5Dg0KzAXFEd80PoaFmXnNtELNI=
+
+Name: assets/pics/secret_meeting.jpg
+SHA1-Digest: D+3rpACYvDyTBY7spHl0EiIVP6w=
+
+Name: res/color/mtrl_navigation_item_text_color.xml
+SHA1-Digest: ayHQnCyv7qlAve2hOZTxj0II0ec=
+
+Name: res/drawable/ic_mtrl_chip_close_circle.xml
+SHA1-Digest: jUtTmhCJG/H9KnhoaEC4HpAgYZU=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA1-Digest: V+7B/k1/3LoYD/H95uM+/9kTSrM=
+
+Name: res/layout/fragment_stats_progress_widgets_include.xml
+SHA1-Digest: GL1OAyI3nJixBoYoOpqBxC4Ezbg=
+
+Name: res/drawable/mtrl_ic_arrow_drop_up.xml
+SHA1-Digest: gAc7nMal9niuXYYqWIoQD7VIKEc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: ELHP/ybr6BY6lvp/69V+RfkZTGQ=
+
+Name: res/drawable/ic_star_dialog_older.xml
+SHA1-Digest: u07L46rZw/8d7Wx+73XZimpOy5w=
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: hhHr9GWuE7CPEyO0eAZQsjbgqEw=
+
+Name: res/drawable-xxxhdpi-v4/ic_close_white_24dp.png
+SHA1-Digest: 7ZrygBz8tiFzuKhv1bsLagRugX8=
+
+Name: assets/pics/golitsin_krim.jpg
+SHA1-Digest: D3qoA0f5YUyDfJ8P6sH4cKLk7ms=
+
+Name: res/layout/content_sample.xml
+SHA1-Digest: 7WcF/Nh/VA9WwRn5ttop7CvpL9Y=
+
+Name: assets/pics/konstantinopl.jpg
+SHA1-Digest: 3H32HP/VociMPojQqerFGG9TlMQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000
+ .png
+SHA1-Digest: WvHioMVsEnLk1hJoq6dqHvhFfjA=
+
+Name: res/drawable-xxhdpi-v4/ic_pdf_box.png
+SHA1-Digest: hkl89gDIlaSysxttAxzFtdj4qYA=
+
+Name: res/menu/bottom_nav.xml
+SHA1-Digest: zjlieqMu38WFmgoPMsRfLxWnQWo=
+
+Name: res/drawable-night-xxhdpi-v8/ic_drawing_box.png
+SHA1-Digest: vCgGxLbEWCj3CFWXObA/GWk2GyQ=
+
+Name: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: zND8CPcT8wBLOji5D5ZGNvi5kR8=
+
+Name: assets/pics/vladimir.jpg
+SHA1-Digest: Nnt0Y3BhzClHc9JyuiEj3VOcX4Q=
+
+Name: assets/pics/KIEV1240.jpg
+SHA1-Digest: BgbJpF/2CkzTC61nBP0fjJ0p78U=
+
+Name: assets/pics/petr_1.jpg
+SHA1-Digest: Q6s8Nj/uwXBn9du/UMMutkQGJEo=
+
+Name: assets/pics/notes/check.png
+SHA1-Digest: 22m+z0sG9bFljBxokNljxwtXilY=
+
+Name: assets/pics/patriarh_iov.jpg
+SHA1-Digest: O9Ti74gYVTcU55ot2UOebjZPEJE=
+
+Name: res/layout/activity_custom_data_tabs.xml
+SHA1-Digest: ptDfEhHGy6FSH8zEEuQDaiEEloA=
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA1-Digest: Fo/EPC2v34uHliJWJslZTcZ0JxE=
+
+Name: assets/pics/gallery/flag/gerb_19v_nikolay.jpg
+SHA1-Digest: Vzx2YKtgBY4p6fj9rzuPSwZcw9g=
+
+Name: res/drawable/app_french.png
+SHA1-Digest: NQmhNm9eIxdND9QdjHTxUhicfrI=
+
+Name: res/drawable/ic_nav_star.xml
+SHA1-Digest: UMZziULuDWcN1NfWhEJwtun5PaM=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA1-Digest: +korovYyVwsNusENTdxX62aXjwU=
+
+Name: res/drawable-mdpi-v4/ic_excel_box.png
+SHA1-Digest: vdAHwRnnqo6z/RW75mROba5835s=
+
+Name: assets/pics/budenniy.jpg
+SHA1-Digest: 1/2ZYsMM0JJX7pak2PzxMVvgUGc=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_certificate_box.png
+SHA1-Digest: QcbOLc/i/hKDgl91bTxMR+PUcag=
+
+Name: res/layout/activity_note.xml
+SHA1-Digest: uLapNtIDTyMqty/G5r1Hd4pXl3w=
+
+Name: res/layout/custom_preference_category.xml
+SHA1-Digest: CrHclCUKcpOCgoAWukws/BD6zfc=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: 0pZEH/xvvGcZULZXlcabKxti6Jk=
+
+Name: res/layout/content_cat_stats.xml
+SHA1-Digest: I1GPTb1s7e1xNrNP4RVbWwP3vFw=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: ZhkEM9yNSTwubP5D36sIzYmN17g=
+
+Name: res/layout/text_view_with_theme_line_height.xml
+SHA1-Digest: eVLSCMpZ97oBjTm69q0yUgMErVk=
+
+Name: assets/pics/gallery/sculpture/sc_nestor.jpg
+SHA1-Digest: wdpzErqSP48xJs2pLomieWADCmU=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: Ouio2uWvH7XLWYfqzUwzwmjm/jM=
+
+Name: assets/pics/moskva_1547.jpg
+SHA1-Digest: xZqp2/fdiwU0rXnMrE6n3qLDjzs=
+
+Name: res/drawable/ic_nav_settings.xml
+SHA1-Digest: 2eOjUuA8vyuw23NPcAgMdUAK1D4=
+
+Name: res/drawable-night-xhdpi-v8/ic_video_box.png
+SHA1-Digest: 4ps4kgeTEvjRRs21gPdM1A19RHE=
+
+Name: res/color/material_on_primary_emphasis_high_type.xml
+SHA1-Digest: 810JK2Boz7vhZjDyyepizsIeo2s=
+
+Name: res/drawable/ic_note_search_tag.xml
+SHA1-Digest: 1BHCqXNcUTDLGsrbMwe32/VSO+4=
+
+Name: assets/pics/katerina_1.jpg
+SHA1-Digest: 4s+yajSnHn0oLQNZUISL2zu1Hvw=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: res/drawable-xxhdpi-v4/ic_powerpoint_box.png
+SHA1-Digest: X1l3D4REm5CrDvEgl5DuEOSFBr4=
+
+Name: res/layout/mtrl_calendar_month_labeled.xml
+SHA1-Digest: 4WsMbzD0VrN8FrbfsG3x6eF+o0o=
+
+Name: assets/pics/gallery/arch/sobor_sophia.jpg
+SHA1-Digest: ZSdhGKrPTaXkNZa/bTwGLB/eJmc=
+
+Name: res/drawable/ic_contact_google_play.xml
+SHA1-Digest: buXzRuBInSBtvaFZX4ait2wlMzI=
+
+Name: assets/pics/dolobs.jpg
+SHA1-Digest: neNJ1yryL45I1x6haSdb2ux+CGs=
+
+Name: res/layout/cat_info_dialog1.xml
+SHA1-Digest: Jet1D+BkN/AFv4Y3RGA4+DvGoSc=
+
+Name: assets/pics/oleg_shield.jpg
+SHA1-Digest: AtBO8CKS4KdCFzth6/SFFq/y8YY=
+
+Name: assets/pics/chernov.jpeg
+SHA1-Digest: CdYomxlFyjs239Ha9UvG5oiNT2g=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: BsS8Hgum+u4dPVvrgYO8lOvmyU0=
+
+Name: res/drawable-xxhdpi-v4/ic_apk_box.png
+SHA1-Digest: 3tbwAkywZNvOHH9fsvQp+sYnavs=
+
+Name: assets/pics/razumovskij.jpg
+SHA1-Digest: Ji6L924zG4PATcf6+ficYVwTf3w=
+
+Name: assets/pics/interventsia.jpg
+SHA1-Digest: +y6uEQO5YLmQyXxjiwzWKKKYF+Q=
+
+Name: assets/pics/medvedev.jpg
+SHA1-Digest: yWl8RFJ4YwgxKyLhp5lD8x2YeS4=
+
+Name: assets/pics/petr_3.jpg
+SHA1-Digest: uAPvFdx2AoCAz8ActXBbFnBLixM=
+
+Name: opencsv.properties
+SHA1-Digest: 8RuD4V2IG1lGk7AUW3wLQmjaNZY=
+
+Name: res/drawable-v21/progress_stat_cercle_green.xml
+SHA1-Digest: XcE3odBv+Reu69UgHaPUH20lgxc=
+
+Name: assets/pics/monomah.jpg
+SHA1-Digest: PBMHtn4hp6pAk5M4Zol+fiOXttQ=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: Y89zMfhgvbvTd4WzuyRaBUcRGjY=
+
+Name: res/layout-v21/category_list_item_status_include.xml
+SHA1-Digest: GiGx33p/gHUlVlIQzAWYXstwpPg=
+
+Name: assets/pics/syezd_20.jpg
+SHA1-Digest: rNEuv1aJeF01wa14Gv2HRkT4dGo=
+
+Name: res/drawable/ic_plus_fab.xml
+SHA1-Digest: 9JQK3IfexFJCOMgqq5lJ5/yxnAc=
+
+Name: res/drawable/ic_tick_option.xml
+SHA1-Digest: K4q7UjPp713mckBjAIJi+l1gijs=
+
+Name: res/interpolator-v21/mtrl_linear_out_slow_in.xml
+SHA1-Digest: kWrEt7VXLMkwlk/67/NxXtS8qk0=
+
+Name: assets/pics/zubatov.jpg
+SHA1-Digest: mXq4ygs2qU0fL7mnOhtatzx5DJg=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.p
+ ng
+SHA1-Digest: mEMOENu6EbIk3bOPlINzieiI52k=
+
+Name: assets/pics/sophia.jpg
+SHA1-Digest: 9SiHkv8YaNNnCu8hx5GRRh1hEFs=
+
+Name: assets/pics/eltsin_end.jpg
+SHA1-Digest: zvmUYL2gDAs2OyIme/bCw/Rbsgw=
+
+Name: res/color/mtrl_error.xml
+SHA1-Digest: rqbTlQNldhXTZ3rbp3Pa8LmplMw=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: D1jsYZU4cTnehZn5HOpfi6V3kmU=
+
+Name: res/layout/view_cat_item.xml
+SHA1-Digest: RnnBBt9ndbZnIDYPuHJMd+ve5Ao=
+
+Name: res/drawable-night-xxhdpi-v8/ic_image_box.png
+SHA1-Digest: 95/R7RoPV4lOinF3Ggwdbcw5vI0=
+
+Name: res/drawable-xxxhdpi-v4/ic_zip_box.png
+SHA1-Digest: dzm/qtHBznU3abovEyj0O+F3F6Q=
+
+Name: res/drawable-v21/ic_arrow_down_24dp.xml
+SHA1-Digest: ASucPaGSYlsPBuW0tTUDUtQubj0=
+
+Name: assets/pics/bagration.jpg
+SHA1-Digest: Ul1f5o82mYCJtDH2EfJUiBn6Z1Q=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: jcVys2o//lE/gi8CNleCfwmdpOQ=
+
+Name: res/layout/mtrl_calendar_days_of_week.xml
+SHA1-Digest: 0x3VkpC8jcJO4IV7FyJaMEpe3xc=
+
+Name: res/layout/view_map_item.xml
+SHA1-Digest: wG5NnJa0o3zVmACe3QHPyA+zwuo=
+
+Name: res/layout/mtrl_calendar_horizontal.xml
+SHA1-Digest: 3IaDLurptCsK3tMzRrkNqtju/xg=
+
+Name: res/drawable-xxhdpi-v4/ic_file_gray_116dp.png
+SHA1-Digest: 1sRVt1z89QSdoIW3luHIUQyM3aI=
+
+Name: assets/pics/rus_1194.png
+SHA1-Digest: cPc4S+HJqO2TjZLv6P4xM9BNvE8=
+
+Name: res/drawable/navigation_empty_icon.xml
+SHA1-Digest: fNEb/jMADqlPhxKE2CnFMDA09IA=
+
+Name: assets/pics/napoleon.jpg
+SHA1-Digest: GqSPjyeignDxjbhbc/lRGsNl7uc=
+
+Name: res/color/color_text.xml
+SHA1-Digest: RIGRNH9z7CzVax0pcD04rM6AnEY=
+
+Name: assets/pics/putin_2004.jpg
+SHA1-Digest: RG/I/VQV98yeIkSIEJNE3V++ksU=
+
+Name: assets/pics/gallery/paint/bogomater.jpg
+SHA1-Digest: 1d2sYH+ILA8nyZFZ+1L99hTK9FY=
+
+Name: assets/pics/grachev.jpg
+SHA1-Digest: 1OT0TlnVnC/nfWV+Kc7MXeFxryg=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 5ThZFP/+iYVybD8ENFXZKyOzbaU=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA1-Digest: A1pVRBaT2gk9lZQdi5aYDVOgrzY=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: ttIqdg3/OGUHLjqLr+wffunxbcQ=
+
+Name: assets/pics/ivan_4_sibir.jpg
+SHA1-Digest: RuEKHcgEHyiBDpfDPLnOluR4OH8=
+
+Name: assets/pics/litvinov.jpg
+SHA1-Digest: +6kG/e/pzTXh+8edTrJ/xg52cwY=
+
+Name: res/xml/standalone_badge_gravity_top_start.xml
+SHA1-Digest: S5gMeyrYx1xPhup7ANpDxrehTZM=
+
+Name: res/color/mtrl_popupmenu_overlay_color.xml
+SHA1-Digest: aH2XtA+zrEqdyuJJqZ8kWloDzj4=
+
+Name: res/drawable/design_ic_visibility.xml
+SHA1-Digest: 1au4vUL5wHM0HC4PlIQCQgy/36w=
+
+Name: res/color/mtrl_tabs_icon_color_selector.xml
+SHA1-Digest: wqdv+J/ZmmKXUR0ljpShTWwgglE=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: XePuLe1e9sIo7d6J9vQp9rUv/10=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: FMRYGMRpZiYPkhLktRFugeBha5o=
+
+Name: res/color/material_slider_inactive_tick_marks_color.xml
+SHA1-Digest: 1/eb51638OGvJJe5OD9J3h71+Lo=
+
+Name: res/color/abc_tint_edittext.xml
+SHA1-Digest: JUHCF0ZOy7LY+UQeTvPMS8hGJ+k=
+
+Name: res/layout/ex_links_include_item.xml
+SHA1-Digest: qPv5toitJy2FcUnomKafmaA2CE0=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: u9iuNPz3TBNs0hGtr7mFdniB3z4=
+
+Name: res/drawable-v21/progress_stat_cercle_blue.xml
+SHA1-Digest: ojq+ksy3LI0hlDrWDo6QL4CYyQc=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: hQ78LrbesWnN5PYe5gzJJQRO9qE=
+
+Name: res/layout/note_item_nopic.xml
+SHA1-Digest: dVjxohGNy/ivfxab6z8oRlv58Vw=
+
+Name: res/layout/null_item.xml
+SHA1-Digest: L51laqdRj4Y/02We1bo3zaXniHc=
+
+Name: assets/pics/maps/battle_moscow_1612.jpg
+SHA1-Digest: xGuM82yinC6Hhg2R9t9i5YmdxDw=
+
+Name: assets/pics/krestyane_rabota.jpg
+SHA1-Digest: WJD18CTWZTAe/eCj0EPTBPr88/g=
+
+Name: assets/pics/chernenko.jpg
+SHA1-Digest: bmaHRqJAyXELU1ogTSx5rlxKdec=
+
+Name: assets/pics/battle_1111.png
+SHA1-Digest: xS9lsh8mUXSfp6RkJZuQtw1FApc=
+
+Name: assets/pics/polk_semenovsk.jpg
+SHA1-Digest: ApXiJ9HtpSM+rM4z3RFWM9BYMNU=
+
+Name: res/color/mtrl_indicator_text_color.xml
+SHA1-Digest: BbenOioc/hSc2wNLXCDMW6rSRkM=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: goxOqApFWDjSlcueZaQmSCez9dk=
+
+Name: assets/pics/alexander_pskov.jpg
+SHA1-Digest: ss4ULnqZOKBTEPJW1yAlXvAii2s=
+
+Name: assets/pics/stalin_2.jpg
+SHA1-Digest: INaU2rVNNsy6nkHOq3Z/kev2Qqc=
+
+Name: assets/pics/gallery/monument/monument_petr_1.jpg
+SHA1-Digest: 3knxTHYjdBkpk+7CDnLWs5/9QeM=
+
+Name: res/drawable/img_selector.xml
+SHA1-Digest: g7fMFYD4eSr8asm4mDOJwayWVmw=
+
+Name: assets/pics/gallery/paint/ivan_syn.jpg
+SHA1-Digest: 8F+n08+cYLLgYY1q1ZyKx02WQhk=
+
+Name: assets/pics/ww2_oder.jpg
+SHA1-Digest: 5o+bqGU+mWUTbKcOzK+vqeb4LEs=
+
+Name: assets/pics/maps/rus_1462.png
+SHA1-Digest: s9xmYNr8MOr7CvvKn5d5n771KeQ=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 3f2Gmy7pGZPASiGf+ZPR/zDMdpY=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: VJa6PrhxyIRS2huzDuIN1KH+I2c=
+
+Name: res/drawable/ic_export.xml
+SHA1-Digest: zxEFuPTIVQYX2cO+pzhD4bcuoQU=
+
+Name: res/layout/include_rate_star.xml
+SHA1-Digest: vIsNeZVzVLBVFjOzXY/7tP+ejuE=
+
+Name: assets/pics/notes/flag_green.png
+SHA1-Digest: qWhWCOk/IVf7j9nlTB2kbhzitUw=
+
+Name: res/drawable/ic_ex_assignment.xml
+SHA1-Digest: 4OS/ge1l5Wd6bCWnEvhoVlwOp5A=
+
+Name: res/drawable-xhdpi-v4/ic_splash.png
+SHA1-Digest: UbMMzPgIG9e4nEV1mZ+XYi5ySig=
+
+Name: assets/pics/maps/map_battle_artur.jpg
+SHA1-Digest: H/aUc0bWjm9BHMH2IfKiIbi19X4=
+
+Name: assets/pics/kazan.jpg
+SHA1-Digest: YaJ37lTperrEJXD5flem913EZAg=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: 9OLAIhb6opkz7bBUgj4FvNN4F1E=
+
+Name: res/drawable/splash.xml
+SHA1-Digest: Hmg8uQajQvOzQtJ4fqMVwR9XGX8=
+
+Name: assets/pics/gallery/sculpture/sc_ermak.jpg
+SHA1-Digest: ZRsCAMJ4Q/gdQPABrzIrxnQS8FA=
+
+Name: assets/pics/liga_natsiy.jpg
+SHA1-Digest: FxezfS+PFFOwA3v2h/Or16mRM88=
+
+Name: assets/pics/notes/shield.png
+SHA1-Digest: tKLJ67mQK0pj2/Tn8c/Uza8lxZk=
+
+Name: assets/pics/shengraben.jpg
+SHA1-Digest: 0dVSRTTZy35O5PofaOj5CWSGydA=
+
+Name: assets/pics/battle_1185.jpg
+SHA1-Digest: KorcBHg5klvkjbOuGYJvC3VxKFA=
+
+Name: res/layout/mtrl_picker_header_dialog.xml
+SHA1-Digest: TV+L5VIkNKW+vUwzlW+DWhRlap0=
+
+Name: assets/pics/gallery/arch/arka_triumf.jpg
+SHA1-Digest: 4ISVJhI+Mg0yG/m/zhs1vycf4SM=
+
+Name: assets/pics/kyrill_method.jpg
+SHA1-Digest: 43ClTBwX3GAmhG8VrMtK5zddf9k=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: 3cZf9KzrmZte69Ku90PuR5co0UQ=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA1-Digest: 054ZSD/fvGIAZf/Qk/AIA/iZVss=
+
+Name: res/drawable/$avd_show_password__1.xml
+SHA1-Digest: QFIJrNfWVUVVS9anWTDRC2vsd/w=
+
+Name: res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: jHbaRf8LLd5WskXFtQ/l7iPzBWA=
+
+Name: assets/pics/chuhray.jpg
+SHA1-Digest: a4W8D2A4S8CJCz5M1NlCrxoP/Ko=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_music_box.png
+SHA1-Digest: SXMODQw6pUx6IJEr9fwPXUn1Qmw=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: q5BP6iz9no2ZdX9wgjUfIjqk8OY=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA1-Digest: KZNv7DyaaV226Oi5NTsGZXR5Igg=
+
+Name: assets/pics/gallery/arch/sobor_archangel.jpg
+SHA1-Digest: YeoBk1cFIwHjnRJbsFjz+0Xf2KI=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: jUXes5sBIdjAuvOfVrnJvHW7r+w=
+
+Name: assets/pics/ljedmitri_2.jpg
+SHA1-Digest: IwsdjJUUWZsSmSnzNIxiQLerNPg=
+
+Name: res/anim/fade_in_img.xml
+SHA1-Digest: bPUblEgxLLjskMp7etnHDleGFgU=
+
+Name: assets/pics/olga_kreschenie.jpg
+SHA1-Digest: K2PAyI0kwEw5NohRTjOxRhX1/6A=
+
+Name: assets/pics/gallery/paint/roscha.jpg
+SHA1-Digest: GArdc4LTMMCE3rPdpdF8phncAC4=
+
+Name: res/drawable/ic_school_1.xml
+SHA1-Digest: vGZxLw0N9DKesBY7rV17HQfoXvw=
+
+Name: assets/pics/gallery/arch/palace_tauride.jpg
+SHA1-Digest: FPRNblqF4uFcq1P0Ws5WnfzS5co=
+
+Name: assets/pics/karnilov.jpg
+SHA1-Digest: l10uocQ0tTJcUyKdogfOAmO3zfE=
+
+Name: assets/pics/syezd_1.jpg
+SHA1-Digest: AFRLE4HQLozhLMITK+yRXpBRrdc=
+
+Name: res/layout/result_cat.xml
+SHA1-Digest: /MJt8pAWg3xqIAaKKCpV+OP2S74=
+
+Name: res/anim-v21/mtrl_bottom_sheet_slide_out.xml
+SHA1-Digest: JJVGPgIiPGCmoRSZIUjkP6h9zcE=
+
+Name: assets/pics/picto/shape_gray.png
+SHA1-Digest: csBHK5jnfPcWdbhYwtjl7CmSRwU=
+
+Name: res/drawable-watch-v20/abc_dialog_material_background.xml
+SHA1-Digest: XplTYHOm6iN1FIH/Rck07fKTrZQ=
+
+Name: assets/pics/gallery/flag/flag_1693.jpg
+SHA1-Digest: BIH+MlNIdmLqeWZgAF0BrBl3soc=
+
+Name: res/drawable-hdpi-v4/ic_document_box.png
+SHA1-Digest: GKMnEiGtikZZIwoXB4g2mVlM6gc=
+
+Name: res/drawable-v21/list_ripple.xml
+SHA1-Digest: LlLrHrUfRL4FfaRe2atoPArsjBY=
+
+Name: res/layout/mtrl_calendar_year.xml
+SHA1-Digest: a2c272jjT+FJKs5HDbrXlcTWpNQ=
+
+Name: res/layout/design_navigation_menu.xml
+SHA1-Digest: wSIyCdicS9KmrnB2Yql73HyJ8t8=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: n9G/UMsgwwbGoqVX3Ya3lVowMuY=
+
+Name: assets/pics/gallery/sculpture/sc_girl.jpg
+SHA1-Digest: Avf1nqGGpIzhYL3W6K0WBklzsfI=
+
+Name: assets/pics/gallery/sculpture/sc_stone_breaker.jpg
+SHA1-Digest: vgAlJHfi3uHMZ5FBVdYb0OEI4VY=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA1-Digest: rRpPX/m6NrnsaUeFFkm9bLALxlQ=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: F+ErPIiQPs2MVL/Lx83DuSpnxAw=
+
+Name: assets/pics/molotov.jpg
+SHA1-Digest: f2vrTbRQGUrIzD9l4FtL9DplLvA=
+
+Name: res/drawable-xxhdpi-v4/ic_image_box.png
+SHA1-Digest: pcyGui2Ixuj21nLnK36AowCw5gU=
+
+Name: res/layout/content_reference.xml
+SHA1-Digest: vGEM/lJXdvXhccJJ8MIIniZGSzQ=
+
+Name: res/layout/text_view_with_line_height_from_appearance.xml
+SHA1-Digest: wq5gVqehn0BCuODOvH7sYxvUpps=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: UW51oLlgpZ758ahkOeyo+p80RNg=
+
+Name: assets/pics/gallery/arch/sobor_blagoveschenskiy.jpg
+SHA1-Digest: 3/E74M1Oa0UPbmWzBu4yRm13mo4=
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: S9B9R2/mI2xg2ic/WQABK/Xa6N4=
+
+Name: res/drawable/ic_mtrl_chip_checked_circle.xml
+SHA1-Digest: E+qv2fp3MYuwLy6qpqZBTamHPV8=
+
+Name: res/menu/menu_exercise.xml
+SHA1-Digest: RbS682WVfzksBLGb42I/zkSwpPc=
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA1-Digest: Oc24iWf1pu/Yb+TCFwCRDwuknqk=
+
+Name: opencsv_de.properties
+SHA1-Digest: 7phyjgAhLjJfK9r2jTwzkZJkO9Q=
+
+Name: assets/pics/helsinki.jpg
+SHA1-Digest: gjLw+ucK+PkvExBMJbGQSnXBBSU=
+
+Name: res/layout/note_item_more.xml
+SHA1-Digest: zXA7phztI+6UOCTX6gv1k2MwBNc=
+
+Name: assets/pics/war_fin.jpg
+SHA1-Digest: l76RqFs1C+Wf1DUs5I5cYAW9fbU=
+
+Name: assets/pics/kirienko.jpg
+SHA1-Digest: IMzzzFzRrUXLqd7sLx4/VmNK03o=
+
+Name: res/drawable/$avd_hide_password__1.xml
+SHA1-Digest: 96sIkOLdYaHX+2eUAur3IS2elJ4=
+
+Name: res/interpolator/fast_out_slow_in.xml
+SHA1-Digest: 7FoCRJfJcf8AaYwhL/yEzlzTJFg=
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA1-Digest: Fo/EPC2v34uHliJWJslZTcZ0JxE=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: o3SpN1dmSqaq2FEDYQyb/PQboT8=
+
+Name: assets/pics/polish_infantry.jpg
+SHA1-Digest: bU2K1Cuzv/Cvpqo9MinihTADKhQ=
+
+Name: res/drawable/screem_img_bottom.xml
+SHA1-Digest: O/AuK2uW0sbyu2NnmSl/Cafo2cg=
+
+Name: assets/pics/ww2_harkov.jpg
+SHA1-Digest: +rQBhQo+17gUBUCPEpMr53PIFT4=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: bjw5Qfj9OrAUagjyW3bicEthmg4=
+
+Name: res/layout/preference_widget_switch_compat.xml
+SHA1-Digest: vVaQfPV2cNct13IaRMPLgOUa8mg=
+
+Name: assets/pics/gallery/monument/moniment_pushkin.jpg
+SHA1-Digest: p39ZUr77CnlikQHnOQ9cJFpVjVg=
+
+Name: res/drawable/ic_emo_great_bg.xml
+SHA1-Digest: sdhPRfbNhNu8pvuH9IDggfEDiLU=
+
+Name: assets/pics/moskva_tver.jpg
+SHA1-Digest: pNQHsXeWNghJIwb+3vPDeyeM/Ts=
+
+Name: assets/pics/aleksandr_2.jpg
+SHA1-Digest: 9f+bXJ5QrFVLGRdgft5TUQPf+Bc=
+
+Name: assets/pics/picto/pers_blue_l.png
+SHA1-Digest: c0rEFgiQ6dh1X/S+GzsrZxLB/OM=
+
+Name: res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+SHA1-Digest: 16OLmaQLukP//zh6yIi/qN2BZJk=
+
+Name: res/layout/mtrl_calendar_month_navigation.xml
+SHA1-Digest: ZqJM/olb76UXr4/B1w0nya4w+qE=
+
+Name: assets/pics/ivan_4_narva.jpg
+SHA1-Digest: TBlyU1ikn812DBmtwvIVXDqjh1k=
+
+Name: res/color/design_error.xml
+SHA1-Digest: 6qaN/xnQP3KwCTTC4Mmw1XvB7G4=
+
+Name: assets/pics/notes/minus.png
+SHA1-Digest: vsTNqnAmCdBcxj9qnWdyT1kgghc=
+
+Name: assets/pics/gallery/flag/flag_znamya_Ivana_4.jpg
+SHA1-Digest: NbZqFvElbuVdvP8pY0MkIF4CNJs=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: tC6uw2w2e+vYOuhd45mTIYRtoKE=
+
+Name: assets/pics/duma_3.jpg
+SHA1-Digest: Yy9dmrgXbgta+4vi6cd+UhommJc=
+
+Name: assets/pics/riot_chuma.jpg
+SHA1-Digest: dexz0p2xb6UKAMKimy6tmv8taNo=
+
+Name: res/anim/slide_out_right.xml
+SHA1-Digest: LI0SdWEx2t/QU8l4oeXVwsinzsw=
+
+Name: assets/pics/suvorov.jpg
+SHA1-Digest: cxT/XXW2VBqk/2Yw8r+7AfrjWYs=
+
+Name: res/drawable-night-xxhdpi-v8/ic_folder_48dp.png
+SHA1-Digest: MaKAWJ9wweceFaPuXColFwXDG9g=
+
+Name: res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+SHA1-Digest: Y9GoMt5xKvBdtw+m8F9cFQxMtjw=
+
+Name: res/color/checkbox_themeable_attribute_color.xml
+SHA1-Digest: 3se7jBTOHyDqk+2+sa0ic+6Isaw=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: QyrilM6n+5uQi4WyzI0NsxXANtA=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_word_box.png
+SHA1-Digest: P/4OqVXmhmhalAN31Ot+mROtVYs=
+
+Name: assets/pics/picto/pers_gray_l.png
+SHA1-Digest: I2SyuXdzfKOASv8GcZzvHChcJKI=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA1-Digest: 69Uq0XVEEDCz62q7/piNqhuoD7Q=
+
+Name: assets/pics/andropov.jpg
+SHA1-Digest: sJdrXQqT3FckZvHy9huU4+R3HAE=
+
+Name: assets/pics/igor_945.jpg
+SHA1-Digest: 63M+PAHSaaKgU6X2bMZgEnh8k18=
+
+Name: assets/pics/notes/shop.png
+SHA1-Digest: oWcRW9oO9u8hSSRNB1oQJSjLTUw=
+
+Name: assets/banner_1.jpg
+SHA1-Digest: FniTTeluZ/JhtJuYrO65zsRM7GU=
+
+Name: res/menu/menu_notes_list.xml
+SHA1-Digest: S+vraRkqom35pgyeMsiHgXNYoUk=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: w83QFsgDIHscJu1mqT2UW8obr/Y=
+
+Name: res/layout/home_card_item.xml
+SHA1-Digest: N4uXZJEV6chMOHW5bxIFXwm1ALU=
+
+Name: res/raw/info_simplified.txt
+SHA1-Digest: HK7lL86GvDESYMlKJ/3Jf+hY/KA=
+
+Name: assets/pics/mihail_tverskoy.jpg
+SHA1-Digest: 3b7KIQw3TqF0fz851W6sD81BD80=
+
+Name: res/layout/design_text_input_end_icon.xml
+SHA1-Digest: abiHJwSE7sz+dLSsJ4d/WlsdEow=
+
+Name: assets/pics/gallery/flag/flag_1954_rfsr.jpg
+SHA1-Digest: YjXVHK985C89SrTxMzLxk8X4t2o=
+
+Name: assets/pics/sobraniye_uchered.jpg
+SHA1-Digest: OcmyG5gYd5WovmYTQnIfyOkl2H4=
+
+Name: assets/pics/mamai.jpg
+SHA1-Digest: ax2T7FVwOtVk4ExJLfIo9aVH9ng=
+
+Name: assets/pics/ushakov_krist.jpg
+SHA1-Digest: 8JCWcq8l8QWYnmctWlji2zwZmc0=
+
+Name: assets/test_data_en.json
+SHA1-Digest: 8EqVZaefh97P0bG3UFIKFEOK/P0=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: NFfbz1bv3RO9ZYoDjJPGDh78fOU=
+
+Name: res/drawable-night-hdpi-v8/ic_folder_48dp.png
+SHA1-Digest: fH4CoRLY9adVVLD26jC1C1PRh10=
+
+Name: res/drawable-v23/mtrl_popupmenu_background_dark.xml
+SHA1-Digest: L8cxzQ51D1N/ZixmbdHxQUmxHk0=
+
+Name: res/drawable/ic_nav_notes_dialog.xml
+SHA1-Digest: yuEK3IbD2el8+xGl76FHINAswUI=
+
+Name: assets/pics/kreshenie.jpg
+SHA1-Digest: 9nFmqTZxC9/yYlx2fa0bEeJIwaw=
+
+Name: res/menu/bottom_nav_gallery_more.xml
+SHA1-Digest: ZMurm6w5JU3FR4uoMrf6TVU85/U=
+
+Name: res/drawable/ic_cat_progress_good.xml
+SHA1-Digest: iXfjr+zk98333GQtgOjNo+3nG00=
+
+Name: res/animator/design_fab_show_motion_spec.xml
+SHA1-Digest: kfoEFj/KsFAfykuYg4DCutoNZwo=
+
+Name: assets/pics/gallery/arch/sobor_blazhenniy.jpg
+SHA1-Digest: QMELoHfo3POgCbhlw7IMcxtbe1o=
+
+Name: res/layout/home_card_image.xml
+SHA1-Digest: TYhHoPEztmBdSU4fBOG1GugSkIo=
+
+Name: assets/pics/izyaslav.jpg
+SHA1-Digest: YukR2R3I/Q3JP8fKuVW8NtkIoSI=
+
+Name: res/drawable/abc_btn_check_material_anim.xml
+SHA1-Digest: sP7dBNBm6Gso10VDaTHWeCo0DJ8=
+
+Name: assets/pics/picto/shape_black_l.png
+SHA1-Digest: xUl3aQeykPhEq0NG9tGIIXauVVs=
+
+Name: assets/pics/gallery/flag/gerb_16_17v.jpg
+SHA1-Digest: +o2nFjS4oOKypyEQ6dnfJ9vomgo=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: RsOvN/pL+j8WdnF7lGHO1mzkFTs=
+
+Name: assets/pics/battle_mukden.jpg
+SHA1-Digest: 9EgCUzqbNHIzKtdCkN2ZajZgXTc=
+
+Name: res/layout/result_item.xml
+SHA1-Digest: 6qK++F2k1klJNaov9mJpAnRS+Gw=
+
+Name: assets/pics/picto/pers_black_l.png
+SHA1-Digest: 6IOZSDKAmC0gpfdT6ZVsQqOb1PM=
+
+Name: res/drawable-mdpi-v4/ic_pdf_box.png
+SHA1-Digest: PxpDSiCftVY2hoao1dshmSgWac4=
+
+Name: res/drawable-night-xhdpi-v8/ic_pdf_box.png
+SHA1-Digest: iG7F1Hw0Z8/61jFZg9G056Mbih4=
+
+Name: assets/pics/rokosovski.jpg
+SHA1-Digest: 1/UjMHiE9kP76CNRwFYAylHQxoU=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA1-Digest: mMA15X6HgzB86mdbNtPhxifADZY=
+
+Name: assets/pics/raylway.jpg
+SHA1-Digest: TX0Z7HBW64GskWfSXDMRRMGunHY=
+
+Name: assets/pics/univercitet_moskva.jpg
+SHA1-Digest: Gze+bovBbcFP+RpDdywgqlTYB/o=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 1/FXt00E0Mr8GUWNIDQCnUx9Qzc=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: V2yxxCAfGSv3RsOJAZJN+35BGuw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: n8TfpaUDWC1ZG/DnCL+kvaeXf08=
+
+Name: res/menu/menu_custom_extended.xml
+SHA1-Digest: Lfn3zyLDRcUg5tOhzr/dDFrcyYU=
+
+Name: res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: hYMrgbTr/PmCKthwQQt0K9OlI8w=
+
+Name: assets/pics/spiridonova.jpg
+SHA1-Digest: WfNGYbEODRrT5thnsiaOn1SsptU=
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA1-Digest: 8JnGn2122IC5hNVfLLh2YOR8HZI=
+
+Name: res/layout/mtrl_layout_snackbar_include.xml
+SHA1-Digest: AVm+82feX4xDFb76nWcW4HGbz58=
+
+Name: assets/pics/ryleev.jpg
+SHA1-Digest: +w3juneDSSuxSp6Yqpe6NNDpEpM=
+
+Name: assets/pics/dogovor_federatsii.jpg
+SHA1-Digest: DnLBSad/Y+F635I2uIhwbHM01oA=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: rTYE4O39txuVAHn7iT1+qEUf0DQ=
+
+Name: assets/pics/svnh_1963.jpg
+SHA1-Digest: 2Ft26IjWBzTI87VBJ1lhhGIHQiA=
+
+Name: res/drawable/bottom_sheet_bg.xml
+SHA1-Digest: UmcFIW2SHjWwjjoXHHPYWMaa3JY=
+
+Name: assets/pics/notes/flag_red.png
+SHA1-Digest: LFAwG3lVtByukFHjHFlpb5EfrVQ=
+
+Name: assets/pics/petr_ships.jpg
+SHA1-Digest: X/4WZkvHveP9LWvy3x/xbULl2EY=
+
+Name: res/color/design_box_stroke_color.xml
+SHA1-Digest: yHlhdQgOVMcPie84VPRkELCKX6A=
+
+Name: res/drawable/test_img_icon_bg.xml
+SHA1-Digest: kdgrEYVm6BEASc4dvhj3dZqng4E=
+
+Name: res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: qU4NtCEUwFoQUmEmsKdm2IoKQOQ=
+
+Name: assets/pics/oleg.jpg
+SHA1-Digest: BPmW/q1/bEhgW1de1FvtXDz/5gs=
+
+Name: assets/pics/gallery/monument/monument_jukov_t.jpg
+SHA1-Digest: A2IpFzL/HJ1Yw3pD8eCiNGFd58s=
+
+Name: assets/pics/early_rus.jpg
+SHA1-Digest: gFZ8nOCQ1Df7zrcrzNtd4EKPEHc=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: AfbQuyZF1JMvjiaXDfLvtNLgncI=
+
+Name: res/anim/design_snackbar_out.xml
+SHA1-Digest: B4K6TxVzyf6Pr//as5IPyx1xCHs=
+
+Name: assets/pics/davydov.jpg
+SHA1-Digest: M6z61q3iiniMx0q7A98cQ7P/UY0=
+
+Name: assets/pics/igor_dogovor.jpg
+SHA1-Digest: LDsJPAsyQ9DQ0qRWGY5Ns+M/54M=
+
+Name: res/color/material_on_surface_stroke.xml
+SHA1-Digest: 6mRICqAw4i1aFsYb9WODk6UPc6c=
+
+Name: res/layout/gallery_grid_list.xml
+SHA1-Digest: Dgh9mBJ1pnNn8HcYdwauWX1kwXY=
+
+Name: assets/pics/picto/flower_gray_l.png
+SHA1-Digest: L61wOT43YaIc+YtDkzWGVS95DvY=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: lC47V58n3eYOJicP+Ng5Di5wekE=
+
+Name: res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: 0nGXIGkX9PVLNDsLZlnX6dsgd0Y=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: +3NkVdmCmxwUpsSrvPVabmOED/8=
+
+Name: res/color/mtrl_outlined_stroke_color.xml
+SHA1-Digest: 3+pk0bYHsWHYl/9aTaNjLNFzbJc=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: E/mBhY9wNG5VaFmW6qL4iXjAHvY=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: c+ieuII6udSDVml51EH3TH6KocA=
+
+Name: assets/pics/picto/shape_red.png
+SHA1-Digest: zpDapoy41UIArXac83xuZiBiScU=
+
+Name: assets/pics/yaroslav_1036.jpg
+SHA1-Digest: KKBQnTIXJwP3/ysvcQuQxFpEfXk=
+
+Name: res/drawable/text_round_red_bg_v1.xml
+SHA1-Digest: 8Igo054IH+zd5ia3cXoFausrzuo=
+
+Name: assets/pics/gallery/paint/pompeya.jpg
+SHA1-Digest: M7UeGEoscxSnFzTBfp4ZU/W0kzg=
+
+Name: assets/pics/kalinin.jpg
+SHA1-Digest: 7nf3gHiUBra+sP60Y+WbKUjHMY0=
+
+Name: res/layout/activity_cards.xml
+SHA1-Digest: /ecvK5xJ+w5wNWFpP2zAZDKspeQ=
+
+Name: assets/pics/gallery/flag/gerb_20v_ru.jpg
+SHA1-Digest: 7bhm6ZC8YoVUa+dTL59qXTH1ouQ=
+
+Name: assets/pics/russ_paris.jpg
+SHA1-Digest: qu4ROsCX46Zj1j2qChBk/0tNhcA=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: F4n8hVJ9JAe7JXiY3KFxHQxJRks=
+
+Name: res/drawable-xxhdpi-v4/ic_splash.png
+SHA1-Digest: ldMWvCaOwdWfmcci1KYQuqH1YFs=
+
+Name: res/layout/view_map_item_card.xml
+SHA1-Digest: E9jdZAeVesg0i1eGhfQ7TP619gQ=
+
+Name: assets/pics/yanaev.jpg
+SHA1-Digest: esdR6BQwB5mVo9jc7ObxzBEoLXw=
+
+Name: res/drawable/btn_radio_on_mtrl.xml
+SHA1-Digest: BONbOw+leiGNJskuTAm0vbXjhBw=
+
+Name: assets/pics/kiev_1113.jpg
+SHA1-Digest: KHO2GnkWVUOZAzLVDrXmyESCsqM=
+
+Name: res/drawable-night-mdpi-v8/ic_video_box.png
+SHA1-Digest: CAQoiLZDfsFOIkXZOYWRHQ+BQaw=
+
+Name: res/drawable/ic_star.xml
+SHA1-Digest: hIW+rOhDh0NpCCA7yAXpG+aNo1A=
+
+Name: assets/pics/mstislav.jpg
+SHA1-Digest: ZV4aFRQ3/m7qXbCSgpaXT1DJ7iI=
+
+Name: assets/pics/picto/pers_black.png
+SHA1-Digest: FIlSPdfgP/gybeBePovOzm0Jp2g=
+
+Name: assets/pics/snv_2.jpg
+SHA1-Digest: aI22AitoP8UvakgNak0u4p/FZ3s=
+
+Name: res/layout/content_cards.xml
+SHA1-Digest: ZeT1bMys34JWFoaNCNRUSN1SPyw=
+
+Name: assets/pics/riot_dekabrist.jpg
+SHA1-Digest: NSu8zX5r0qTHnwZ/c3mrGaRsApU=
+
+Name: assets/pics/andrey_rublev.jpg
+SHA1-Digest: nbFcuLbiZUnTgS90FoFYMwFRtgs=
+
+Name: res/drawable-xhdpi-v4/ic_close_white_24dp.png
+SHA1-Digest: bIlJaAEl2adYRF7WDJvOcf87hv0=
+
+Name: res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+SHA1-Digest: 7xkdWou9+c8g+i5dOMbahB2ZbnM=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: assets/pics/moskva_rostov.jpg
+SHA1-Digest: OuWkPr/HsNb7pbRafpn0SNG3jeg=
+
+Name: assets/pics/gallery/arch/palace_kremlin.jpg
+SHA1-Digest: +zmcx6H/mMb8X++n9XJw8jnSg8o=
+
+Name: assets/pics/malinovsky.jpg
+SHA1-Digest: YmPHxwh/a6J/f6eAWIowMj6UnjQ=
+
+Name: res/color/material_slider_halo_color.xml
+SHA1-Digest: euax3bIC0TqfSXYugUjDQ64uDkk=
+
+Name: res/layout/section_list_item.xml
+SHA1-Digest: cVUwhvDphXI/rBmhPq9UbTsi+2Y=
+
+Name: assets/pics/ww2_kavkaz.jpg
+SHA1-Digest: pKiFUMg5E2yUGZpeWb3/kBPtlok=
+
+Name: res/drawable-mdpi-v4/ic_apk_box.png
+SHA1-Digest: XYHRVeXhcWnhqdyV0LHm899vj6s=
+
+Name: convertSplitOnWhitespace.properties
+SHA1-Digest: ZiANexdKPClLj+Rs0/NRrpvEnU4=
+
+Name: assets/pics/baltiya.jpg
+SHA1-Digest: saoRF3ZTxWXfZFWlPdokQVOCQmo=
+
+Name: assets/pics/minin.jpg
+SHA1-Digest: UubxHieOVd28FhFSOqYHPf6r+1A=
+
+Name: assets/pics/tver_knyaz.jpg
+SHA1-Digest: /qPRcaB3/HqSuV43TIB7Y8a7CRo=
+
+Name: res/layout/mtrl_picker_actions.xml
+SHA1-Digest: ruqTrWkroFteg5pbAv6Jz3qdTgo=
+
+Name: assets/pics/gallery/paint/ivan_tsarevitch.jpg
+SHA1-Digest: uN64Vf4H+R47TmGwTHwJVG6QVlA=
+
+Name: assets/pics/moskva_yaroslavl.jpg
+SHA1-Digest: Rp8JljqO+yqGj3UFEBFTdlykfBA=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: nEfj0nfPBbqur1eTMAml8UkS7G0=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: AOfMpNzBiO7X4QwYntEFRULIG9I=
+
+Name: assets/pics/petr_1_assembly.jpg
+SHA1-Digest: tnyI9bwTwhBa9Qxntq1A5SW4nWk=
+
+Name: res/layout/mtrl_calendar_month.xml
+SHA1-Digest: tE8mIiQDQ3datA5p1HBRbaM8Ygk=
+
+Name: res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: ZYJ1BoJIcaecjErjG6bFDuhhj2Q=
+
+Name: res/layout/category_list_item.xml
+SHA1-Digest: VmPxjlTI8HcYtC1K4zHW2WyhZTU=
+
+Name: assets/pics/maps/map_rus_13_defense.jpg
+SHA1-Digest: Rmr43Clg7Her7gILuKM9yPrIYkA=
+
+Name: res/drawable-hdpi-v4/ic_splash.png
+SHA1-Digest: Fc/EIofek0z8RlhTyLvH1QNdQ+g=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA1-Digest: 7XuPV/5LcgwEMbWE7PW1eF1qanw=
+
+Name: assets/pics/kosigin.jpg
+SHA1-Digest: GqXRuRWYhmwL6OI+lrE+2jmZAGc=
+
+Name: res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+SHA1-Digest: gEnV2rFFInV8QCopkdc2SHhe+Ok=
+
+Name: assets/pics/maps/rus_1520.jpg
+SHA1-Digest: zQ1KUKad6+yReqDqF+0qHQaVXP0=
+
+Name: assets/pics/vlast_sovetov.jpg
+SHA1-Digest: a3DgCgwGN5qBOCNmrGXOu1IPI4g=
+
+Name: assets/pics/gallery/paint/ohotniki.jpg
+SHA1-Digest: VuaVQK3yXRGxkZGzGeAGGMaHE7c=
+
+Name: assets/pics/ww2_yaponia_end.jpg
+SHA1-Digest: jeszt+A0mdFurtCYGXhUzlsO0GY=
+
+Name: assets/pics/sev.jpg
+SHA1-Digest: CjvC/a6NtK/sQwSG8YvNqCInIcg=
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA1-Digest: +f03CorvutQwF18BUo2rytQQAP4=
+
+Name: res/menu/bottom_nav_gallery.xml
+SHA1-Digest: QFXL18YCM+gZMK0CO+o4R/JdEds=
+
+Name: assets/pics/picto/image_blue_l.png
+SHA1-Digest: OH7AUXKOtmMyubzINorOXuAxXJE=
+
+Name: res/color/mtrl_btn_text_btn_ripple_color.xml
+SHA1-Digest: VGPG8nUMP/as/NhWHtGOBGJRmG0=
+
+Name: res/layout/content_sub_section.xml
+SHA1-Digest: C1YM28XPyeYtTkj+c4Uz/fK5gOQ=
+
+Name: res/layout/view_cat_set_title.xml
+SHA1-Digest: 8rcsOnNPjJPsexyTS+6eETG7Eo8=
+
+Name: res/xml/standalone_badge.xml
+SHA1-Digest: Cc75CHaNGA08I2vrhm0vWSYYErA=
+
+Name: assets/pics/gallery/paint/Feodor_1.jpg
+SHA1-Digest: CcVUfMP+ZaaaJxSSq9ikRnUayJk=
+
+Name: assets/pics/ww2_hirosima.jpg
+SHA1-Digest: wCjqs+OFJvFAFIztTHyhRTzeKCk=
+
+Name: assets/pics/gallery/sculpture/sc_lenin.jpg
+SHA1-Digest: GK91x9fYTOQktf+XcrmeA2iwzuA=
+
+Name: assets/pics/zemlya_i_volya.jpg
+SHA1-Digest: ryv0C3X3eqB/owDjC3v/SLPFgIg=
+
+Name: res/drawable/ic_view_grid_outline.xml
+SHA1-Digest: wzynTHIV4p6/OWCoJ2g01i0omtg=
+
+Name: assets/pics/ww2_berlin.jpg
+SHA1-Digest: mXOEMBNSDK5vQmWuiXlDbK3ACG4=
+
+Name: assets/pics/medvedev_wow.jpg
+SHA1-Digest: /3yfGnBFjDhQ1tiZ0mgUbuyDAFU=
+
+Name: assets/pics/gallery/flag/gerb_19v.jpg
+SHA1-Digest: 6ROIc2ZIvAZT5utrZiYsn3p0Y7A=
+
+Name: res/layout/test_design_checkbox.xml
+SHA1-Digest: LyzOO+VhIQaFxARVsZQyFtYZGSg=
+
+Name: assets/pics/bakunin.jpg
+SHA1-Digest: yN0Nux2FKiIhXynKYLmSinDE+74=
+
+Name: assets/pics/picto/pers_red.png
+SHA1-Digest: qquYXQX6TIyhJK8a0+WESKecsHQ=
+
+Name: assets/pics/voroshilov.jpg
+SHA1-Digest: U/Sux0sK1nRIBszAOIn7UBy+NBs=
+
+Name: assets/pics/yuri_den_2.jpg
+SHA1-Digest: hJ4ZZ3lj+UWA9ONqJVzuKtkKDKY=
+
+Name: res/color/mtrl_bottom_nav_ripple_color.xml
+SHA1-Digest: gzCaM2j0p8rLw/6H1xUYh4R2+1o=
+
+Name: assets/dates.json
+SHA1-Digest: tpoMpCTy3lJjEwcz9isJEcUhkhA=
+
+Name: res/drawable-xxxhdpi-v4/ic_music_box.png
+SHA1-Digest: BNQczIKzoJr1tbIxunqOc4tXAMg=
+
+Name: assets/pics/gallery/arch/sobor_troitskiy.jpg
+SHA1-Digest: KxviGR3NSpxiO09MmaytzDGuu/g=
+
+Name: res/drawable/text_round_blue_bg.xml
+SHA1-Digest: +BbMQjyr7/nyGbqKGghLsuPWKOw=
+
+Name: res/layout/category_list_item_divider.xml
+SHA1-Digest: Wp0xxr9gLbfDszCAh0FwMq4HAZg=
+
+Name: assets/pics/picto/pers_red_l.png
+SHA1-Digest: 5GFtgaIBQh4KU4Mx+niBUva4CFM=
+
+Name: assets/pics/ww2_kvantun.jpg
+SHA1-Digest: 8gO3yT0YioFsptcRxzIRUn1rUxM=
+
+Name: res/animator/mtrl_card_state_list_anim.xml
+SHA1-Digest: T1cYZIBzdwzfdq4vGRgjyCEBHxQ=
+
+Name: res/drawable/ic_contact_mail.xml
+SHA1-Digest: 09IxXRm8W83GtfEM/4PdXKgw0lw=
+
+Name: assets/pics/gallery/arch/sobor_uspenskiy.jpg
+SHA1-Digest: IAeFykzBQi4lITERHhrMOFhbE48=
+
+Name: assets/config.bin.bytes
+SHA1-Digest: jWHnQdhh0zph1WNxIfHKOAkp6tE=
+
+Name: res/color/radiobutton_themeable_attribute_color.xml
+SHA1-Digest: 3se7jBTOHyDqk+2+sa0ic+6Isaw=
+
+Name: assets/pics/ivan_4.jpg
+SHA1-Digest: XQyzpz3Z0Iom034jXnqRbbZ9AyE=
+
+Name: res/drawable/text_round_gray_bg_v1.xml
+SHA1-Digest: Jnc61i/HCmOblw4t1THfazGNxBY=
+
+Name: assets/pics/picto/shape_blue.png
+SHA1-Digest: PofoEPdsf3UsPKL+ULWKgtbipk0=
+
+Name: res/layout/fragment_stats.xml
+SHA1-Digest: eP8UPakC7oa6ww1OKlfBFl2iEx0=
+
+Name: res/layout/fragment_directory.xml
+SHA1-Digest: jEG1vnJdlQMp/bZ7gy3Fw2zqyDA=
+
+Name: assets/pics/picto/image_green_l.png
+SHA1-Digest: qQB/Cml6cmxULAlAMoBUXi7L//s=
+
+Name: res/drawable-night-xhdpi-v8/ic_music_box.png
+SHA1-Digest: nC+vWmUiKiHeMpeArZWoGnlmeJQ=
+
+Name: res/drawable/design_ic_visibility_off.xml
+SHA1-Digest: DX8MCTvWTq+cJnUkUBvLqwlfh48=
+
+Name: res/drawable-hdpi-v4/ic_image_box.png
+SHA1-Digest: ptPADCRsCKXE9uGxk7e3QVWdJVo=
+
+Name: assets/pics/gallery/pers/pers_turgenev.jpg
+SHA1-Digest: 17eDZnnJGVTtu/WKyhx/aUvvyp8=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: RytFyEfqEs93R6VRqkCU7yq3YJM=
+
+Name: res/drawable/ic_emo_good_bg.xml
+SHA1-Digest: 1n5mQCPv6mgrMg1oUpPdCkmZGuw=
+
+Name: res/layout/content_user_list.xml
+SHA1-Digest: SrRhOttklpt4Szk2LEGOvsUGQBo=
+
+Name: res/animator/mtrl_btn_unelevated_state_list_anim.xml
+SHA1-Digest: rqj+s2tNzgjYoveRvMFhGi6Rhq4=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: +/cT3+0N8I+XSw0FPP5O3x2f5g4=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: V9ZRz4uYSjw8C/JnmdHYu8FANYY=
+
+Name: assets/pics/gallery/pers/pers_pavlov.jpg
+SHA1-Digest: pZqW+Odj3wroMncxzVnvUkvXdrQ=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: Osfw11YL10WQkjXxgGt64AbLp0M=
+
+Name: res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpola
+ tor_0.xml
+SHA1-Digest: 8YKmDaoIyU5UJZwrlw5/59+pZKI=
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA1-Digest: UyMU/iMRXtvXrbej9XguhW1UjGA=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_zip_box.png
+SHA1-Digest: IszipTS144HWABTiNJt9SvmgFOw=
+
+Name: assets/pics/gallery/arch/palace_winter.jpg
+SHA1-Digest: pPq0rG5ziUDkKibu5RbkTvW2tfs=
+
+Name: res/drawable-mdpi-v4/ic_music_box.png
+SHA1-Digest: UUG9HiUosAVwevvmn+QsQIr60sQ=
+
+Name: res/drawable/ic_nav_settings_dialog.xml
+SHA1-Digest: YEz+iuAES7gXtZe7t7LPRgQ8BEA=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: OobBJEZAUAu5noeKJahrC0+vHsE=
+
+Name: res/layout/content_progress_stats.xml
+SHA1-Digest: Rk8erCx0BrdlTyouOiyAtKCd4sI=
+
+Name: assets/pics/gallery/paint/ekaterina_2.jpg
+SHA1-Digest: ZP/XOeyO6s7/kV3Qpf1G+Dxa+DA=
+
+Name: assets/pics/jelyabov.jpg
+SHA1-Digest: +Xw/PZEWPLvlfnEF47seqqqwr7Y=
+
+Name: assets/pics/picto/flower_black_l.png
+SHA1-Digest: X5/qQSIKcnDRE2V40w2DE7HlXn0=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: h2qI9rj5oB5ZrbOnk6/Zwcp9lC8=
+
+Name: assets/pics/battle_austerlitz.jpg
+SHA1-Digest: 3GTvBlXTAalGufZnWrNKagxEnqI=
+
+Name: assets/pics/gallery/pers/pers_tsiolkovskiy.jpg
+SHA1-Digest: oHR7VV0QUUARYyUtDp49bVjgRNE=
+
+Name: assets/pics/ww2_dnepr.jpg
+SHA1-Digest: f5Iw8tBfko5WrPvC8Bp2ysWQYi0=
+
+Name: assets/pics/notes/note_red.png
+SHA1-Digest: D9rN2/D1Ql3lm+/L3fKqllgZd14=
+
+Name: assets/pics/pavel_ukaz.jpg
+SHA1-Digest: eA8mNqtHzFctol2Wu7q8phUO/E0=
+
+Name: res/color/mtrl_fab_ripple_color.xml
+SHA1-Digest: b2UsNUalUA49fKx7E7LO8BqzrdM=
+
+Name: res/drawable-night-mdpi-v8/ic_music_box.png
+SHA1-Digest: A0KN4zc2ZVKMJMJ/Og0uc8VQyzk=
+
+Name: res/color/material_slider_thumb_color.xml
+SHA1-Digest: vVem0nh5HwW0E65unWImwTt8RLw=
+
+Name: res/layout/preference_information.xml
+SHA1-Digest: 5aqG3/ZbpWqeSngiVdt+YU++FXE=
+
+Name: res/layout/fragment_notes.xml
+SHA1-Digest: g252NN3hBUbKMVLVc42qn21Iso4=
+
+Name: res/drawable-night-mdpi-v8/ic_document_box.png
+SHA1-Digest: 2OoQee35vz5MEPdt6uRAxrAWcpo=
+
+Name: res/drawable-mdpi-v4/ic_document_box.png
+SHA1-Digest: +hgPK2xtjhgr9DqXw6BNCIndleE=
+
+Name: res/layout/fragment_stats_diagram_include1.xml
+SHA1-Digest: 1y7bsOirZy/8hJIyQ2zDhvAXShM=
+
+Name: res/drawable-xxxhdpi-v4/ic_document_box.png
+SHA1-Digest: 4YL6EarU5mYvd8dXyiLY9iJ+0aU=
+
+Name: assets/pics/kankrin.jpg
+SHA1-Digest: ur63YwaEtg3UCK/y61XJK3GXsPc=
+
+Name: res/menu/menu_flashcard.xml
+SHA1-Digest: EgXTAol2wCp00SboThoMOpCAdWM=
+
+Name: assets/pics/gallery/sculpture/sc_petr_1.jpg
+SHA1-Digest: 9ZQC1zYmbJAGSpWg6YTDOuuKgCk=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: i6pCyKNDkCGzNzTp71ixAq/8VCM=
+
+Name: assets/pics/notes/flag_teal.png
+SHA1-Digest: q4lKHvuxoIKDVKmdwQQtJ1vYVkE=
+
+Name: assets/pics/gallery/monument/monument_stalingrad.jpg
+SHA1-Digest: N3zgq8Z7jI0nJ/JhklMDPi4C3tg=
+
+Name: res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xm
+ l
+SHA1-Digest: mTrqLMWtcdSXCADUMQ2RH0Q67nI=
+
+Name: assets/pics/battle_1612.jpg
+SHA1-Digest: zaVCBneB6VQZnCAn67cF7mO9bSg=
+
+Name: assets/pics/partiya_sr.jpg
+SHA1-Digest: elvrpxS2OT+woRV0v/vYswnwy7A=
+
+Name: assets/data.json
+SHA1-Digest: 4Rr1rY/53WAx1lCxou2JVmbPv8c=
+
+Name: assets/pics/picto/image_red.png
+SHA1-Digest: dTkh+AQUp+cCITgVZH8RFMzHiko=
+
+Name: res/layout/mtrl_calendar_months.xml
+SHA1-Digest: ID139NQFfAGPeJYYHVfBXB/gWqE=
+
+Name: res/anim-v21/design_bottom_sheet_slide_out.xml
+SHA1-Digest: YgZQ7aXZVpivnbh5UX+K8YEGGGA=
+
+Name: assets/pics/rus_turk_1828.jpg
+SHA1-Digest: pY76sTBYCYfKHiE7a9Sc7OwqUMQ=
+
+Name: res/color/mtrl_card_view_foreground.xml
+SHA1-Digest: Dfl9zdCtDHRaQ+aWvRr4sqgCfIc=
+
+Name: assets/pics/danill_zatochnik.jpg
+SHA1-Digest: Yp4H1eODRhinyMvUwni3SFIhB1M=
+
+Name: res/drawable-night-hdpi-v8/ic_drawing_box.png
+SHA1-Digest: xt3eOxll3LXiCJtnTOEn+X92hQc=
+
+Name: assets/pics/bering.jpg
+SHA1-Digest: LJAKiDwev+PhwJ0Jhq3llBLMpT8=
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA1-Digest: n629cZEQrdiyFxcxIIF9G1wSBKQ=
+
+Name: assets/pics/subudei.jpg
+SHA1-Digest: X09+HYjNam+Wh7A21XSCoiF1JPY=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: KNeuxjJeOss8IP0JXYKjFjOPVPU=
+
+Name: res/xml/standalone_badge_gravity_bottom_start.xml
+SHA1-Digest: OHzcreiHd15YgFqAd+oo0r5e944=
+
+Name: res/drawable/ic_import.xml
+SHA1-Digest: 3Y3GZiiE6KM0rqzn+xXVwH4Vvtw=
+
+Name: res/layout/design_navigation_item_separator.xml
+SHA1-Digest: r2vgFB5cINO+jeTDotF6KHbFrqU=
+
+Name: play-services-ads-lite.properties
+SHA1-Digest: gKcZmBLjNdbHFI2BI9Pn3QDN/xQ=
+
+Name: assets/pics/mstislav_udaloy.jpg
+SHA1-Digest: TjmttzGb9Lb46bynE1LEA9nhWww=
+
+Name: assets/pics/rubl_1947.jpg
+SHA1-Digest: 7+1VUhLD/cEdXTcZPDG8miKdIdk=
+
+Name: assets/pics/vsevolod_big.jpg
+SHA1-Digest: oOu+UO7TIXG6h2qw65Elo3+aA3g=
+
+Name: res/drawable/text_round_green_bg_v1.xml
+SHA1-Digest: 49A+NHaKSPoblC8+RhP2ML++bDQ=
+
+Name: assets/pics/govern_temp.jpg
+SHA1-Digest: 1C3ZjETQDFTTsry34acXC+gp/Kg=
+
+Name: assets/pics/aleksandr_nevskiy.jpg
+SHA1-Digest: KzKZxBgxrBc4Y7YOoVjdGFZVsvM=
+
+Name: assets/pics/fedor.jpg
+SHA1-Digest: RE989dGGnE8DFxYM/K3LeGYEXkw=
+
+Name: assets/pics/nikon.jpg
+SHA1-Digest: HNlVJi0bn+4rH6IfRYZH7gRq9Ow=
+
+Name: assets/pics/ww2_stalingrad.jpg
+SHA1-Digest: fEtzByiuVivL07990t8LtxNEiC8=
+
+Name: assets/pics/ww2_yaponia.jpg
+SHA1-Digest: cBY6XuD74kBIwkVB3QW+ml9kXSc=
+
+Name: assets/pics/notes/calendar.png
+SHA1-Digest: 4wFG0ABWTBCXjQ/3OToh6KyZ+MY=
+
+Name: res/drawable-v21/bg_clickable.xml
+SHA1-Digest: pGAm+FC5Z50owNtoN0ay/iB5XZg=
+
+Name: assets/pics/ivan_4_kazan.jpg
+SHA1-Digest: r1Pz3dcP3uYRthrdjBIMR8lftuU=
+
+Name: res/drawable-night-xxhdpi-v8/ic_powerpoint_box.png
+SHA1-Digest: nFUbxA3IKKG9iNxZdVs6+Xy0+EE=
+
+Name: res/color/mtrl_choice_chip_background_color.xml
+SHA1-Digest: zYBY4aXP8vuu8UpatM5Hk4iN5u8=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: bvkSnzG+4r12dRWJRd9DLrqCzfU=
+
+Name: assets/pics/ivan_6.jpg
+SHA1-Digest: 45OhKviU3XiLF1PgPbQB/nl8OD8=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: YfqyHBz9osRR6S+Oj5qpQ+T1Iao=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: j75scoSTfHMNlHGrvDLzc6pLD5s=
+
+Name: res/drawable/ic_cat_progress_perfect.xml
+SHA1-Digest: FSF4CbTnjqSOBDIzORrBn7rNaQQ=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: sA2JlJ7dTnGvzbl9Sl4MbHpmomA=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: DuyQaJtshThL4AgyYcGva6U0fi0=
+
+Name: res/drawable/menu_border_right.xml
+SHA1-Digest: LIDIjcK1n23GyrYqpuPQUUnfYDo=
+
+Name: assets/pics/aleksandr_1_3.jpg
+SHA1-Digest: +Uu+51IIh86Wg88t63HElV4BkKI=
+
+Name: assets/pics/picto/flower_red.png
+SHA1-Digest: oXH4WGQiW1+QX6X9pYQhpcxRW1c=
+
+Name: assets/pics/gallery/arch/palace_terem.jpg
+SHA1-Digest: CPE8qjNf9hWwfcA3VsVMWPxRLmk=
+
+Name: res/drawable/ic_star_bg.xml
+SHA1-Digest: KZwHGpOxrGpI3XCEL5oIeDwRhqk=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: ivpLQ63tfOD0ISnUmDRNp3o0jBk=
+
+Name: assets/pics/kavkaz.jpg
+SHA1-Digest: 39AqSSWFNk9otZCoQlT52/7GEPE=
+
+Name: res/drawable-night-mdpi-v8/ic_powerpoint_box.png
+SHA1-Digest: XwatlFT5F8vg/p6wGa4csYdJnbM=
+
+Name: assets/pics/pomeschik_torg.jpg
+SHA1-Digest: x2WvnUqtcidumHLCtUnJwFACxqc=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: suYrMrN3jNVeh2w5jNf17Wuz0tM=
+
+Name: res/xml/standalone_badge_offset.xml
+SHA1-Digest: 2/0uwqYptTe0Q1dyUMlRpN/UjnE=
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA1-Digest: BrZ+ombEXqAKJP0alsXzHg79e/k=
+
+Name: assets/pics/gallery/pers/pers_lermontov.jpg
+SHA1-Digest: HGXdNSQPKDQfcRE/XxeZ4rmFF/g=
+
+Name: res/drawable-xhdpi-v4/ic_file_gray_116dp.png
+SHA1-Digest: XdanqUr2pohzJZNckRGsZsyV4y4=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: EikVyBT5I7pmbJO2k8qF0V5hUc0=
+
+Name: assets/pics/gallery/arch/spasskaya_tower.jpg
+SHA1-Digest: lvigw2XzJ+gstuLHex6TB3Tlj+M=
+
+Name: assets/pics/kalka.jpg
+SHA1-Digest: JzZhSaRFmPci42i4uWErXtXY7mg=
+
+Name: assets/pics/bogdan_hmel.jpg
+SHA1-Digest: cDIOBPlja1xWnm5O1ZioWKIv87Y=
+
+Name: res/layout/content_section_list.xml
+SHA1-Digest: yc58gREi+7V9FybwUPdTtng8wsw=
+
+Name: assets/pics/gallery/paint/polden.jpg
+SHA1-Digest: 8s1fHToa3uyO4huX4Ywn77FPXqs=
+
+Name: assets/pics/maps/map_war_stalingrad.jpg
+SHA1-Digest: GOKXdp9fU6qiCtniEYs7GnjKMw4=
+
+Name: assets/pics/nahimov.jpg
+SHA1-Digest: AFVWIiOKcWIS41D1pJor8fxHWZs=
+
+Name: assets/pics/gallery/pers/pers_botkin.jpg
+SHA1-Digest: noeZpej5kyT3vBDcwWlPoqrOQeA=
+
+Name: res/layout/content_section.xml
+SHA1-Digest: yJC8hFmhbEOTbdIGDHJ19JNYma4=
+
+Name: assets/pics/zinoviev.jpg
+SHA1-Digest: UQgYJtFkBTUQPMEkVIdS/uO5Gz0=
+
+Name: assets/pics/yakovlev.jpg
+SHA1-Digest: 8vQKwNyX17yxkhNpsUqmqpglu/A=
+
+Name: res/color-v23/abc_btn_colored_text_material.xml
+SHA1-Digest: c/JySMP3K3upfEb8gadPtwhqkes=
+
+Name: res/drawable-night-hdpi-v8/ic_video_box.png
+SHA1-Digest: 6QpG3G0a58+vXqamgbxianTtxWY=
+
+Name: assets/pics/gallery/pers/pers_yaroslav.jpg
+SHA1-Digest: muyGiWF/RBtMsxTFwDU3bUwPHJw=
+
+Name: res/drawable-night-hdpi-v8/ic_certificate_box.png
+SHA1-Digest: VzDWz1jnUuiydEMJ6sEc1k7WmiY=
+
+Name: res/layout-sw600dp-v13/fragment_stats_progress_widgets_include.x
+ ml
+SHA1-Digest: +IZmszUDEILjK21SdndG/3QNYUk=
+
+Name: res/layout/preference.xml
+SHA1-Digest: umHJfBanW/epLJ9o3cyxFmPjDzM=
+
+Name: assets/pics/cherchil.jpg
+SHA1-Digest: XtewcsuJ41NwFNeGZGU98xhP0Sk=
+
+Name: assets/pics/notes/text.png
+SHA1-Digest: j+IgA1Xub29/xuDcmzmjccwOfvo=
+
+Name: res/animator/mtrl_extended_fab_hide_motion_spec.xml
+SHA1-Digest: QD9I1Lw+4TPgcpn8vfGiCe0qWIU=
+
+Name: res/drawable/ic_nav_more_circle.xml
+SHA1-Digest: 4ZeihIDmbIc6HLAm7PuBvtx+FBk=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: cW1XaUco31lhil78QoORyKZmwCc=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: +/EVQx+kYoPF0lsqyW1sWq/N85U=
+
+Name: assets/pics/gallery/sculpture/sc_pavel.jpg
+SHA1-Digest: fcPR4t97jn+pSlZg9vwz7zoi8W4=
+
+Name: assets/pics/karta_ussr.jpg
+SHA1-Digest: 6PEep0srVmFISXghykhX8MkCtVw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: 1y+vuoD2qUEyG9rLg5RKbDNziXo=
+
+Name: assets/pics/gallery/sculpture/menshikov.png
+SHA1-Digest: w35C3l4oMLqsl/pYOj4WFDkG9U0=
+
+Name: res/layout/activity_reference.xml
+SHA1-Digest: bKh+up7/5mT4AO24PcOdnALXID4=
+
+Name: assets/pics/timur_vs_tokhtamish.jpg
+SHA1-Digest: t0kAi8BLjUPmflTIjNPvTSSS9yQ=
+
+Name: assets/pics/war_1_pehota.jpg
+SHA1-Digest: UEQR8zcOquxWff++fuKXtRI1iPg=
+
+Name: res/menu/menu.xml
+SHA1-Digest: Pv+WwPlh+0j55cKmtYiEIWKX/Xk=
+
+Name: res/layout/view_gallery_card.xml
+SHA1-Digest: JgyADBSnYTfLaCsTtQWgMSl2UGY=
+
+Name: assets/pics/gallery/flag/gerb_20_rf.jpg
+SHA1-Digest: I/rpJEmyYQjxKhMJTB3GytJ6CbU=
+
+Name: assets/pics/dogovor_1875.jpg
+SHA1-Digest: ioCmc5TfFZcluAukvXoDhijWgNc=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: zxUoWT+pdOdHlu6S3N24afaFkfo=
+
+Name: assets/pics/gallery/pers/pers_saharov.jpg
+SHA1-Digest: Nlmf+EXv63BMBlgXPXEVyffTMME=
+
+Name: res/layout/activity_search.xml
+SHA1-Digest: QE0JVKEcnbfrmY79xj0OouabC6k=
+
+Name: res/color/mtrl_bottom_nav_item_tint.xml
+SHA1-Digest: ZajcoosNGCsqf3Gb0vG3O5540s8=
+
+Name: assets/pics/maps/russia_1613-1914.png
+SHA1-Digest: P3vHaDEiK1l8eCRb33H/unw2cfk=
+
+Name: assets/pics/maps/map_war_1812.jpg
+SHA1-Digest: YtH0ozRLrkPyFRXChCzaIixS5/c=
+
+Name: res/drawable-xxxhdpi-v4/ic_arrow_down_24dp.png
+SHA1-Digest: yfY+Knkz+wgV4xghQsmoRFOzf/k=
+
+Name: res/layout/mtrl_calendar_day.xml
+SHA1-Digest: tc5GGGylhQ5Y62whdhYSy0593SY=
+
+Name: res/color/color_text_btn.xml
+SHA1-Digest: RIGRNH9z7CzVax0pcD04rM6AnEY=
+
+Name: assets/pics/gallery/arch/sobor_isaak.jpg
+SHA1-Digest: wxfxRtuch5AYx71tO2LqAAcgE24=
+
+Name: assets/pics/bogolubskiy.jpg
+SHA1-Digest: C1Vzh/RIOd2Jry01fExgUGLhrVM=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: iqQuVmbOps4ovtdnl1H7qB4+gGs=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: LJhGIJ9ykH+SLTXwcnjoa1J97NE=
+
+Name: assets/details.json
+SHA1-Digest: p1GOtMW1un2v2sc60A6ULtZaYuM=
+
+Name: assets/pics/brusilov.jpg
+SHA1-Digest: j3UePZEeedJohnAiNfwwDppFPHM=
+
+Name: assets/pics/gallery/monument/obelisk_kutuzov.jpeg
+SHA1-Digest: A/HtLgvL16iJwTMScUmf6Vdkd0U=
+
+Name: assets/pics/gallery/paint/ivan_4.jpg
+SHA1-Digest: AHoXdvpTKGszrAUCBKWSYyftEsE=
+
+Name: res/drawable-xxhdpi-v4/ic_excel_box.png
+SHA1-Digest: x6GVBuBAqOe57lPqLZh7nVe1gT0=
+
+Name: res/layout/content_main.xml
+SHA1-Digest: 5Iog4TfqNpqI3zxXIk6zRdbQOpI=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.p
+ ng
+SHA1-Digest: sbqUAnAP9Ic0aSxtt345LLubAZ0=
+
+Name: res/drawable-xxxhdpi-v4/ic_video_box.png
+SHA1-Digest: PnDieBNxWh9CPSXBnlUy8UN39Ic=
+
+Name: assets/pics/gallery/paint/bogatyri.jpg
+SHA1-Digest: 8Gh/YyxSo55A/7jqgkKYbcZXHAQ=
+
+Name: assets/pics/volotskiy.jpg
+SHA1-Digest: wYEI4R6YRIymZFs0eP3WC77KJ2Q=
+
+Name: assets/pics/battle_davlet_girey.jpg
+SHA1-Digest: bMVVYfADvk4LYA1hQQP/C5BBUjQ=
+
+Name: assets/pics/igor_pohod.jpg
+SHA1-Digest: RLa90c21iV6v0GxryT6i7qrDi9Q=
+
+Name: assets/pics/ivan_3.jpg
+SHA1-Digest: 1NuxxEGYOEaX9/7V5iEbkuuh4yA=
+
+Name: res/layout/mtrl_picker_text_input_date_range.xml
+SHA1-Digest: O4DdugupPyuC3cXl3trY4vQSHsc=
+
+Name: res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: SBazQIyTEXORINVc0Qu1mBBqGK8=
+
+Name: res/color/mtrl_outlined_icon_tint.xml
+SHA1-Digest: A+Z8YSwRPAm2nYci9bzfoGpIm0o=
+
+Name: assets/pics/gallery/pers/pers_mechnikov.jpg
+SHA1-Digest: oi9dQFmfEto3u+GWfe7cbt+sGwc=
+
+Name: res/interpolator/btn_checkbox_checked_mtrl_animation_interpolato
+ r_1.xml
+SHA1-Digest: 8MpuwYdjLzcIJdUY+UVQ3ICY5ns=
+
+Name: res/drawable-night-hdpi-v8/ic_powerpoint_box.png
+SHA1-Digest: MJSstDDJzDB9YzQWu1EyVf0y9Ds=
+
+Name: res/drawable/avd_hide_password.xml
+SHA1-Digest: Bk3SuVXSTanOZwXCPj6uDbO82Wg=
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA1-Digest: vGQIFIgkswlhx96bKd3lDw9EV4g=
+
+Name: assets/structure.json
+SHA1-Digest: UIyHcKxXM/KlGM55aEds8nfkyU4=
+
+Name: res/color/mtrl_tabs_legacy_text_color_selector.xml
+SHA1-Digest: SnRFQKfmo+x9jIi5gLfiIIqU0mM=
+
+Name: assets/pics/dogovor_ussr.jpg
+SHA1-Digest: yHnRGv7pqogn4AQRivjwQcTJxCQ=
+
+Name: res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml
+SHA1-Digest: W9+XvLwlnKRmOHvr0paELZY5HAc=
+
+Name: assets/pics/gallery/flag/gerb_20_soviet_3.jpg
+SHA1-Digest: q5Y/j3nkk4TayEenBcf/+B2lhW8=
+
+Name: assets/pics/afgan_end.jpg
+SHA1-Digest: JFzSlySY7xZVRwBd4WcUn95oXOA=
+
+Name: res/layout/design_layout_snackbar.xml
+SHA1-Digest: 4ZPQOmS5IoGJfuZliu8k50A+LPY=
+
+Name: res/anim/fade_out_img_back.xml
+SHA1-Digest: wddatQSlYsG1BW7qoRbsrJBigBU=
+
+Name: res/drawable/ic_stats_review_bg.xml
+SHA1-Digest: 5jFykylGlnRE4gQ3zc1GSlUDeXY=
+
+Name: assets/pics/al_nevskiy.jpg
+SHA1-Digest: n71OrGccX50k6i1Rj1ljqHPcf2c=
+
+Name: res/layout/text_view_without_line_height.xml
+SHA1-Digest: QX7kgsmoVRIabA9z4QTgoTX7S10=
+
+Name: assets/pics/kostomarov.jpg
+SHA1-Digest: Kzk6ZSnGL5LL7NaNd0fA2r7fT9A=
+
+Name: res/layout/design_bottom_sheet_dialog.xml
+SHA1-Digest: oreF2yJJECLbSa6gxJJ1aygrGtg=
+
+Name: assets/pics/notes/info.png
+SHA1-Digest: kmEPqjq6qHt51DYyn8eGlFtb6B0=
+
+Name: res/drawable/ic_stats_review.xml
+SHA1-Digest: /tqLRFGKpWZJvBwJGLVfnmhD0wA=
+
+Name: assets/pics/picto/image_black_l.png
+SHA1-Digest: 7wI34b1ZTZ+4QJO5nXtKmtIFBJw=
+
+Name: assets/pics/nikolay_2_otrek.jpg
+SHA1-Digest: yX5ga02HCotCwlwPfvSAiwTEtt4=
+
+Name: assets/pics/dogovor_1963.jpg
+SHA1-Digest: yQYFd/qEMuEal4P3agzbsEGIgbM=
+
+Name: assets/pics/rasputin.jpg
+SHA1-Digest: mvc9oJa5QDRYeKsOX+YACkrEklo=
+
+Name: res/layout/expand_button.xml
+SHA1-Digest: ivlb34hf8/lEw/v2zdVxfe/Tm4s=
+
+Name: assets/pics/gallery/arch/sobor_spasitel.jpg
+SHA1-Digest: Lk+3gJhPMsBxUGZHv7Kn8Hj071E=
+
+Name: assets/pics/gaydar.jpg
+SHA1-Digest: Ncs+xPOTKilg7qpJAx5Vpouxb2E=
+
+Name: assets/pics/ivan_4_oprichniki.jpg
+SHA1-Digest: gm9WFw+ZJCy5O2DkL0qTrmUMGfQ=
+
+Name: assets/pics/ww2_leningrad.jpg
+SHA1-Digest: mcWvKSC817oPiW4RWSDOds+is3c=
+
+Name: assets/pics/ivan_4_tsar.jpg
+SHA1-Digest: qMSvJiKyHA83/Bb0LZPP+tYoWxE=
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA1-Digest: ltcGKnM8KK80TV66MhqorTuNPcg=
+
+Name: assets/pics/gallery/pers/pers_karamzin.jpg
+SHA1-Digest: k0Dmhxlke4cFl+ci1QKQiEKieIg=
+
+Name: res/drawable/ic_view_list.xml
+SHA1-Digest: OFL1OzWSKcsBg0l0cMkzXqxHlAE=
+
+Name: assets/pics/livonia.jpg
+SHA1-Digest: No2NiaBH3FuNlEMlHbChliQTVHk=
+
+Name: assets/pics/gallery/pers/pers_musorgskiy.jpg
+SHA1-Digest: oUbS3J5zMWvzXa81urQ781b8VnM=
+
+Name: assets/pics/ww2_front_2.jpg
+SHA1-Digest: rs9duPm2ZMO3x2R+uo8LP65tdUs=
+
+Name: res/layout/content_text.xml
+SHA1-Digest: Up9l+M7YdJNd250XX0d4YPxEKFU=
+
+Name: assets/pics/ljedmitri.jpg
+SHA1-Digest: +kJ8JQzIjd4ZSDFApM+fWwM8QKg=
+
+Name: assets/pics/gallery/pers/pers_mayakovskiy.jpg
+SHA1-Digest: uVX4vAJER1N93c9RgAQzDwFRrWQ=
+
+Name: res/layout/content_result.xml
+SHA1-Digest: lVGL4IvCJwaXGcHtYe5vtKeDpoE=
+
+Name: res/color/material_on_surface_emphasis_high_type.xml
+SHA1-Digest: zKx2OTWzz64HjrFM39fwbdwaUVs=
+
+Name: res/color/mtrl_filled_background_color.xml
+SHA1-Digest: qHX5F1oqwPlJU3XA2Ojp7ZGrqY4=
+
+Name: assets/pics/russia_gerb_2.jpg
+SHA1-Digest: 1/KMvh9leQVBZjbgkYCTBTbsZfo=
+
+Name: res/drawable-v21/list_ripple_ww.xml
+SHA1-Digest: HPmmisLo+0aUYPYeLh6d7spmYZM=
+
+Name: res/layout/content_map.xml
+SHA1-Digest: dS+DVt0QB8/LYkOFS8cOhuv90ks=
+
+Name: res/layout/dialog_mode.xml
+SHA1-Digest: Jwfu3aS0xcuxmF8oM3tT2AahSI0=
+
+Name: assets/pics/apraxin.jpg
+SHA1-Digest: b2kAoFLLvqJSsBayGsM1PE0R4SM=
+
+Name: res/drawable/tooltip_frame_light.xml
+SHA1-Digest: i5wI4xCqf07/Vf9KLmPquM7kUDw=
+
+Name: assets/pics/karl_12.jpg
+SHA1-Digest: BXt1IxuqADFP547y5WYScaC305I=
+
+Name: res/drawable/ic_contact_share.xml
+SHA1-Digest: oGQA0vTGwUdK3BLUhRNq4FeHMqg=
+
+Name: assets/pics/petr_collegia.jpg
+SHA1-Digest: 13eqe2QDjfl2/RafCNHT67rse/g=
+
+Name: res/drawable/ic_ex_carousel_outline.xml
+SHA1-Digest: c8YzC9wDgc5TXvTuAOTG0a6UUp4=
+
+Name: res/layout/view_gallery_item.xml
+SHA1-Digest: YehHd/GloHZZ7rF6Ia/fPxSvoXU=
+
+Name: assets/pics/picto/flower_black.png
+SHA1-Digest: 7m1llnmUbeZ7X+I6/kEe1a+Ldww=
+
+Name: assets/pics/putin_start.jpg
+SHA1-Digest: YlDSAb2DpKB/FYAwwicpdyH04es=
+
+Name: assets/pics/battle_gangut.jpg
+SHA1-Digest: 8CByiJ/TBNgvOLS7dGGAhlaOLm4=
+
+Name: assets/pics/gallery/pers/pers_gogol.jpg
+SHA1-Digest: yVuu7Ps+UhiUr7WuniTxOKXz+5E=
+
+Name: assets/pics/vorotinsk.jpg
+SHA1-Digest: nsz89qIlZXqzkEpSI/tzl0sehow=
+
+Name: assets/pics/picto/pers_gray.png
+SHA1-Digest: wDVqFGHnNN0r8GvUpxMIXlQT2UE=
+
+Name: res/anim/fade_in_full.xml
+SHA1-Digest: MoOLda4M0BuUqn6oQMaE4WACM5E=
+
+Name: res/color/material_on_background_emphasis_high_type.xml
+SHA1-Digest: mLy/mrar3Nu2Q0MEX9f3momnG5g=
+
+Name: res/layout/preference_widget_switch.xml
+SHA1-Digest: XMMsUUsm7HkzT+igsRsDHtN1wIg=
+
+Name: assets/pics/gallery/flag/flag_znamya_2_Ivana_4.jpg
+SHA1-Digest: 97SBYl8LtufbKkbmv0UcD9+4Qw0=
+
+Name: assets/pics/revolution_1905.jpg
+SHA1-Digest: UNN6FbNlDLgdPhzj5Cysnc/yWFw=
+
+Name: assets/pics/varyag.jpg
+SHA1-Digest: 3X4enNWRDqDnzgciFglvKqMD/tc=
+
+Name: res/layout/preference_category.xml
+SHA1-Digest: 2LksZrD2lxnvHv+8BGd5fjMF0hw=
+
+Name: res/layout/mtrl_alert_select_dialog_singlechoice.xml
+SHA1-Digest: J6f8kQ2dZ0qSLcVBqcSVodGFMj0=
+
+Name: assets/pics/gallery/pers/pers_shostakovitch.jpg
+SHA1-Digest: hI1AyPg9GrJgnyaEYQgN2nODCXw=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: FsvLP65iWVfEfIkCPXw4wimwY7M=
+
+Name: res/layout-v21/nav_header_main.xml
+SHA1-Digest: n0PwR4XDtKvh/q3D1feuMafULu0=
+
+Name: assets/pics/dolgorukiy.jpg
+SHA1-Digest: PeivQ82nFJ2i9rldSf0QvUs8vLE=
+
+Name: assets/pics/gallery/monument/minin.jpg
+SHA1-Digest: d8ps82EzAr39AmUCM0MDOPIEEgY=
+
+Name: assets/pics/gallery/pers/pers_ahmatova.jpg
+SHA1-Digest: oj44jLyDzXfmKc73LCbk0vr5aEw=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: jnLnSBDt0id1WrhEiz1zra3RW6M=
+
+Name: assets/pics/duma_1.jpg
+SHA1-Digest: 6mwXoW7Qa2AkCuBvqXcBajgyDBI=
+
+Name: assets/pics/notes/flag_gray.png
+SHA1-Digest: yatXLmwyqqLZeuDPEoFPSHkm0J4=
+
+Name: assets/pics/lomonosov.jpg
+SHA1-Digest: zGdbW0dKS9O6FYYNcyn3Q7Lvzu8=
+
+Name: assets/pics/daniil_galits.jpg
+SHA1-Digest: 4GoFj6dzDBCtQs0LdHNZgIJPRiE=
+
+Name: assets/pics/gallery/pers/pers_prokofiev.jpg
+SHA1-Digest: cttdBzFfyDH3w1W7UHLh9o+a5NQ=
+
+Name: res/drawable-night-xxhdpi-v8/ic_excel_box.png
+SHA1-Digest: 5owhSLm1UdU6UqM5FKW4KaWVqr4=
+
+Name: res/drawable-hdpi-v4/ic_certificate_box.png
+SHA1-Digest: jVS19eBKihA8T6sOoVZtaaRSaAc=
+
+Name: res/layout/design_menu_item_action_area.xml
+SHA1-Digest: xFUvCtBV37Jr3hAzIGk2VG86ClU=
+
+Name: assets/pics/petr_3_2.jpg
+SHA1-Digest: SL0F2wh7x2GHrkmyHtHwTHYnKKQ=
+
+Name: assets/pics/senat.jpg
+SHA1-Digest: RmhxkvSYoxq8TsfWZRvNkUxGPYk=
+
+Name: assets/pics/suratov_filip.jpg
+SHA1-Digest: no+FQWcM82NCcoi2fYzslHhTUSg=
+
+Name: res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+SHA1-Digest: VHP19XSs2hA+eCgOKGaIBxFCBUE=
+
+Name: assets/pics/mir_portmud.jpg
+SHA1-Digest: DvKCn5sVauJKjvFFvczDjxX/b0U=
+
+Name: assets/pics/notes/account.png
+SHA1-Digest: 4xtIPI6AgZ2gaG32JK/lED0i6bQ=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: fi4OdS/Tb40gOJmL0+YFTyqMxb4=
+
+Name: assets/pics/totleben.jpg
+SHA1-Digest: 2y2Aeu2/EMZHywrYD9Vz4xhd2MM=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: Mv+KiFiSaa+WMki+npzbbru9CxE=
+
+Name: assets/pics/notes/pine-tree.png
+SHA1-Digest: Fk9bXM1VP26KazE084VLP9Iemqk=
+
+Name: assets/pics/ww2_buharest.jpg
+SHA1-Digest: VQXXfNbPAT/UK22jf2deZWoNOhw=
+
+Name: res/drawable-hdpi-v4/ic_apk_box.png
+SHA1-Digest: o+qMJMcxzzNSDdJsToBrmDuyUdY=
+
+Name: assets/details_simple.json
+SHA1-Digest: feO6s9l5RkOzODLoR1oS3dUsS7I=
+
+Name: assets/pics/ww2_yalta.jpg
+SHA1-Digest: bP6YU2CgAmouSR668F8/Ua+BWBg=
+
+Name: res/layout/preference_dropdown.xml
+SHA1-Digest: v3J08jmWetm0y8EEePuzfbEUEJs=
+
+Name: res/drawable/banner_1.jpg
+SHA1-Digest: FniTTeluZ/JhtJuYrO65zsRM7GU=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: ly4nSr+1K6ZAkmN2Z9qpBLcuPVs=
+
+Name: assets/pics/katerina_2_turki.jpg
+SHA1-Digest: gkCtRy0zzGMJZ67ye3ZSkudpeIM=
+
+Name: res/layout/mtrl_picker_header_fullscreen.xml
+SHA1-Digest: MzSms48hfD+sXL/EHR/RONJ+KGo=
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA1-Digest: rz2OVz80I/5GzsB9b13AJbNlGlQ=
+
+Name: assets/pics/mazepa.jpg
+SHA1-Digest: BRjPDaJxOuS2TdIYBBO4EzqbjqU=
+
+Name: res/layout/stats_cat_list_item.xml
+SHA1-Digest: iqiK2QqZseIBfha5Qct5JbBYA9M=
+
+Name: assets/pics/krestiane.jpg
+SHA1-Digest: ej+HKCg1OHQYB7xdB8+gTwQFZas=
+
+Name: res/drawable-night-xxhdpi-v8/ic_word_box.png
+SHA1-Digest: 7Hy+NDVE/J4Hoha7R29QhIeqYFY=
+
+Name: assets/pics/notes/list.png
+SHA1-Digest: eWfLe6jdRqq9r6Rtjazvd0a+Ryw=
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: tGg+oO+KAbBY4x79vANaC6rdJz0=
+
+Name: res/layout/activity_map.xml
+SHA1-Digest: t6G52mjgfLIcvCP+wlH/E3bFFwY=
+
+Name: assets/pics/izbrabie_romanov.jpg
+SHA1-Digest: CXlEjCbXyZH9VpWIhxgWRP16HLo=
+
+Name: res/drawable/screem_bottom.xml
+SHA1-Digest: gUIxuH3UBNdQNVT73iING8ceP4g=
+
+Name: res/color/material_slider_active_track_color.xml
+SHA1-Digest: CgFHId1S0iUQwOPW6DAJwUL3GEE=
+
+Name: assets/pics/notes/laptop.png
+SHA1-Digest: ks7OPEOrZhA9KlDU/IFZhlu95bg=
+
+Name: assets/pics/uvetichi.jpg
+SHA1-Digest: Q7Caei9VdfjEz3MUPicJKyg+cQE=
+
+Name: res/drawable-xhdpi-v4/ic_excel_box.png
+SHA1-Digest: wuoNrbFl55/0PbPTb/tk56DtSlE=
+
+Name: res/drawable/ic_open_browser.xml
+SHA1-Digest: Bwl83vC0KkoYPOr8p/QxSIM95js=
+
+Name: assets/pics/gallery/pers/pers_sechenov.jpg
+SHA1-Digest: 2p0d9lIfdWtVaHKlwoQFLbhIZbk=
+
+Name: assets/pics/ustinov.jpg
+SHA1-Digest: l9gF0t76SQ3Xd/VS8UdYhf965GQ=
+
+Name: res/drawable/ic_cat_progress_bad.xml
+SHA1-Digest: P4SUHbNfS7459unk46weUGs2pxo=
+
+Name: assets/pics/gallery/arch/oruzheynaya_palata.jpg
+SHA1-Digest: /tlrszNcU5qrtt277MJ6gcvx0Z0=
+
+Name: assets/pics/ryjkov.jpg
+SHA1-Digest: Ubpeqh91rNbscF+q6F/YH+fKUjo=
+
+Name: res/color/abc_tint_default.xml
+SHA1-Digest: 3AIrS74rGiNVHxdDFVSTNSB1I1Y=
+
+Name: res/layout-land/mtrl_picker_header_dialog.xml
+SHA1-Digest: PK2GJ0wuarYRYy8sYERzN21ZZ6E=
+
+Name: assets/pics/ustav_torgovoiy.jpg
+SHA1-Digest: pR6wLdsTi23eE/MU7E+uKbmuPUE=
+
+Name: res/animator-v21/design_appbar_state_list_animator.xml
+SHA1-Digest: Ho+9A1o3OrHWB9ycwtLnPFFLkAc=
+
+Name: assets/pics/chingis.jpg
+SHA1-Digest: 3D/S1dhS/BAXOw0NwAWgwj/Cqg8=
+
+Name: assets/pics/picto/image_gray_l.png
+SHA1-Digest: N7w545xiG28LqLQ9fjJZ0a8YCSU=
+
+Name: res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+SHA1-Digest: a+sozA95J34lamQ0eqYSNlKdU6g=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: h+GglN330bwjpagOTZFJ9KD8WhY=
+
+Name: res/layout/activity_backup.xml
+SHA1-Digest: 6ng7aCRU0pfWPy32L3Zk4Oaqo3g=
+
+Name: assets/pics/vrangel.jpg
+SHA1-Digest: YvIjhfCgfAetD4HRJld+Mpuu0Gc=
+
+Name: res/layout/preference_dialog_edittext.xml
+SHA1-Digest: 38DH3WnWDh4cLUhP5rAJAf3fNEA=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA1-Digest: Oww70i6CDjqOpiLdYxpURXuj7DY=
+
+Name: res/drawable/drawer_item.xml
+SHA1-Digest: OAAaN4bBEeR9azgtyVFpLGecTq0=
+
+Name: res/drawable-v21/circle_progress.xml
+SHA1-Digest: ojq+ksy3LI0hlDrWDo6QL4CYyQc=
+
+Name: res/layout/test_action_chip.xml
+SHA1-Digest: 67N10pH7D9bqmXysm2AxqO7LtVU=
+
+Name: assets/pics/battle_vedrosh.jpg
+SHA1-Digest: 6ROd1HaFKhnfTfnG0BnjM6hIpPc=
+
+Name: res/color/mtrl_btn_stroke_color_selector.xml
+SHA1-Digest: LWA+WNSwt/zIy5ibtlZ3e4ICqPs=
+
+Name: assets/pics/bolotnikov_ivan.jpg
+SHA1-Digest: 1s91aSd1mMX9jicyHHB6EEV+V0s=
+
+Name: res/interpolator-v21/mtrl_fast_out_linear_in.xml
+SHA1-Digest: OG+p9S/WIwILFH+certBgqdqyBw=
+
+Name: res/layout/ex_links_item.xml
+SHA1-Digest: 5aRbYjeLR3trJ1XwX49SgfA9eA8=
+
+Name: assets/history.jpg
+SHA1-Digest: Ge7pFWiXK09R51cGQfKuOSBmXYE=
+
+Name: res/drawable-v24/$ic_launcher_foreground__0.xml
+SHA1-Digest: 5rlWEBXOVPslbwV1UotSJGNPvTc=
+
+Name: assets/pics/gallery/paint/kazaki.jpg
+SHA1-Digest: RO50CtG+QFIhXqCQI3jKuTFL7xA=
+
+Name: res/drawable-night-xhdpi-v8/ic_folder_48dp.png
+SHA1-Digest: E6leRKUt5zkq/CgAb498rumBza8=
+
+Name: res/layout/note_archive_item.xml
+SHA1-Digest: aS8NGU0ZHzDiRugdSzmKHdRwh4U=
+
+Name: assets/pics/murviev.jpg
+SHA1-Digest: ns09Tt4kFqKF9X4fYyRGdwOeWc8=
+
+Name: res/menu/menu_detail_full.xml
+SHA1-Digest: YErKUFsPvEG8L24PwQcIYAMeFEA=
+
+Name: assets/pics/moskva_kreml_2.jpg
+SHA1-Digest: 5R3IzkDk722SPA+uuHT+Dwl4Lyc=
+
+Name: assets/pics/ship_tsesarevich.jpg
+SHA1-Digest: VVU6qlDNRWxX60Z/Tsrl3ip6HsQ=
+
+Name: assets/pics/gallery/flag/flag_znyamya_1696.jpg
+SHA1-Digest: odpxksmPUX2Bet/h2+AKrDoAv8g=
+
+Name: res/drawable/ic_nav_info.xml
+SHA1-Digest: BoGVmVg6n4oGGbzSH33lRmU0DBo=
+
+Name: play-services-ads-identifier.properties
+SHA1-Digest: dcSSMTjr5/Cu4h6HLxfLYR+XN68=
+
+Name: res/layout/fragment_custom_cat.xml
+SHA1-Digest: Nz+QI44TDfoATI77sXAgf+fuyyA=
+
+Name: res/layout-v21/preference_material.xml
+SHA1-Digest: xWdl+JBl8p9CKMpQ8n9JmTOJ95c=
+
+Name: assets/pics/bulavin.jpg
+SHA1-Digest: q0oycOSl1PcgXiNck+dvkYhoIks=
+
+Name: assets/pics/beliye.jpg
+SHA1-Digest: vdC4eF4C3TnWLYTrvM1biJK0ZuQ=
+
+Name: assets/pics/gallery/sculpture/sc_anna.jpg
+SHA1-Digest: b+6mKUMYe90XrSb+72V42oUdXCw=
+
+Name: assets/pics/notes/ship_wheel.png
+SHA1-Digest: I+sH4AsNtHHHEiK6iKeSYnra/yM=
+
+Name: res/xml/searchable.xml
+SHA1-Digest: BitIOSB8M/7jLJ7YxU12QqHphVg=
+
+Name: res/drawable-mdpi-v4/ic_image_box.png
+SHA1-Digest: 9O+evqFo1C2/P4X7cgavYN3/pIs=
+
+Name: assets/pics/gallery/paint/cherniy_kvadrat.jpg
+SHA1-Digest: RFpV4ds7SkHlpvZdfY0HtNEvjL8=
+
+Name: res/layout/mtrl_picker_text_input_date.xml
+SHA1-Digest: H5UiyXJyhgtCagiqGcUrJnQx4WM=
+
+Name: assets/pics/dogovor_1686.jpg
+SHA1-Digest: iXaW6L0WtmOGLHUjP/KSAPkHq1I=
+
+Name: assets/pics/battle_hakingol.jpg
+SHA1-Digest: SR3ADJLvqqMsrODwxvCCqETbsyc=
+
+Name: assets/pics/chernyshevsky.jpg
+SHA1-Digest: ATD+UbTvf3DfeqwBKf0UuC3S7T0=
+
+Name: assets/pics/dolgoruky_moskva.jpg
+SHA1-Digest: ifnOivBQBnkiadW4AcVLVTWjnrw=
+
+Name: assets/pics/dogovor_rapallo.jpg
+SHA1-Digest: NfF39R2nNZJhXzjT0hz5mgwkeH0=
+
+Name: assets/pics/picto/flower_green.png
+SHA1-Digest: 3KzfaSqs4fe7BgnHuOjfqDzgeGc=
+
+Name: assets/pics/picto/flower_green_l.png
+SHA1-Digest: 44hv4EnroesidtnYDxXOjOgvYCM=
+
+Name: assets/pics/minih.jpg
+SHA1-Digest: iljQnddl++vYpHIrAeou7f+Q4Fw=
+
+Name: res/color/mtrl_text_btn_text_color_selector.xml
+SHA1-Digest: +rebobdo0Cr4TmUar0RCAoAJc5w=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_excel_box.png
+SHA1-Digest: //QtlaaTfZAnS0sHftc+p/L137U=
+
+Name: res/drawable-v21/abc_dialog_material_background.xml
+SHA1-Digest: 6WKEr6FfeG4+clFp+xeQPJNXKTY=
+
+Name: assets/pics/sudebnik_1550.jpg
+SHA1-Digest: OAvyYiHQSc3KDDjg9mVdWQ9nC78=
+
+Name: assets/pics/sverdlov.jpg
+SHA1-Digest: hwE2d/zsQ2le2ClwNYeN/GUnMUM=
+
+Name: assets/pics/moskva_ryazan.jpg
+SHA1-Digest: +8dkez17NolXK/fhyyJOp7508+g=
+
+Name: assets/pics/belovej.jpg
+SHA1-Digest: ACws4YSLsfU+cE5iTb0CoYdvb8Q=
+
+Name: assets/pics/maps/map_borodino.jpg
+SHA1-Digest: Wy/aMAd6ST3CrdKBPL762X7+xpQ=
+
+Name: assets/pics/gallery/paint/troyka.jpg
+SHA1-Digest: bvE5yzAfLyOQm+mMBR8dtnGtw+0=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: CBqMMZftTVGbPGhxmgrI/nON0eQ=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ZqCBR70J+G8APLB6odEE4sbBMrY=
+
+Name: res/layout/content_contact.xml
+SHA1-Digest: Te/ckLuwK8aIsQXR8tC6Ffi5k/8=
+
+Name: res/color/material_on_surface_emphasis_medium.xml
+SHA1-Digest: Bld+RvdKE7GW4KI6lWNLSfAH3WI=
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+Name: assets/pics/maps/map_war_1945.jpg
+SHA1-Digest: M/dQRPCQPUH2EvNXNZcAqSn3/5Y=
+
+Name: res/drawable/ic_stats_arrow.xml
+SHA1-Digest: QU8XdL5GV+3I5k2DfH+qM57b104=
+
+Name: res/layout/dialog_rate.xml
+SHA1-Digest: dk5IeDwBL7aXTYRcIySUso0GSFY=
+
+Name: assets/pics/ushakov_f.jpg
+SHA1-Digest: dlSwGls9+uQ5QqMxS0fPC1BzK+0=
+
+Name: res/drawable-night-hdpi-v8/ic_zip_box.png
+SHA1-Digest: Jc+ws98IrTvc2KW71QUAUFgDwVs=
+
+Name: assets/pics/visantia.jpg
+SHA1-Digest: rI7/d+tkGycmqCdl9GByJJDhMLY=
+
+Name: res/layout/fragment_home.xml
+SHA1-Digest: rES5GNj+tl/5RH2sJDVgpD+uQPg=
+
+Name: assets/pics/gallery/monument/vechniy_ogon.jpg
+SHA1-Digest: 9+gqavT8RCGxo3RDsA6YZjAg8CM=
+
+Name: assets/pics/struve.jpg
+SHA1-Digest: 4wHsi1QDExf7J7rvXUT/g+xuLU8=
+
+Name: assets/pics/maps/rus_1708.png
+SHA1-Digest: CabT8BXGofjCaqVZ494Pi+IJloE=
+
+Name: res/layout/test_toolbar_elevation.xml
+SHA1-Digest: QjFI9gfMRWfUN+SVUsHFvLC437o=
+
+Name: assets/pics/gallery/pers/pers_vernadskiy.jpg
+SHA1-Digest: fiW9D1fSYf0n8Z+HHUkYgn0Or2M=
+
+Name: assets/pics/dmitri_potomki.jpg
+SHA1-Digest: EgcNuFdLEAw1YJ/miJ8lsmm4P6g=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: O6eAL2M6qoFDRV9peChQYqmfUZk=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: gHqcnosKJ3hj1qyF5PECFPe1Z9A=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: PPQDzd5ISIru+8JKok9L0WlW74g=
+
+Name: res/layout/text_view_with_line_height_from_layout.xml
+SHA1-Digest: QtdIACZlOiAEkTwrfUd4yATalpc=
+
+Name: assets/pics/moskva_pskov.jpg
+SHA1-Digest: oWd+r65r2b195YHaq1HU4Gg/AOs=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: u6bTvtbDXJXOGa13pLv0kzefZXk=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 6AUQvr7p0Ko0CIopYEr8tQssNCk=
+
+Name: res/layout/menu_list_item.xml
+SHA1-Digest: emnhVwc1v31Lhyy4T1V2JGfWGwI=
+
+Name: assets/pics/gallery/arch/mavsoley.jpg
+SHA1-Digest: ztDyE/hTL4VAcyd8q4FM0aT2dSo=
+
+Name: assets/pics/revolution_1905_2.jpg
+SHA1-Digest: 2UWUhVQouCp7flUpJ0CPU3PD7aA=
+
+Name: res/layout/activity_cat.xml
+SHA1-Digest: Sb2OEJi0JnSiv0Gb6gEn8OXPPBU=
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA1-Digest: iQTUIRVmDgbKgNgF3qd9AaJMPI4=
+
+Name: res/layout/content_custom_data_list.xml
+SHA1-Digest: CNGUNCvzPnWu+70bBY8LpJIzC6s=
+
+Name: res/drawable/ic_cat_group.xml
+SHA1-Digest: xI70SipzhHQVMQBdsVP8GD1lks8=
+
+Name: res/drawable-v21/progress_vertical_blue.xml
+SHA1-Digest: 3mEkJ4g4tc0TE50pfihfnOy3QyY=
+
+Name: res/layout/activity_info_data_list.xml
+SHA1-Digest: vFB8er/fNOrMT+BG1tseNxzABNc=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: 0Gfqa0wEfQSI0mKJkwlXlJWSicQ=
+
+Name: assets/pics/orlov_a.jpg
+SHA1-Digest: /6qkG5qqTRBfm88AdvWx3OLhqwE=
+
+Name: assets/pics/gallery/flag/gerb_20_soviet_1.jpg
+SHA1-Digest: 5AKCqKuP22h54JXm1CYg9wOPsnQ=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: To6m5xYUio86rH47VESLK/aGyCI=
+
+Name: assets/pics/repressii.jpg
+SHA1-Digest: jo/aVR3iIjyaPagMwVnhXHqsfVU=
+
+Name: assets/pics/notes/city.png
+SHA1-Digest: 9lBUmX7booq7tOL+8uzUNWuD8mo=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.p
+ ng
+SHA1-Digest: I9s6aQ5VyOLrNo4odqSij549Oyo=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: Nlc+uImNr3XAHY+m/5AsLmKxp/Q=
+
+Name: res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.x
+ ml
+SHA1-Digest: JZeKyJ2yL6oRywlC1JJu6va30JM=
+
+Name: res/layout/stats_cat_list_item_big.xml
+SHA1-Digest: GhVv9wd5Mht3C59XnrWWsazhiC0=
+
+Name: assets/pics/hojdenie_narod.jpg
+SHA1-Digest: jsRpkhRaqR4VBHuysQ0ljdBav0w=
+
+Name: assets/pics/hruschev_2.jpg
+SHA1-Digest: lEXwSMFx48USpahhHNNY+7IZyLI=
+
+Name: assets/pics/ww2_smolensk.jpg
+SHA1-Digest: aRj7/zBDvon5qFfBw4JrudOSuII=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA1-Digest: NW/i+ex7+hXHYfPT2kBfhzB79kE=
+
+Name: assets/pics/ww2_potsdam.jpg
+SHA1-Digest: wDOi7LCDqUCVAxIO4ZNs8zBRhfQ=
+
+Name: res/drawable-v21/abc_list_divider_material.xml
+SHA1-Digest: INglm7ux6Cn+YD1tL/S+tyFEthI=
+
+Name: res/drawable/ic_sort.xml
+SHA1-Digest: uFqW/2P8MYQUlMFkOwI1ARbJ/BU=
+
+Name: assets/pics/berezina.jpg
+SHA1-Digest: mubnAYF+AOAOd8+Y/4QN9DB8vTY=
+
+Name: res/drawable/ic_nav_gallery.xml
+SHA1-Digest: nDeHm2bBqArJpIcPpgzV1D8hcMI=
+
+Name: res/drawable-hdpi-v4/ic_arrow_down_24dp.png
+SHA1-Digest: fhHxcWinB8qVyRggpECllWyxFwg=
+
+Name: res/drawable-mdpi-v4/ic_file_gray_116dp.png
+SHA1-Digest: xyjZPOSrwvMTLi/MKp0Zn901dqs=
+
+Name: assets/pics/dogovor_stolb.jpg
+SHA1-Digest: 0pP9PYjuTkDlyKL/v7xjNs6Cr/k=
+
+Name: assets/pics/maps/map_empire_1890.jpg
+SHA1-Digest: CAWdNlt/l4VBvvsQnGoTO+9kOS4=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: z0oai5b1MK3J/UNjdCA5ECdf2qg=
+
+Name: assets/pics/gallery/arch/hram_spas_na_krovi.jpg
+SHA1-Digest: gd8oC4Yd4dxOCtY9F8/AI2Hqdkk=
+
+Name: assets/pics/gallery/sculpture/sc_atlant.jpg
+SHA1-Digest: LooEUVTm2IbUSVpx/NdYiw6b77w=
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: 7jXDjiidCXHojddyyJz5GHDIfMM=
+
+Name: res/drawable/mtrl_ic_arrow_drop_down.xml
+SHA1-Digest: PJDT3208w3r7A9OWUABqdWFxQCE=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: jF6QKRBg9OvlnbeWqmX8Uqm8bg8=
+
+Name: assets/pics/gallery/pers/pers_lobachevskiy.jpg
+SHA1-Digest: N/v2ANY+GXWUhy6KRuqaREcXSWY=
+
+Name: assets/pics/miloradovich.jpg
+SHA1-Digest: HaUEocAppvc/UvxpgK0NNxP8b3I=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: CmSWrJPdMzAhKQc+moJNtYEveIY=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: gKiVrtOwkElvYdVR/NWizJ5BcwE=
+
+Name: res/drawable/ic_splash.png
+SHA1-Digest: Q/LShF+vR/io3laIIGQNUQNKU0Q=
+
+Name: assets/pics/gallery/arch/krepost_petr.jpg
+SHA1-Digest: ySOixVJsl2ilTXWnav+6GnKm5Hw=
+
+Name: res/drawable/mtrl_popupmenu_background.xml
+SHA1-Digest: FTe2hXoFUhdVSzTnVTAKSBnXeFQ=
+
+Name: assets/pics/battle_smolensk_1812_2.jpg
+SHA1-Digest: bE/hKYlt3SSFxKYeZzTeeB4vaXs=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: gytfc21n0VA57KgiF+utLLWs/Vw=
+
+Name: assets/pics/rozhestvenski.jpg
+SHA1-Digest: 513Bazy31Gy+2HdAvY91moexmmY=
+
+Name: assets/pics/ww2_budapest.jpg
+SHA1-Digest: AMcc6hUT2qfz3g0ci9emO+HJdvs=
+
+Name: res/layout/fragment_stats_diagram_include.xml
+SHA1-Digest: YuBJ4b6y5okhCaWXUHCZ6FuEHcY=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: assets/pics/bulgaria.jpg
+SHA1-Digest: JIomoX2Kt1v2G9qfal6T1ROhGiY=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: t9VPTdr90769IpmI7+HjcPqUbI0=
+
+Name: assets/pics/rurik.jpg
+SHA1-Digest: rZDu4jvkrKgvKRBHZxgk2yN9SVg=
+
+Name: assets/test_data.json
+SHA1-Digest: 2+Hhzf9yMM5iaI1Ynq8+kKYov6A=
+
+Name: assets/pics/menshikov.jpg
+SHA1-Digest: ttQUaCahiv65xXBWzD+OB9GIGIc=
+
+Name: res/drawable/btn_radio_off_mtrl.xml
+SHA1-Digest: 2PD+x8t/DLGvHQP5dERx3iZ2ARE=
+
+Name: res/drawable/ic_contact_web.xml
+SHA1-Digest: DbnCi+moH3U2H1tDE8I9dzIdpwg=
+
+Name: res/layout/custom_sections_item.xml
+SHA1-Digest: o/T5YRqOeHA/Mu4IKXn9N8F6ba8=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: 0Rjj9X06JiXk4MEmTFVyzkdp+HQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: BlslH4QYPV8tPkeyq5iFkcDXUkc=
+
+Name: assets/pics/rubl_1769.jpg
+SHA1-Digest: zS1p44VnkjBgpbNf3Qc/xlPnGkQ=
+
+Name: assets/pics/salavat.jpg
+SHA1-Digest: jUbs9DAhWPA6OrETHTIcrK/WGcY=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: 0Uc/urney5nbDkvJXgkNA5eBpug=
+
+Name: assets/pics/gallery/flag/gerb_18v_petr.jpg
+SHA1-Digest: 8tt2+0DiKuE4EZwuFaCOZUP8zKQ=
+
+Name: assets/pics/gallery/monument/alesha.jpg
+SHA1-Digest: +T7a67V7G93A8vCqbh2sHH274yQ=
+
+Name: assets/pics/piter_sad.jpg
+SHA1-Digest: n0F6pCfAsD4tCem9mUaFRYjyYvo=
+
+Name: assets/pics/picto/shape_gray_l.png
+SHA1-Digest: X/jd41bfOX15rhjuS3u0ii16KTI=
+
+Name: assets/pics/vlad_andr.jpg
+SHA1-Digest: j/gwTjDfEBmc3vbtMahHz+cfJfA=
+
+Name: assets/pics/picto/image_gray.png
+SHA1-Digest: 7LbxDHvQgr0c/Qw4FPMMvVsRj8w=
+
+Name: assets/pics/gallery/paint/yavlenie.jpg
+SHA1-Digest: VhP7GUKFUQvVH+QRqYtKEeb0374=
+
+Name: res/drawable/text_round_blue_bg_v1.xml
+SHA1-Digest: MPoA8js7kuKt+NTy9+i8t5W/f34=
+
+Name: res/layout/fragment_starred.xml
+SHA1-Digest: 6WlH5mVc4ryi7TzetWViDuoBEDE=
+
+Name: assets/pics/oslyabya.jpg
+SHA1-Digest: cpdKR1yZL2RsQ4HSs9mod/L3K48=
+
+Name: res/drawable-xhdpi-v4/ic_powerpoint_box.png
+SHA1-Digest: 7X5M5d0tfBa4tMXF4Uo391FmRyM=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: pSQWRqoWzxoeprY+bJcbqPYnS9w=
+
+Name: assets/pics/anna.jpg
+SHA1-Digest: 82u6f0hPQsOr1UvEzgEEr3i78/s=
+
+Name: res/layout/flashcard_item.xml
+SHA1-Digest: OWJaM6g7hYfTwiAK98t9dqTTcQo=
+
+Name: assets/pics/picto/flower_blue_l.png
+SHA1-Digest: BIwOQuIf8UHn7+CIs0GuBdRKfoI=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: g1FxWfAWAsxsdCXAcyT+9OPosZ4=
+
+Name: assets/pics/ekaterina_2_3.jpg
+SHA1-Digest: VoZ3Lu3mAL/O0xJ7+G4JwQNoBRE=
+
+Name: assets/pics/gallery/paint/demon.jpg
+SHA1-Digest: NVVkgvFfkmwvWxzHcvxPZztStmo=
+
+Name: res/drawable-hdpi-v4/ic_folder_48dp.png
+SHA1-Digest: Ujxo8KVGmsDd6s6PKo65D1gvYOM=
+
+Name: assets/pics/avvakum.jpg
+SHA1-Digest: FucU0PMDT7sLL6rACgjOCZBNsqU=
+
+Name: assets/pics/bagramian.jpg
+SHA1-Digest: VbEVTOZh7ir1jQaRrPeqUKlhA7E=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: KcAKbOCiTO5UMcKfzx/+vncLmXg=
+
+Name: res/drawable/ic_star_tool.xml
+SHA1-Digest: xBOOfJlRGPIXVdrU5falt2If1+8=
+
+Name: assets/pics/battle_smolensk_1812.jpg
+SHA1-Digest: u64Q06LulEUnRII8WyEIf3zIfio=
+
+Name: assets/pics/gallery/flag/flag_1720_maritime.jpg
+SHA1-Digest: Jyz5GFNDOD80X6t/SbA0CwloyCc=
+
+Name: assets/pics/lubech.jpg
+SHA1-Digest: hEnzxU0Gh3zbRntXXBxv5NXlHBU=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: cjcTLuyFor2apZdbjPAaXPzqPvQ=
+
+Name: res/drawable-v21/preference_list_divider_material.xml
+SHA1-Digest: INglm7ux6Cn+YD1tL/S+tyFEthI=
+
+Name: res/menu/menu_note_edit.xml
+SHA1-Digest: sjArHgncftP36GPaRkrIxP2lpj8=
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA1-Digest: Mw7rPHbDfeDe8agVMFJoY8AsIb8=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: KCeiIgxbgxQYdYOQqfmUlfvXW6U=
+
+Name: assets/pics/bajenov.jpg
+SHA1-Digest: xmqjXfxdjL1ZFVtLzAuEmU0WYeM=
+
+Name: res/layout/content_images_list.xml
+SHA1-Digest: c6/i+9nOyoIrDFJz13ncc1KbvX4=
+
+Name: res/layout-v21/preference_dropdown_material.xml
+SHA1-Digest: m57BGaiSbvesw3/wCYfT4sexlTo=
+
+Name: assets/pics/notes/contacts.png
+SHA1-Digest: MMchlAFEesS8ghZFoblLAvQtssw=
+
+Name: assets/pics/kovpak.jpg
+SHA1-Digest: o3kSnJJEqKcHwiLVhb3HFg9O0tk=
+
+Name: res/anim/mtrl_card_lowers_interpolator.xml
+SHA1-Digest: 72AzptN0s4EtKuCM3jJpD0ncc4w=
+
+Name: res/drawable/ic_edit_delete.xml
+SHA1-Digest: fRP9W7+M7LWFnMbR1Nrxm5HPVWM=
+
+Name: res/drawable-night-mdpi-v8/ic_word_box.png
+SHA1-Digest: 3BHoqQg0nhNofNIGKk7AtmYMCBc=
+
+Name: assets/pics/gallery/arch/kremlin.jpg
+SHA1-Digest: rCtP5G1ibimYtTN4vrYABYlC4Pg=
+
+Name: res/drawable/ic_emo_bad_bg.xml
+SHA1-Digest: 1KFvxGDtVPD3Qlj2WNvY+2cNgbA=
+
+Name: assets/pics/dzerzhinskiy.jpg
+SHA1-Digest: E7WiJruo3HO15GIj/4TzKBVv/kY=
+
+Name: assets/pics/gallery/arch/palace_kolomna.jpg
+SHA1-Digest: afUOdGJFidn2d1wE8x4N0eKNpCY=
+
+Name: assets/pics/gallery/paint/kompositsia_8.jpg
+SHA1-Digest: JivY3xkMRwKF6Cn6g0LZoPGcPmc=
+
+Name: assets/pics/tatishchev.jpg
+SHA1-Digest: NlXXC85J/Yf9udFjb7Zipx3Hx3U=
+
+Name: assets/pics/dmitry_shemyaka.jpg
+SHA1-Digest: 83rKwqcZhMThfS0MtLHjw3gzk6c=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: K9eq+RzdRnJR/RmShTQFDj3n/88=
+
+Name: res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.
+ xml
+SHA1-Digest: XIZl+5FGy36PEKQM23cTcPkvYtk=
+
+Name: assets/pics/notes/health.png
+SHA1-Digest: 21V9bM2sjBqP0+bS567UrtHHy44=
+
+Name: res/layout/content_section_test.xml
+SHA1-Digest: 8arTlRmKZx3ApIAbRnGIan038nQ=
+
+Name: assets/pics/gallery/paint/utro_v_lesu.jpg
+SHA1-Digest: O/TrPH7MS/D7MxuQiluUc4LUcvo=
+
+Name: assets/pics/gerzen.jpg
+SHA1-Digest: MJ1fvJAz6uOalBQHYfN3ZzvTKk8=
+
+Name: res/color/mtrl_choice_chip_text_color.xml
+SHA1-Digest: yE7M1uCbv/6+aOrFYaSaYplnv/o=
+
+Name: assets/pics/battle_vozha.jpg
+SHA1-Digest: 6JLXwGZXfYbw42owJk1f8fEXLgY=
+
+Name: assets/pics/gallery/monument/monument_dolgorukiy_t.jpg
+SHA1-Digest: 8tg9f+GslK6SKr5DPgJgivbA2CE=
+
+Name: res/layout/search_item.xml
+SHA1-Digest: qQ5+pbazXT/vDhe7aBDvH6mKEAM=
+
+Name: res/color/mtrl_btn_ripple_color.xml
+SHA1-Digest: le7x7zQlmGvQ9my/lF6rSEVuy24=
+
+Name: res/drawable/material_ic_edit_black_24dp.xml
+SHA1-Digest: z6HNTAW8KyMFS/XO0JOyEXK6R9g=
+
+Name: res/drawable-hdpi-v4/ic_pdf_box.png
+SHA1-Digest: 6e7wrtHZGoH1aNbFBphCILIGamE=
+
+Name: res/layout/fragment_contact.xml
+SHA1-Digest: Oa5zf4WjgtVXherBgkg1SV1hny8=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA1-Digest: 217dj36DzDXoO4dYLRjWWiLxbuE=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 21KY7k5nhCbUYd/od+FyqRUvm2Q=
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: 8OPlZ8V68s1mj6gv0fKMOwBh328=
+
+Name: assets/pics/pakt_molotov.jpg
+SHA1-Digest: SIFU4BMPbj9UwNfvMR9eaA9rzPA=
+
+Name: assets/pics/notes/note_orange.png
+SHA1-Digest: 9ki0fuoTJ+a3cRyR8iLw3W1b81o=
+
+Name: assets/pics/gallery/paint/krestyanka.jpg
+SHA1-Digest: ddTBDCaHOb5N53kOzmo/wMUcUpM=
+
+Name: assets/pics/battle_ledovoe.jpg
+SHA1-Digest: WKLR8oErVfAhJm8wxAvFpMSvy0c=
+
+Name: assets/pics/yuri_den.jpg
+SHA1-Digest: u58vlp2meWQ95UX6c2bURjkHxmE=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA1-Digest: 0Y9UsvEngczHRCrU7qovm91bqxk=
+
+Name: assets/pics/mongol_ord_gold.png
+SHA1-Digest: fsL5EdJmCgLQFvyf/5fbaf5osDc=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: Hp54GwmL35swS0BwlNBQsVTidAA=
+
+Name: assets/pics/gallery/flag/gerb_17v.jpg
+SHA1-Digest: Lcxe/YJ2i23z6MDiKNuxv5rGSkw=
+
+Name: assets/pics/akademia_nauk.jpg
+SHA1-Digest: NoUuTE0CCa9Lhq6JBrcVF3nVLMc=
+
+Name: res/drawable/ic_nav_more.xml
+SHA1-Digest: aOb/AbQs6EW2rHEHqBdsxxM07Zo=
+
+Name: convertGermanToBoolean_de.properties
+SHA1-Digest: q4JNSf8HE9gffIyLJ7+5eZ/ODlc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: K1fb6Q4Ss1JZ+SleO0yJcwwYiRw=
+
+Name: assets/pics/riot_budapest.jpg
+SHA1-Digest: PM6LXQF9gDlpRMr/RgJpNvRVtrc=
+
+Name: assets/pics/gallery/arch/sobor_kazan.jpg
+SHA1-Digest: 36TuTObUXog6gTBX9qXFDpmd5wc=
+
+Name: assets/pics/maps/map_battle_kurk.jpg
+SHA1-Digest: Wm9bqJIcdMSwfeQ/ku0GAMgjacM=
+
+Name: res/layout/note_action_dialog.xml
+SHA1-Digest: lZBtyp+eAv7TlMEgtYFVnsNm/FE=
+
+Name: assets/pics/nikolay_2.jpg
+SHA1-Digest: qH5fOwdsZ+y2usbb+smH9/KOHtg=
+
+Name: res/anim/fade_out_img.xml
+SHA1-Digest: hAcOFl7nYCCh4R1tadJoMrF8ht0=
+
+Name: assets/pics/glinskaya.jpg
+SHA1-Digest: FECVMZGEhasAg8lo312g2n9GeEg=
+
+Name: res/layout/abc_tooltip.xml
+SHA1-Digest: cH++GBUUOoWMdZX4A0IRbii49Ww=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: uftsHSNmkb7m90jrsRX95EC5rJ4=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: w8+RBD8wMiMBu8QYz2SticlAqhY=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: QVHnIKNvakO9xPVJ2bNgGkr0ss0=
+
+Name: res/drawable/text_round_bg.xml
+SHA1-Digest: cggKKFB2y/+6DWzWSEWaC/1lrXI=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: dneeekneWRpFOV8C5KAs0ngwmx8=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: UQXINsxHR6ofvfukurZilM7cjk4=
+
+Name: res/drawable/text_round_gray_bg.xml
+SHA1-Digest: F0GEfFyMftC21PPGfA/c34vFuzc=
+
+Name: res/drawable-night-xhdpi-v8/ic_apk_box.png
+SHA1-Digest: H9OzMcJ+ob7YmxntIR/bV6IJQys=
+
+Name: res/drawable-night-mdpi-v8/ic_image_box.png
+SHA1-Digest: 3V8TGkB0Ad/ea5VUtL96oyoyOsY=
+
+Name: res/drawable/ic_ex_carousel.xml
+SHA1-Digest: 5LyocdPYQwJKww8JWOQHfjqirhI=
+
+Name: res/layout/activity_section.xml
+SHA1-Digest: 4x+0+j7HNeKcA/l+3vIsG43EUk8=
+
+Name: res/layout-watch-v20/abc_alert_dialog_title_material.xml
+SHA1-Digest: Mv+IXiLsy8tNTXTwPcM3X3CbIog=
+
+Name: assets/pics/gallery/arch/sobor_pokrov.jpg
+SHA1-Digest: wnuFvcHFVYCV93rmWZvHLdymorI=
+
+Name: assets/pics/mstislav_stariy.jpg
+SHA1-Digest: dnyjTfR8In1YRzx/FXWlG2fpDuA=
+
+Name: assets/pics/maps/sviatoslav_pohod.jpg
+SHA1-Digest: jM38t0KtlrXyrdDd+YtKj469Qhg=
+
+Name: res/layout/activity_get_premium.xml
+SHA1-Digest: fYgGJDW/CQXoQbCIz2tbrRN+e3I=
+
+Name: assets/pics/battle_olgerd.jpg
+SHA1-Digest: MWIvecwIrJfUwRLtrgo3rqJi/wE=
+
+Name: res/drawable/ic_dots_menu.xml
+SHA1-Digest: QeOglkhmMezEAWi2rNqgTG1s59Q=
+
+Name: assets/pics/frunze.jpg
+SHA1-Digest: dvHC+QtoLyHst54d+aDbKiuTK0g=
+
+Name: res/menu/stats_mode.xml
+SHA1-Digest: ND+BRoeANA219zExQt/yeyPu/7E=
+
+Name: res/drawable/abc_btn_radio_material_anim.xml
+SHA1-Digest: TtsCMtfNIMN0iuzCfOIL2MDYRmI=
+
+Name: assets/pics/poyarkov.jpg
+SHA1-Digest: JQ8A4AQVm5s8yApEA2jEc5L+oKI=
+
+Name: assets/pics/tabel_rangi.jpg
+SHA1-Digest: ZPbgmUNibjQzmAAfLCB6ak9QsNY=
+
+Name: assets/pics/ww2_lvov.jpg
+SHA1-Digest: LuBSLRiNQnmeWgOfurYPotlqQjo=
+
+Name: assets/pics/kgb.jpg
+SHA1-Digest: bpxjepOW4srKbnYZOlgkAjcUKFE=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: Xb+VD14WRv3uGJQ5H5l2nvp7kNc=
+
+Name: assets/pics/gallery/pers/pers_pushkin.jpg
+SHA1-Digest: igx+DKcDJCOCv/iRiD4UdnmF76U=
+
+Name: assets/pics/gallery/arch/palace_konstatin.jpg
+SHA1-Digest: fayY/AvqyebTJNf+LCEx70UelRA=
+
+Name: assets/pics/alexis.jpg
+SHA1-Digest: QR+eH1Kp1aIUBG61vdW2qc32XSk=
+
+Name: res/drawable/ic_star_borded.xml
+SHA1-Digest: x7FZwNsLsVpLA/wOmfofmvcEO0A=
+
+Name: assets/pics/chernomyrdin.jpg
+SHA1-Digest: W2XVoZKsATEinc5av+euO/fhrBU=
+
+Name: assets/pics/yaroslav.jpg
+SHA1-Digest: NJ60W7QP++1WV2UrRRsAVVhXmY8=
+
+Name: assets/pics/battle_athos.jpg
+SHA1-Digest: gfP/q/0/sqC1pUERS0B9uoJY3bo=
+
+Name: assets/pics/mitropolit_petr.jpg
+SHA1-Digest: U8exnWqxoi0LpQQ13CAlcON1eLY=
+
+Name: res/drawable/ic_ex_assignment_outline.xml
+SHA1-Digest: EmcmYG8dOWMVk391b+pzlOyphn4=
+
+Name: assets/pics/putin_2012.jpg
+SHA1-Digest: BLRDSuhr4Y0A+VzTBK57uiiUB+8=
+
+Name: assets/pics/riot_copper.jpg
+SHA1-Digest: fEE79q/4uOzTE7sDuvq7Az1/97o=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: 9RE5bs6+8zUsrKjS7YSSnBXysrc=
+
+Name: assets/pics/igor.jpg
+SHA1-Digest: qizfb1sJmRf2s6Nc/RpShpit664=
+
+Name: assets/pics/ugra.jpg
+SHA1-Digest: IxP4BqmPP3GA69N81IRqNWM+4bQ=
+
+Name: assets/pics/gallery/pers/pers_tsvetaeva.jpg
+SHA1-Digest: kDR6SLuhLcw/O/jK6vzoAoiDlDM=
+
+Name: res/drawable/ic_cat_progress_great.xml
+SHA1-Digest: qbpKtrQaNMLqgikkdK/rUj3xDPQ=
+
+Name: assets/pics/maps/map_war_1756.jpg
+SHA1-Digest: o4Wtk4IquGWC0BGROq0CSa5p+8c=
+
+Name: assets/pics/maps/rus_1237.png
+SHA1-Digest: U2q5EULGdXjuF5MyRw+rYBxLt6g=
+
+Name: res/drawable-night-mdpi-v8/ic_zip_box.png
+SHA1-Digest: 7+hQOs2gWP1jDg3hc1VgXXQmkzM=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: kjQh/adr8XS+S465gr9pzFibMnM=
+
+Name: assets/pics/gallery/arch/monastir_novodev.jpg
+SHA1-Digest: GO4sKf7VdFo5g+VkC5Ta2nUiwCs=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: 8XIl4bSeXq0sG4+FeucZZjHT7Qw=
+
+Name: assets/pics/romanov_mihail.jpg
+SHA1-Digest: QCZjQzEi3TVrb8T9Lz/spAZ0sIM=
+
+Name: assets/test_structure_en.json
+SHA1-Digest: J7/a84Hs7GDXTuWr+B2VXVDlR/M=
+
+Name: assets/pics/kenedi.jpg
+SHA1-Digest: Jl2Gmu1f4iJw6l0yPzvmtF4epWM=
+
+Name: assets/pics/saharov.jpg
+SHA1-Digest: Nlmf+EXv63BMBlgXPXEVyffTMME=
+
+Name: res/color-v23/abc_tint_default.xml
+SHA1-Digest: 9Zej3gI80+Dzz4K/fN+W/4jU0ao=
+
+Name: assets/pics/ship_apraksin.jpg
+SHA1-Digest: /83cvujgXWLqV0sj9BRlNJnePAY=
+
+Name: assets/pics/manifest_krestyan.jpg
+SHA1-Digest: XN93vL/aQr4S0blmz32aLpd7/j8=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: LkDwC6IKEcVkrXEBcthFkQGWIqo=
+
+Name: res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+SHA1-Digest: w9gDqtkfHuupV8hKlM0B4qROECc=
+
+Name: res/animator/mtrl_btn_state_list_anim.xml
+SHA1-Digest: iKDJY98urJ9WU3h6ivDxQ+USPdc=
+
+Name: res/drawable/ic_action_edit.xml
+SHA1-Digest: wGJmbmZqdrFpGYkuwx2Nq3rr6O8=
+
+Name: assets/pics/notes/swords.png
+SHA1-Digest: 0pRVZuBXW+eM8qxEoDg4LHpiRoc=
+
+Name: assets/pics/gallery/monument/mogila_soldata.jpg
+SHA1-Digest: tcnXaqg8N9FvDggIFTAwTjwmQIg=
+
+Name: res/color/color_nav_btm_item.xml
+SHA1-Digest: ovBn2r9vL25r8xoXIQpTN/l7Sq0=
+
+Name: assets/pics/mir_brest.jpg
+SHA1-Digest: tyg6qZssMd7UIVSF97ATK4k0TbI=
+
+Name: assets/pics/nestor.jpg
+SHA1-Digest: PMzVShKT8L7BfLYuWeT+P9GIzWY=
+
+Name: res/layout/mtrl_alert_dialog_actions.xml
+SHA1-Digest: dNe9uzufufAq1UtLjl7P29Zrrc8=
+
+Name: res/color/test_mtrl_calendar_day_selected.xml
+SHA1-Digest: c9/fs1yOXVHqyp5Km3eEW2M8PMM=
+
+Name: assets/pics/zemskoy_head.jpg
+SHA1-Digest: 3corcVI/k/wcHfoGXezOwL06vbA=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA1-Digest: Fs9wHncn0Hs9X2gBgK72twTeEAg=
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA1-Digest: WhNcPPIbsn7Udhpc5BhhIDtYJEs=
+
+Name: res/drawable/ic_tool_quest.xml
+SHA1-Digest: V/hRgS0m95mk/djsqljH99COezQ=
+
+Name: assets/pics/novgorod_niz.jpg
+SHA1-Digest: 5UeBH1nycGpdw/OxAWLxopqhMKs=
+
+Name: res/drawable/ic_info.xml
+SHA1-Digest: h0WZKZc9AJ1ZGlxDATvjhU8ZwoE=
+
+Name: assets/pics/gallery/arch/sobor_smolniy.jpg
+SHA1-Digest: lLkccPr/38GjqsNKNeh0WT6yhCA=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: OuRiEMpDTFQmw8cFeieP+qq5MQc=
+
+Name: res/drawable/tooltip_frame_dark.xml
+SHA1-Digest: 65U2cL/0np0r+YJ8NfgBcwsxdT4=
+
+Name: assets/pics/mongol_sit.jpg
+SHA1-Digest: gVUbOUwfAocxk75JIq0oGdPa1es=
+
+Name: res/menu/menu_info.xml
+SHA1-Digest: n0egaKUvf98mNgh8e434slk22yE=
+
+Name: assets/pics/voucher.jpg
+SHA1-Digest: lMeJZf9sYDwf2YiLu7ljl7XFwzk=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: tUDUBN5WzuDjef2n68sSipDlxzg=
+
+Name: res/drawable/ic_stats_history_bg.xml
+SHA1-Digest: ZBnm+3k8O08z6Z6OEJmpsdJNPjA=
+
+Name: assets/pics/kongress_paris.jpg
+SHA1-Digest: Tip2MQGJmKIR5SJ6lUFP7NWzhE8=
+
+Name: res/drawable-xxxhdpi-v4/ic_certificate_box.png
+SHA1-Digest: gENDlNV4S/Z5j9hNFWOOJYJnuiI=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: aVVZGkuaO3JxZXGrC7e24cvdJrk=
+
+Name: assets/pics/war_turk_1878.jpg
+SHA1-Digest: js0PIaxgBTgUklecYNstM8Lrt1U=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: GHXXmeZJAjb8EUS6oBJoqMQ0Mjg=
+
+Name: assets/pics/maps/map_war_1941.jpg
+SHA1-Digest: rH8FtaB2kA1IdJUPtb/sljEZ1kg=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Ub7EVU/MNH+VSjP7k8FYzKJQoQ4=
+
+Name: assets/pics/riot_strelets.jpg
+SHA1-Digest: h9JGWpj9LjY6jNy1NaaWkyGzIQ8=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: Vi4e1eOGqt4tlLviZFiIewDc19w=
+
+Name: res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.x
+ ml
+SHA1-Digest: XIZl+5FGy36PEKQM23cTcPkvYtk=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: oKK0tOor4SmX4ORpTg/URmuOtes=
+
+Name: assets/pics/gallery/pers/pers_chekhov.jpg
+SHA1-Digest: C951lmWFW325P4g5+N5kDgSJ5Bk=
+
+Name: assets/pics/prut_pohod_1711.jpg
+SHA1-Digest: tkh32A3GOlyuctHnp/54V+iKdZY=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: X+Ryi5rsXdbFYYdv5crORIncYts=
+
+Name: res/drawable-v21/screem_detail_bottom.xml
+SHA1-Digest: cKwc9RmFWPRxkDLI66MyvaVlR2U=
+
+Name: res/drawable/list_divider.xml
+SHA1-Digest: hGcpiHfRx8H4Y7pkicsztjCGU7A=
+
+Name: assets/pics/dashkova.jpg
+SHA1-Digest: C6SkZoTmj1szEuIlwvs6jC1ZciI=
+
+Name: res/drawable/ic_cat_progress.xml
+SHA1-Digest: xmP/cMuVkRKTuXcdJa6fY+hAiTQ=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: 6jT/0UzbTXSp+B4mNS1Jx1PWLIc=
+
+Name: assets/pics/picto/flower_gray.png
+SHA1-Digest: cDwvnj4pTTD1zQSR9L9kBtc7Sxk=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: SQw98eLJjD9P26uGhCD2czwxfIU=
+
+Name: assets/pics/lenin_konets.jpg
+SHA1-Digest: KT/IAynzhCwmpQBD/+WqwqocMj0=
+
+Name: assets/pics/stessel.jpg
+SHA1-Digest: k/pAyvzrKuLGuieLir9Lb5lIVEM=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: jGrz8B2boUgYrPDsjt9xON/yVSU=
+
+Name: assets/pics/yaropolk.jpg
+SHA1-Digest: SaUwkCIjJhS8qLyBTjY6SGEQSC0=
+
+Name: res/color/mtrl_bottom_nav_colored_ripple_color.xml
+SHA1-Digest: v3MC/n2rN7sYKyLqtf2LJTrOvU8=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 6nL94lpOIDhHAcaZP6Numi9gbpw=
+
+Name: assets/pics/kurbskiy.jpg
+SHA1-Digest: Rr6TDCEKke9yf9Nhmsn+YJxWG4M=
+
+Name: res/drawable/ic_stats_arrow_bg.xml
+SHA1-Digest: gC4HIAv8I1PyRYJtRHUclHwK5E8=
+
+Name: res/drawable-night-xhdpi-v8/ic_certificate_box.png
+SHA1-Digest: MCxMGb2UmvBujxOH9AGaUwXtLhg=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: kKUmXVdAthTEkpBRvbcFoUaN1Oo=
+
+Name: assets/pics/maps/Slav2.png
+SHA1-Digest: CYYVj4e8mqsnmMH5jnF6JrNQC0U=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 8Sb/L5pJ5dP5LYtTMluOvUh3sug=
+
+Name: assets/pics/volkov.jpg
+SHA1-Digest: M/t0Mx3lm4bTjB8x0J8uqViPC+I=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: nFn3cNSeNCQ3l9LzplkyhavepbA=
+
+Name: assets/pics/gallery/paint/aristokrat.jpg
+SHA1-Digest: b2Wtv6lY6FzXtn5iYXmzfa3/PYA=
+
+Name: play-services-ads.properties
+SHA1-Digest: hY2KTQIajqI31Knn8lKEGPjm+XU=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: jJIIxBXFlVwxMesuJlFFhjvLhPM=
+
+Name: res/menu/main.xml
+SHA1-Digest: FmwN9cN4qS/O2OZCTxFz5vbYxwk=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: OW+ZULMA0miOKqqKj1wk15SSUFQ=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: res/drawable/ic_contact_rate.xml
+SHA1-Digest: vf/DKjEVErwDqbwvRl9DpKSQGzs=
+
+Name: assets/pics/orda_nagay.jpg
+SHA1-Digest: KfyUa2eQQrbMnSoOHxP6xZhX14I=
+
+Name: res/layout/dialog_info.xml
+SHA1-Digest: atCzKhsrn+jQ9r4P6rO+6Jpx0AY=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: VuBCObPzRvqqOgRHxjZOlyzZJWo=
+
+Name: res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+SHA1-Digest: wTL2AeZLhcus+eIJJQ0V3pYW1ec=
+
+Name: res/layout/section_list_include.xml
+SHA1-Digest: nrInaYWAnwxvDujVlc9E3PfbOqU=
+
+Name: res/anim/slide_out_left.xml
+SHA1-Digest: sSl8SoYUUfxB3qOXIz1TOson8m8=
+
+Name: assets/pics/kostushko.jpg
+SHA1-Digest: BLHEkXG6BExZKE9xyH4Vzm8YOK0=
+
+Name: assets/pics/gallery/sculpture/sc_samson.jpg
+SHA1-Digest: wKelFDKlPIiwvB9nekV1pHK6/nA=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: LYh5wO7mcgtiq4fyzNQBKw1XFk8=
+
+Name: assets/pics/gallery/monument/monument_dolgorukiy.jpg
+SHA1-Digest: ziT0qxKzXZnHS+z/faKxzd5I59A=
+
+Name: assets/pics/rds_1.jpg
+SHA1-Digest: HBv+Fjzx5+JCQaPoE6GYTa7Gp0I=
+
+Name: res/drawable/ic_nav_share.xml
+SHA1-Digest: CxQO7fmgvIX6NtcC2IxkRhkHUng=
+
+Name: assets/pics/19_konferenz.jpg
+SHA1-Digest: yNw8JltouPZYdPu4Qkzf6PbqADc=
+
+Name: res/layout/content_info_data_list.xml
+SHA1-Digest: CNGUNCvzPnWu+70bBY8LpJIzC6s=
+
+Name: assets/pics/gallery/paint/troitsa.jpg
+SHA1-Digest: /8iQ55GFdwVBfUw0Msv7gQVfMrQ=
+
+Name: res/anim/design_snackbar_in.xml
+SHA1-Digest: U9b3wwIHUiK/9Qnbq7rj7HSJdVU=
+
+Name: assets/pics/sarovsky.jpg
+SHA1-Digest: JxjiqwqIWQBtHFJid+SmqOSShNI=
+
+Name: res/xml/paths.xml
+SHA1-Digest: e5LXWdRy0aTt7/Fgv5buLfV2pdM=
+
+Name: res/menu/menu_section_tests.xml
+SHA1-Digest: yMKS7ytfyBlmS2Le3vuKiVQyXi4=
+
+Name: res/drawable-mdpi-v4/ic_zip_box.png
+SHA1-Digest: rV+HyvkpLCdhXxYil1lisoEJiuI=
+
+Name: res/drawable-xhdpi-v4/ic_apk_box.png
+SHA1-Digest: f8NSfJW8hlxVY1nCma4fqKK+DSA=
+
+Name: assets/pics/notes/halloween.png
+SHA1-Digest: MYS8ew6SZ987y+DDeUQ/c7eRuW8=
+
+Name: assets/pics/riot_presnya.jpg
+SHA1-Digest: abhD+InVugtzWom787KsdaEjPKU=
+
+Name: res/color/mtrl_btn_text_btn_bg_color_selector.xml
+SHA1-Digest: k+/TG4eXjwFqw0yVBRVjnq4v92w=
+
+Name: assets/pics/malenkov.jpg
+SHA1-Digest: 65qD2bP4moqtnvdYkw/dyCdK6No=
+
+Name: assets/pics/battle_polovtsi.jpg
+SHA1-Digest: H9DlofKmWGWU5UQoxDXkDI+S4oQ=
+
+Name: assets/pics/battle_rokov.jpg
+SHA1-Digest: F6R0UNPKSOdvPYXrLt/X64jOL8E=
+
+Name: assets/pics/oleg_dogovor.jpg
+SHA1-Digest: vNNpOph/t/fnCD9kntMvJ395Ixc=
+
+Name: assets/pics/rutkoy.jpg
+SHA1-Digest: 9axuyzYjvjakhEtegwzB3JrMYzc=
+
+Name: assets/pics/notes/note_blue.png
+SHA1-Digest: u+38xX/nTdIMcYziQPdfsDH7KuQ=
+
+Name: res/color/mtrl_btn_bg_color_selector.xml
+SHA1-Digest: lAwlIxIiIT0dh7mkr7O+AjBHs50=
+
+Name: assets/pics/bestuzhev-rumin.jpg
+SHA1-Digest: e4L04qD76kBYqktEXP7NyhklQz8=
+
+Name: assets/pics/osterman.jpg
+SHA1-Digest: 9Bs+jpKypLO20AY06exniqu4YIw=
+
+Name: assets/pics/polarstar.jpg
+SHA1-Digest: JVCBpoA/OBjfY9BAaZVf5ghx0e0=
+
+Name: res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+SHA1-Digest: NXdgBrCnfvejVwWnzAeE8Wro5Hg=
+
+Name: assets/pics/gallery/paint/burlaki.jpeg
+SHA1-Digest: psUITOIuf3bQPDchf+6nhJOAjhI=
+
+Name: res/drawable-xxxhdpi-v4/ic_image_box.png
+SHA1-Digest: CMBbOB+ThXUDbzQY5NU0mRot2qU=
+
+Name: res/drawable/side_nav_bar.xml
+SHA1-Digest: Le+UnSleGeoEh5otYz7j7jvJWEA=
+
+Name: assets/pics/afanasi_nikitin.jpg
+SHA1-Digest: QbgqweNPd+9FVUG4YRiFtLRt2lk=
+
+Name: assets/pics/potemkin.jpg
+SHA1-Digest: LPuL++yTaSMpgm3Nh2SNdG9t60w=
+
+Name: assets/pics/gorby_el.jpg
+SHA1-Digest: oQLRynf1GS1Sf2EfFXMk3qJk21w=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: BjYXNIGGhyqIB4Vq4khlEepKSZk=
+
+Name: res/layout/fragment_starred_tab_1.xml
+SHA1-Digest: 9hFAlVAaq78zGDKIDDJsjP/qBYA=
+
+Name: resources.arsc
+SHA1-Digest: 59I1hRxhsAHebVuDilzRbkpLxzo=
+
+Name: assets/pics/gallery/pers/pers_nabokov.jpg
+SHA1-Digest: 9cWx80CtQnAQhiIvEUWy7xW2fJ0=
+
+Name: assets/pics/franco_rus.jpg
+SHA1-Digest: Wokte1ylnGkey/oeguz9YeDdeLE=
+
+Name: res/layout/view_img_item_pic.xml
+SHA1-Digest: ILBul3Lu52MGgN88ct/eYZMmbhQ=
+
+Name: res/drawable/ic_stats_test_bg.xml
+SHA1-Digest: 6BvCVZ0th7gPVgvTHTSR4gHBETQ=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: GuKSrhMJG9+hk/tPX2xPNfs4cy0=
+
+Name: assets/pics/petr_mitropolit.jpg
+SHA1-Digest: kEs6+bQ8I2Va9ORM+w5srEKIHCc=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: MsKnKUfV5gWzD7RWSuurRz8RvIo=
+
+Name: assets/pics/livonia_knight.jpg
+SHA1-Digest: 62u/RMP4YQSFiUMRVOustOzbxNU=
+
+Name: assets/pics/notes/book.png
+SHA1-Digest: vqvUOuYr4iyrMLZ4QPRO5flEz4A=
+
+Name: res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: ZQj/eyI9j4WxIRNxEDiwFqKcMCY=
+
+Name: assets/pics/gallery/flag/flag_1720_trade.jpg
+SHA1-Digest: bo4DPoxUUvNDzjd+QO0EnPnuTTE=
+
+Name: assets/pics/gallery/paint/zhnetsi.jpg
+SHA1-Digest: DB7J5M4czaLrbwT1j5CP7XlHUyQ=
+
+Name: res/color/abc_tint_spinner.xml
+SHA1-Digest: B+YUm/mVMSLX4/L+ckllQsSYl0o=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 91+SjRwS48rnNSkJl3hukfpvmrk=
+
+Name: assets/pics/battle_leipzig.jpg
+SHA1-Digest: p6URj0S+bjug7miId+PW9J43ZsY=
+
+Name: assets/pics/vyvod_voysk.jpg
+SHA1-Digest: dMM32/vvt9F3UWpNMsWzRedYXC8=
+
+Name: assets/pics/yermak.jpg
+SHA1-Digest: yBxiizHpn6g0spN8jBoZOmErxJA=
+
+Name: assets/pics/povest.jpg
+SHA1-Digest: m5dDQu/+v2MOZ6/B0iJJe5iP5Co=
+
+Name: assets/pics/gallery/arch/sobor_kizhi.jpg
+SHA1-Digest: QIj7+54CPIDwsKazujUYUlLmD2g=
+
+Name: assets/pics/orlov_g.jpg
+SHA1-Digest: kx8fAEioeROSUJF8janDMihSMkc=
+
+Name: assets/pics/notes/person.png
+SHA1-Digest: vspL3wbCgwMbTNIhjS8x7JSMFU8=
+
+Name: assets/pics/ulojenie.jpg
+SHA1-Digest: VIoVRtklffVqDt6+WfdErU7WBx0=
+
+Name: res/layout/dialog_pic_info.xml
+SHA1-Digest: m5njb8I39lVl7vVQo8h0iUmUQII=
+
+Name: assets/pics/gallery/paint/tocholschik.jpeg
+SHA1-Digest: jB2Obz21Cc3QxbCKeVw7bcfHJEA=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: qtoCsdEoyaDYmAvH44tfVLv6hoY=
+
+Name: res/drawable-xhdpi-v4/ic_pdf_box.png
+SHA1-Digest: yZ62JobFuf7SLvsMEo4a/bgja4g=
+
+Name: assets/pics/beria.jpg
+SHA1-Digest: iLZmLUoLHo4L1FRrZpPABDaLBmo=
+
+Name: res/layout/img_picker_item.xml
+SHA1-Digest: ijbJQlxObWm4OY3tMDu9D8TVEmc=
+
+Name: assets/pics/notes/food.png
+SHA1-Digest: f9ApSA8NOHtvV1R95ow5hOuxFaA=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: L0IgyYapku8uZtPqOfviagHTIEk=
+
+Name: res/layout/pref_screen.xml
+SHA1-Digest: Eom+BVcPdghLi9vf+bvTJXMK9k0=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: +F9A3ApomF++Ccyi3vyA4AvmXMw=
+
+Name: res/raw/info.txt
+SHA1-Digest: DSVBqLFHPZTn2WRClHt6D3jPOjA=
+
+Name: res/layout/activity_sample.xml
+SHA1-Digest: 5LdKqv1b4Eeqhv4AL0oWKHVD+kU=
+
+Name: res/layout/test_chip_zero_corner_radius.xml
+SHA1-Digest: bhknN5Nkf4PBcJgfSsauWnKYxGg=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: xKybPS0eDGzA2VW+dI0P9akjvZ0=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: joK0vcdx2mqj6rhHNblDhPDqav0=
+
+Name: assets/pics/picto/shape_red_l.png
+SHA1-Digest: 7XDYwcWuwzCGMgvddKUntt8ouKQ=
+
+Name: res/drawable/ic_emo_very_good_bg.xml
+SHA1-Digest: dkPktuNKUTkPbSKVtLMpBpO2dMw=
+
+Name: res/drawable/ic_full_detail.xml
+SHA1-Digest: EMTP1Lbp+28JF2VoghPdL3NAWGk=
+
+Name: assets/pics/olimp.jpg
+SHA1-Digest: UATRrHmHPAkATMgIOzwLJjSzZX0=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: qhv+TD07h28F93Id4LWUjp34qb8=
+
+Name: res/layout/content_exercise.xml
+SHA1-Digest: 6fA/s/PbjYZx8jn9s4+15whNWYA=
+
+Name: assets/dates-1.json
+SHA1-Digest: bQw/gB0pgTabH6Axq+8tUZUkBhQ=
+
+Name: res/layout/mtrl_alert_select_dialog_multichoice.xml
+SHA1-Digest: 60TFXbJYahJRgfDeU+G2zBvigpo=
+
+Name: assets/pics/gallery/flag/gerb_15v.jpg
+SHA1-Digest: w/iesgG3Rtz2FrRkuL2OatkLYbE=
+
+Name: assets/pics/gallery/paint/kupchiha.jpg
+SHA1-Digest: fugMDB0n+PJHb6/HvqUgs/wBdhY=
+
+Name: res/drawable/mtrl_popupmenu_background_dark.xml
+SHA1-Digest: FTe2hXoFUhdVSzTnVTAKSBnXeFQ=
+
+Name: res/drawable-xxhdpi-v4/ic_word_box.png
+SHA1-Digest: fIqxQn57yrDVicakLbIocxGvG/Y=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: h2tBvFGRUrlGIzFUqIYNFF4jBTY=
+
+Name: res/layout/activity_exercise.xml
+SHA1-Digest: 8Py53NJ0qAfwXRcefX7amBl/VfI=
+
+Name: res/layout/picker_dialog.xml
+SHA1-Digest: 5FmOpBr/IrdmNZ6q+cdrRz0nUUQ=
+
+Name: assets/pics/gallery/sculpture/sc_grozniy_1.jpg
+SHA1-Digest: GE/mVbf7xi85+h/J4pDz+cfsNy0=
+
+Name: assets/pics/vasili_3.jpg
+SHA1-Digest: EuGoXQ4/6Ia5xPkK4lf5CXKUXNg=
+
+Name: res/layout/design_navigation_item_subheader.xml
+SHA1-Digest: AjVgDP4O9Y2n09Tr5TEWtYR24Aw=
+
+Name: assets/pics/moskva_yuri.jpg
+SHA1-Digest: YG1ly1pYV7kqJYRc20FLbp4eN9M=
+
+Name: res/layout/category_list_item_nopic.xml
+SHA1-Digest: 3Kb6lFR1plDTItR3ovlgJy/ITIo=
+
+Name: assets/pics/syezd_23.jpg
+SHA1-Digest: bIAlC0Vg8cYuhhZ7XMZCjxPi2sQ=
+
+Name: assets/pics/petr_sinod.jpg
+SHA1-Digest: kCUvQVc2i04ymJ1H2ZRDeGsUh5s=
+
+Name: res/drawable-mdpi-v4/ic_arrow_down_24dp.png
+SHA1-Digest: oATbb8/Vi9ln+wtzh2RFfVTvvro=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: res/drawable-night-mdpi-v8/ic_pdf_box.png
+SHA1-Digest: /S1CNH2p/UUjbg9dVt7Lm4zPXG4=
+
+Name: assets/pics/skobelev.jpg
+SHA1-Digest: 4STFf85fJWuEy4Dq5ITZ1GDD7WA=
+
+Name: res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpola
+ tor_1.xml
+SHA1-Digest: 8MpuwYdjLzcIJdUY+UVQ3ICY5ns=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: 3J5pByYkZRz7TetQA7yaxvDvbrk=
+
+Name: res/drawable/ic_view_grid_2.xml
+SHA1-Digest: RNct85U4kjlAURlMByEPQiP8GL0=
+
+Name: res/layout/preference_widget_seekbar.xml
+SHA1-Digest: dSN+UCyJj8rf3kxPm3sKsJANKrk=
+
+Name: res/color/mtrl_tabs_colored_ripple_color.xml
+SHA1-Digest: v3MC/n2rN7sYKyLqtf2LJTrOvU8=
+
+Name: res/drawable/ic_emo_sad.xml
+SHA1-Digest: c+NDOJesG7EHv9d/B7mv663VsEY=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: fxWy0zQ8iYeJwNN3SSiIaaTSkPc=
+
+Name: assets/pics/mongol.jpg
+SHA1-Digest: XXU+yTtfNtCzSYo8ZxFtZxzpPGM=
+
+Name: assets/pics/gallery/monument/tysyacheletie.jpg
+SHA1-Digest: haFl77ua+G9D/p7jX9HfDMnYpbQ=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: cjG9sTPDRm4+Q3YgeyRUYPgo2LM=
+
+Name: assets/pics/petr_azov.jpg
+SHA1-Digest: F0PX/ywZif0P1dp4Y0PqvjOh25k=
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: hYj94VwZcDGM9vdV7kCsS9TKZHg=
+
+Name: assets/pics/picto/shape_black.png
+SHA1-Digest: s3PVnyRTqjMNn7tkgct2i7xpHy8=
+
+Name: assets/pics/petr_2.jpg
+SHA1-Digest: ajnxiy/viSv67EmZOU3Lq1XDIiw=
+
+Name: assets/pics/bogrov.jpg
+SHA1-Digest: 73kvam1VdThNQIIofzgrhoO9Lx4=
+
+Name: assets/pics/maps/map_war_civil.jpg
+SHA1-Digest: K42PC5TqQGGxwSKxH8r+w/+H2Xk=
+
+Name: assets/pics/gallery/paint/vecherya.jpg
+SHA1-Digest: v15u5nHjmvM51Aj3MXxoCTUOSXI=
+
+Name: res/layout/browser_actions_context_menu_page.xml
+SHA1-Digest: Fa/zAKgeDjiUedltGoYtATFB2Y8=
+
+Name: res/layout/custom_list_item.xml
+SHA1-Digest: Ve1E//pxolbQM8RBh6CzYMsazdA=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: d/ygpuT2YiF/iIerQ2gw0iqKlSQ=
+
+Name: res/layout/nav_dialog.xml
+SHA1-Digest: 4MQVWlduBA07WuG2QsseAoGHyJo=
+
+Name: assets/pics/katerina_2_2.jpg
+SHA1-Digest: 4GazXCYAR+kgKkLkZ9xKLyvu/pk=
+
+Name: assets/pics/gallery/monument/column_rostr.jpg
+SHA1-Digest: AlBAsp3lcLZvZnvea2pjHDPDXRo=
+
+Name: assets/pics/rastrel_tsar.jpg
+SHA1-Digest: sxqxd8xsmCKh1uBJH4G6g93Ih5k=
+
+Name: res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+SHA1-Digest: LEcjeq4+c8pxKtZYN2VDnzt8JXo=
+
+Name: assets/pics/trotskiy.jpg
+SHA1-Digest: u7QaR3WX2trwK6SxCW5QKkITSWw=
+
+Name: assets/pics/gramota.jpg
+SHA1-Digest: N2GwsRKA3K6phZPboDT4IzLRj8g=
+
+Name: assets/pics/vitte.jpg
+SHA1-Digest: QouM+jLjx0vDkdClEMDjTxg2n/E=
+
+Name: assets/pics/notes/travel.png
+SHA1-Digest: t5nLT+AsR8kUjKXxx0lAip1RJHU=
+
+Name: assets/pics/battle_moloyaroslav.jpg
+SHA1-Digest: T+C49JWt1lissthtAMZYtnIX2nI=
+
+Name: assets/pics/purishkevich.jpg
+SHA1-Digest: J7VQwkkzkjrxy3W9QDQgqzBjnnc=
+
+Name: res/animator/mtrl_extended_fab_show_motion_spec.xml
+SHA1-Digest: BYMDzt2JICU898Erj0X1Bobo6M4=
+
+Name: res/animator/mtrl_extended_fab_state_list_animator.xml
+SHA1-Digest: MrRc5ZTnUPAU6cTGaHXbfaVSC9c=
+
+Name: assets/pics/most_live.jpg
+SHA1-Digest: 5JYhAGsEve3pTteBuIhwANnypS4=
+
+Name: assets/pics/gallery/paint/kupanie_konya.jpg
+SHA1-Digest: qiFBopka05jeClBOHpFF5N+Mee4=
+
+Name: assets/pics/ww2_ni_shagu.jpg
+SHA1-Digest: mAvVm14LyigMT8PPPe/YS85VTEk=
+
+Name: assets/pics/gallery/arch/teatr_alekandinski.jpg
+SHA1-Digest: yJovmM10qZ6N75fAoALR4ou4A20=
+
+Name: assets/pics/rodzianko.jpg
+SHA1-Digest: eHbxiafHBr5FhY214Uls2lmXDug=
+
+Name: assets/pics/ekaterina_2.jpg
+SHA1-Digest: pyx6OwukVBN+PRYbeJNW6BpdHF4=
+
+Name: res/layout/activity_gallery.xml
+SHA1-Digest: pHCmLFrm8sxB7zMACeCAnITvOsQ=
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: UZd7U0EAzo4OsRzIvxyVHc0jdI0=
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA1-Digest: Ou0XkVrlpFMiW5OY6PLShGdbLLo=
+
+Name: assets/pics/asia.jpg
+SHA1-Digest: hjyfII40K9u0m53Ff3fUob+w7J8=
+
+Name: assets/pics/gallery/pers/pers_stravinskiy.jpg
+SHA1-Digest: ftXQ9KahhNVQHTKGzChMPLk70a8=
+
+Name: res/drawable/ic_sort_alphabet.xml
+SHA1-Digest: QX0Hp1rawySk/6CWg4p1faHQ0YU=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_apk_box.png
+SHA1-Digest: 1+YZc+6wCMFMW0poEQ1z1AWW5hQ=
+
+Name: assets/pics/notes/fencing.png
+SHA1-Digest: SYuMYF7dm62f4QrFc/WZTW07Oyg=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 6wmuQsGop94sACxKfh+EBLCBjJk=
+
+Name: res/layout/main_multipane.xml
+SHA1-Digest: 99EWcc02YJNWE69c0nP7ZDhlpBQ=
+
+Name: assets/pics/rus_china.jpg
+SHA1-Digest: 5YeYzsuaeUUkdHd8AXkEc6vr9y8=
+
+Name: res/interpolator-v21/mtrl_fast_out_slow_in.xml
+SHA1-Digest: 7FoCRJfJcf8AaYwhL/yEzlzTJFg=
+
+Name: assets/pics/gorod.jpg
+SHA1-Digest: rn3QnetfLl0MDzOrmZUMD3zWpvg=
+
+Name: res/layout-v21/preference_information_material.xml
+SHA1-Digest: uCDtkDgTK6gmK5n3VgSEeaTQxBY=
+
+Name: res/layout/mtrl_picker_header_toggle.xml
+SHA1-Digest: iSv/XFdKzViKjQNSoH1e4EOnwJE=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA1-Digest: 7txkdhR3/M1+7pFXRocpYAeHrUg=
+
+Name: assets/pics/lenskiy_rastrel.jpg
+SHA1-Digest: zp+FcA0vGVWJ+4U7ehpQ8n7P/2I=
+
+Name: res/drawable/$avd_show_password__2.xml
+SHA1-Digest: ygCWABZ4PmpLmnPe67kXUaEF3ic=
+
+Name: convertSplitOnWhitespace_de.properties
+SHA1-Digest: 9ZLcqcZUXIYqcM7tp5kE7AO7SYQ=
+
+Name: assets/pics/muraviev_a.jpg
+SHA1-Digest: 6AOuxUvJiFFldl+fWvb3alUQjRg=
+
+Name: res/drawable-mdpi-v4/ic_word_box.png
+SHA1-Digest: VwYzBU33pYzW8IHcAc2VuVPy4UE=
+
+Name: res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: TFw374/s4XaJ6tO6+xKfPns7uwA=
+
+Name: assets/pics/ovd.jpg
+SHA1-Digest: v3dvNEFOEq0YlSWF6vE6kgRqAww=
+
+Name: res/color/mtrl_bottom_nav_colored_item_tint.xml
+SHA1-Digest: qVb6J1csqNnPhSG3LRiA50QxtJY=
+
+Name: res/layout/fragment_stats_progress_count_card_include.xml
+SHA1-Digest: DYFTVPl3n1/uBARNONgKMx6zkh4=
+
+Name: res/layout/design_layout_snackbar_include.xml
+SHA1-Digest: 5nF3SgALmdy5MdNACsSANadD/gk=
+
+Name: assets/pics/moskva_vyatsk.jpg
+SHA1-Digest: 8t8/2aVFjRTq48+xvwcIx3ZY7dA=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 4Hw7naTONE1358HTJi9mZTJ9Hto=
+
+Name: res/drawable/ic_mtrl_checked_circle.xml
+SHA1-Digest: 4u9MkQ6V95mNCVQAhzbouUEneiE=
+
+Name: assets/pics/konstantin.jpg
+SHA1-Digest: I8tT7WyY2xanlsUwVTxEsaaCr7E=
+
+Name: res/layout/view_top_cat_item.xml
+SHA1-Digest: aPuEPefSt2mtssIyTKLtOtL8jvU=
+
+Name: assets/pics/pestel.jpg
+SHA1-Digest: 2zupTWKpTiqEbdrCUP14FdLFfjA=
+
+Name: assets/pics/gallery/arch/palace_peterhof.jpg
+SHA1-Digest: Hrx9KatVQYE9ZKZm2YInurW/dEI=
+
+Name: res/layout/activity_text.xml
+SHA1-Digest: YNAiZ4HCSsBhtpRUV2/ppXVQdgk=
+
+Name: res/drawable-xhdpi-v4/ic_image_box.png
+SHA1-Digest: CSfY1se3bH26f/8B6oa5fvmvvDE=
+
+Name: assets/pics/batu.png
+SHA1-Digest: 3yCvog25v0Y+Wuu6RwLS96vjyr0=
+
+Name: res/layout/browser_actions_context_menu_row.xml
+SHA1-Digest: 2KHcQ6gRo2JJMmp4yjiYr8RoraI=
+
+Name: res/drawable-hdpi-v4/ic_excel_box.png
+SHA1-Digest: WT0Lu4BnnL0WWHvcpsR6b3MGNws=
+
+Name: assets/pics/gallery/pers/pers_korolev.jpg
+SHA1-Digest: XCY9M39DqmMkck9HsshFClJf+lQ=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: VtAar/PGK62kVIMvq38TWd50y/E=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA1-Digest: kmtvjcxdbUDed0Q+Ywr9u75PySU=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA1-Digest: Szazs3+0BdABSrbZrs098gSbJBA=
+
+Name: assets/pics/stahanov.jpg
+SHA1-Digest: g4ut1sffapOyDrPgnz1gHIoZi7U=
+
+Name: assets/pics/lenin_2.jpg
+SHA1-Digest: bubm2ZQ0ZAq+VgyKj7Fv+Ma/Ehw=
+
+Name: res/layout/mtrl_layout_snackbar.xml
+SHA1-Digest: yuxxhx0ZPxWZs66NVfSXZ5GCE5o=
+
+Name: res/menu/menu_map_info.xml
+SHA1-Digest: +xZ5jKTJgiy4O8tb1qYCO2PE+Z8=
+
+Name: assets/pics/notes/flag_blue.png
+SHA1-Digest: a/jvGKahpsXeuSPAFJN4Jg8lNtA=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: 8gEWwtKWBoAUfZM0SEHcIbMc0po=
+
+Name: assets/pics/gallery/paint/streltsi.jpg
+SHA1-Digest: iWgCX821P7HBk+Mk45VrgMgm+z4=
+
+Name: assets/pics/battle_niva.jpg
+SHA1-Digest: GoXqJffS2Eb+WEPoNRWweY0UXi4=
+
+Name: assets/pics/gallery/monument/medniy_vsadnik.jpg
+SHA1-Digest: gT7nRbgeMrshPeUegck/A/EIp1U=
+
+Name: assets/pics/gallery/pers/pers_popov.jpg
+SHA1-Digest: 5vCjJmIyi4f6R2v4xurOm1PyVUk=
+
+Name: res/drawable-night-hdpi-v8/ic_word_box.png
+SHA1-Digest: KhfOIqF1zTSc9KUQ57zHsgQaiD8=
+
+Name: assets/pics/emperors_3.jpg
+SHA1-Digest: OpjgH13k+gkIbIyY+I+Jc2WsqJs=
+
+Name: res/layout/mtrl_picker_header_title_text.xml
+SHA1-Digest: ZD59dq+qc+ysneSYc105C3aYbrw=
+
+Name: assets/pics/battle_kulikovo.jpg
+SHA1-Digest: JdN+s+KEaPby5G2drAlue8M8cxA=
+
+Name: assets/pics/notes/misc.png
+SHA1-Digest: OpUkHYH9r8qm3FxtGxMplLwU0RY=
+
+Name: res/drawable-xhdpi-v4/ic_drawing_box.png
+SHA1-Digest: 4+dleQohVjeCl9y61F4js5K0Y8c=
+
+Name: assets/pics/borisov_a.jpg
+SHA1-Digest: 3HOtLsHgUJ4wsTPmtQUL72Z1MsI=
+
+Name: assets/pics/mitropolit_iona.jpg
+SHA1-Digest: jag0hK8yLh3OwOoPe78AfTWKm/0=
+
+Name: assets/pics/stepan_razin.jpg
+SHA1-Digest: A61fn6qDk61/xnLzal4ZDa/46CI=
+
+Name: assets/pics/duma_4.jpg
+SHA1-Digest: +dZbWSJUB9AkoToVssZyhcTFPow=
+
+Name: res/layout/mtrl_picker_header_selection_text.xml
+SHA1-Digest: OwNhzUsfUUPEWtOL9kSQyQ7Lt+Q=
+
+Name: assets/pics/bolotnikov.jpg
+SHA1-Digest: DhrQeCWYzhw2QnDAvswXjo8Sb2E=
+
+Name: assets/pics/map_ussr.jpg
+SHA1-Digest: zZOta3U/z7C57cAzrzovSsMxPY0=
+
+Name: res/layout/exercise_option_long.xml
+SHA1-Digest: pplfwx6tEMXq8pkOxuqI2Kqt5DE=
+
+Name: res/drawable/abc_vector_test.xml
+SHA1-Digest: b2euNlIvLp8ulrB66gSvPmkEaLI=
+
+Name: assets/pics/gallery/paint/sinii_vsadnik.jpg
+SHA1-Digest: Bd3ISn4l5xLqrX0eEHIXol7LppM=
+
+Name: res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: 6cYteh91Z4QwwshoVAQi/kEme4s=
+
+Name: assets/pics/susanin.jpg
+SHA1-Digest: cYVMb0Ia87eRDtOy5/M26y3/auc=
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: cG04d50tDB7eX3k8GXpvzf7ad6k=
+
+Name: res/drawable/app_japanese.png
+SHA1-Digest: YabHyBerqfd0zHElzS+gopLELaY=
+
+Name: assets/pics/gallery/paint/kavaler.jpg
+SHA1-Digest: SvWqTRzNaBwhvu1HuXrTpr8/sZY=
+
+Name: assets/pics/maps/map_war_north.jpg
+SHA1-Digest: 32fG35hp3vSGZTUi8lLPzwyCoKU=
+
+Name: res/drawable/$avd_hide_password__0.xml
+SHA1-Digest: Dqe2cwtAc1QS4QuoTaUusqIiLfc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: P/TePusgUK0jTzJbBXwUqj2ymIs=
+
+Name: assets/pics/gallery/pers/pers_kovalevskaya.jpg
+SHA1-Digest: SOguij+PUw6AM8ZDOE2rYKxXxi8=
+
+Name: assets/pics/ww2_bagration.jpg
+SHA1-Digest: CwlxDDt7q2hCktvokTYFXZw6m5c=
+
+Name: assets/pics/simeon_gordiy.jpg
+SHA1-Digest: OsIv8FpGOZ9Toio321J1MIF5nXY=
+
+Name: assets/pics/jandarm.jpg
+SHA1-Digest: iUz/T7wlg40SzuuwB86fueC/7AI=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.
+ png
+SHA1-Digest: ZjoNfwYFY/w1heN9+GIDC4AUjSI=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: 8aL6IMjzb0m6YrCsvoD69E5cRDA=
+
+Name: assets/pics/battle_shipka.jpg
+SHA1-Digest: xdpHzcvCZrEPiSyrXGVkMqvYxXo=
+
+Name: assets/pics/notes/castle.png
+SHA1-Digest: /rCvyg0YaZVWTpgy2C6YI4KsqE0=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: 2WQfiHtE7swfKTv+rd+RVRKD2Sk=
+
+Name: assets/pics/grozniy.jpg
+SHA1-Digest: UnI34J3RWtXXjeM+2Tcwbi7tRyU=
+
+Name: assets/pics/zemskoe_sobraniye.jpg
+SHA1-Digest: NPkF8k6nOiC8Sh4bNq3gVh4EzI8=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: W9bM0DI8HU3W5mDcsP2mPzT9VHs=
+
+Name: res/drawable-night-mdpi-v8/ic_apk_box.png
+SHA1-Digest: Sb8u0FVQn9D36VfNUF6VpQzYGL8=
+
+Name: assets/pics/rsdrp_2.jpg
+SHA1-Digest: q0pKSGwEOHXNbA9Fyq7VJKYaQfE=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: j71Es1OJ/pRHXKJxY8KTPt6PqoQ=
+
+Name: res/layout/content_cat.xml
+SHA1-Digest: SrRhOttklpt4Szk2LEGOvsUGQBo=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: assets/pics/manifest_1905.jpg
+SHA1-Digest: k1B51VGy8HGSnFANKfRXRu5qGdQ=
+
+Name: res/drawable-v21/design_bottom_navigation_item_background.xml
+SHA1-Digest: j5XNlg0HGQhuMu5yPj6/WT4O6nI=
+
+Name: res/drawable/ic_action_archive.xml
+SHA1-Digest: RFE/fAFzVup/WbiDN8RfsPM/9GU=
+
+Name: assets/pics/konstitutsia_rsfsr.jpg
+SHA1-Digest: LgtTTyUnwZdwoRI1g429GY/26QA=
+
+Name: assets/pics/vasili_1.jpg
+SHA1-Digest: 8bZVC3b2c1raIovMmsT/5YifDyo=
+
+Name: res/drawable/ic_ex_circle.xml
+SHA1-Digest: xmP/cMuVkRKTuXcdJa6fY+hAiTQ=
+
+Name: assets/pics/gallery/paint/vsadnitsa.jpg
+SHA1-Digest: Fnf80SczFgK9qbWg+jcbf1Na1uI=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: C5G74tW2JFPwdcl//FtvBsXTaV8=
+
+Name: res/drawable-hdpi-v4/ic_music_box.png
+SHA1-Digest: 5KRkcCWDlszCJiVkWuKc9/k92z8=
+
+Name: res/drawable-xxxhdpi-v4/ic_splash.png
+SHA1-Digest: DUAJiO4uYAuExg1jmzd5gNsfI+4=
+
+Name: res/menu/bottom_nav_more.xml
+SHA1-Digest: ZlxWDFK1QPPe/W1eyPN1izP/evk=
+
+Name: assets/pics/battle_novgorod.jpg
+SHA1-Digest: 2b0W2eMRD37SSstNyKP/+Wp0rBQ=
+
+Name: assets/pics/yagailo.jpg
+SHA1-Digest: I1UR7JlYp/RLNRMQAOPjGouoIg4=
+
+Name: assets/pics/syezd_2.jpg
+SHA1-Digest: juFY2BylhK70vIZzxrYbSbFoKVw=
+
+Name: res/drawable/mtrl_dialog_background.xml
+SHA1-Digest: YiiYlXJ1yYVFauIQuqZELorXgCE=
+
+Name: assets/pics/milyukov.jpg
+SHA1-Digest: K6xjiAzsLBdD19VEyJ/uuH1zFFA=
+
+Name: assets/pics/anna_leopoldovna.jpg
+SHA1-Digest: K9XhBbDxZpiA3SMMBRPWmaBK7zw=
+
+Name: assets/pics/chernov.jpg
+SHA1-Digest: DQFakRetEYnrfSE99++S1r65RLw=
+
+Name: assets/pics/battle_tohtamish.jpg
+SHA1-Digest: xSjOnHrIztyXBJV6/q3/gbkvEVg=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: vt1oehKZp0gkRl4e+wzDTHdD7vI=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: Usq7Dzr/t1Xtrt8n6xUcjpoUU8g=
+
+Name: assets/pics/petr_1_2.jpg
+SHA1-Digest: gg8y7/7x5y9yY/Xz7wDYJoRcfls=
+
+Name: res/layout/design_text_input_start_icon.xml
+SHA1-Digest: DN0yImLQajvbu8JG2vI5NLawVf0=
+
+Name: res/layout/mtrl_picker_fullscreen.xml
+SHA1-Digest: NQp78dzmccd6w5QXzDJFEFiMGsM=
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: vJO912sCo6TVhmyen6quV0Oc7EY=
+
+Name: assets/pics/maps/mukden.jpg
+SHA1-Digest: 5l54QP+E/EgymJ8F4Wih6a5rKRc=
+
+Name: res/layout/content_gallery.xml
+SHA1-Digest: l4wJf+m5M0XeGrrUix/dYhdyjAw=
+
+Name: assets/pics/transib.jpg
+SHA1-Digest: vMayhc6EeeS1xyoeXToavEF3zQE=
+
+Name: res/layout/exercise_option.xml
+SHA1-Digest: SnKHI0wpcN4Sc66Tdnyj8sAEQ3A=
+
+Name: assets/pics/15_syezd.jpg
+SHA1-Digest: A2LepqLdEijgLCymjH7FUpPxifU=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 2z52s7kOKA0SBxW+QVgoPtaoSl4=
+
+Name: assets/pics/traktat_georg.jpg
+SHA1-Digest: ZCVBGuzCZuCXlj3akxnCnIkYdT0=
+
+Name: assets/pics/shuvalov_i.jpg
+SHA1-Digest: uwkNZ7Vnd5CT6Yz1Q1E2UYGVM+w=
+
+Name: res/drawable/ic_info_result.xml
+SHA1-Digest: NFarfwoax84yH+9f3AZRwa8t8AU=
+
+Name: assets/pics/notes/school.png
+SHA1-Digest: /1Qqgi8VG1W10OfQOf+b2sFsgeE=
+
+Name: res/drawable-xxxhdpi-v4/ic_drawing_box.png
+SHA1-Digest: mbyEWcL7qXYegA8yO2lTIOOc0KU=
+
+Name: assets/pics/notes/temple.png
+SHA1-Digest: p82JM6/qRYNLdx0xqfsNx6GJREw=
+
+Name: res/menu/menu_activity_starred.xml
+SHA1-Digest: fXvtCWRJn21SMPII39II1Bd/E9U=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_powerpoint_box.png
+SHA1-Digest: Gh3cN5GLdl/F2xsyQ3qDV2cUQ5c=
+
+Name: assets/pics/golod.jpg
+SHA1-Digest: AKgWfhsbohG7u3cL6wnWnomlMg0=
+
+Name: res/drawable/ic_nav_send_dialog.xml
+SHA1-Digest: 7NAP5AQp+w5pu1eLY1CgY+Kb4Vk=
+
+Name: assets/pics/igor_war.jpg
+SHA1-Digest: XXfizZVKjI/diZeSuF6wmUqcTKY=
+
+Name: assets/pics/notes/note_green.png
+SHA1-Digest: HOnkg1RuCXCz6VhP/Ia+PjvFlZI=
+
+Name: play-services-ads-base.properties
+SHA1-Digest: +Ux2O0IfsfhEWjgQ7WnkMOlfcvc=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: BrhcG9gnMxL5cZcJ0jDTmMfIM6o=
+
+Name: assets/pics/riot_kronstadt.jpg
+SHA1-Digest: ADrGDCM/LddNKCcwLhpplBk17QE=
+
+Name: res/drawable/btn_checkbox_unchecked_mtrl.xml
+SHA1-Digest: qiI9oMeylCVk+Wub01hGFDk4SZc=
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: w8+RBD8wMiMBu8QYz2SticlAqhY=
+
+Name: assets/pics/gallery/pers/pers_vavilov.jpg
+SHA1-Digest: VORb4yxJBI+5ZAMwUYbIdBmcSu0=
+
+Name: res/layout-sw600dp-v13/mtrl_layout_snackbar.xml
+SHA1-Digest: n4buxdMbbs9Gu/mupmPWO2Bj09c=
+
+Name: assets/pics/maps/map_war_1878.jpg
+SHA1-Digest: 8r6X0TK1cK3bWhJOH8BhV+HZRew=
+
+Name: assets/pics/notes/people.png
+SHA1-Digest: vwRpljn6TIYYoi47gF77KmOZJr0=
+
+Name: assets/pics/battle_1654.jpg
+SHA1-Digest: COCL7W+LncSpKyHk+s8FjK77C/E=
+
+Name: assets/pics/pleve.jpg
+SHA1-Digest: V2rwdXy3754HSsLeZbzDIjTjxqw=
+
+Name: res/layout/activity_user_list.xml
+SHA1-Digest: vMqV8T2pWdImT8RsOW3PzIYZrS0=
+
+Name: res/drawable/ic_play_tool.xml
+SHA1-Digest: leQ7IDEnck29b0TFlv65QKgteT0=
+
+Name: assets/pics/battle_alma_2.jpg
+SHA1-Digest: M+Ar4Ls1fcXSnK71hpFVGk/5pD4=
+
+Name: assets/pics/notes/note.png
+SHA1-Digest: /5WKRuYKrsUiJeIsS9eFy4WkZiQ=
+
+Name: assets/pics/ww2_kontr.jpg
+SHA1-Digest: BCpA4KI3uQaMXce8jO+iQq9szrc=
+
+Name: assets/pics/rus_1113_1194.png
+SHA1-Digest: fvvkA8/TU3tYdLU/HrjXRpA9YTk=
+
+Name: res/layout/design_layout_tab_text.xml
+SHA1-Digest: amFJWRP/hYK91+ChoPOSAugdFhA=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: SaBB1uVR+6oONKiYA0HTOmVsmqE=
+
+Name: assets/pics/biron.jpg
+SHA1-Digest: 47MDmuHVirxxBhGkohYCoSdl19s=
+
+Name: assets/pics/boris_gleb.jpg
+SHA1-Digest: BUCkZVkMduoA53Rnxte4sI52kzI=
+
+Name: assets/pics/moskva_univer.jpg
+SHA1-Digest: CRI2ug5SAV0vKwlZ3DHFgxODDYs=
+
+Name: assets/pics/gallery/pers/pers_skryabin.jpg
+SHA1-Digest: 1Emno4Cadjgc0ECUEf+dlBM4VQo=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: 0RVQrQFoh01QC4jkUDLwEoHiG1w=
+
+Name: assets/pics/battle_grunwald.jpg
+SHA1-Digest: C5rPqJl/DXKbSRQfoke81WZo7JM=
+
+Name: assets/pics/olga_957.jpg
+SHA1-Digest: 7nS1aXAp90OY5UkpRoGvs7LVEkU=
+
+Name: assets/pics/moscow_tver.jpg
+SHA1-Digest: wRBoE1M/GkWgfsQZmQpYQXII848=
+
+Name: res/drawable/$avd_show_password__0.xml
+SHA1-Digest: b+sBY+U6cUbkMObwqYxkU6Q+Sco=
+
+Name: assets/pics/gallery/paint/lebed.jpg
+SHA1-Digest: Q5rSjz9z0gKr9wXa/S9KRfCMp1I=
+
+Name: res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+SHA1-Digest: 3RCgLjk41T7CjNQDhDcHoDDmqL4=
+
+Name: assets/pics/gallery/flag/flag_1918_rfsr.jpg
+SHA1-Digest: LluYJr079NGMwTGei68xRSF1fog=
+
+Name: assets/pics/gallery/paint/suvorov.jpg
+SHA1-Digest: NeNz/c3IBVN0YjQgYpKwwMoNETI=
+
+Name: assets/pics/bryus.jpg
+SHA1-Digest: Ba8aCeo9m51AGIXc6U2IAdScHTo=
+
+Name: res/layout/fragment_template.xml
+SHA1-Digest: 2/DuDUZzIwpzAOMS9edRUNuobL8=
+
+Name: assets/pics/tver_riot.jpg
+SHA1-Digest: gJYqLW/ER5g3XSopj+yawgvIKfs=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: JPdqp3Utz4eGl5Yd4o1J/WbUozw=
+
+Name: res/layout/design_navigation_menu_item.xml
+SHA1-Digest: RznNn5F20WZjUZxhfcoxcQueqec=
+
+Name: assets/pics/gallery/arch/historic_museum.jpg
+SHA1-Digest: NH44tNqF2hw5zv1u0tPxCgZBp14=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: mCBnCKaRU9uB967fAEQGwKvzSCs=
+
+Name: assets/pics/gallery/paint/davydov.jpg
+SHA1-Digest: huqmTHXna/vEZAwbDqaxCd8sayo=
+
+Name: res/layout/activity_sub_section.xml
+SHA1-Digest: x9IMbYnlykZ1frrEf2+JoeIEsdM=
+
+Name: assets/pics/varyagi.jpg
+SHA1-Digest: wULIyA6jRporQCfu+c/2cy4VxyA=
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: B8/7flzGxBms5IrFKYqBUqyLWuI=
+
+Name: assets/pics/morozov.jpg
+SHA1-Digest: CmD4mZeGIvurgF/x/O8ERXTO1vI=
+
+Name: assets/pics/rsdrp.jpg
+SHA1-Digest: KffY8jH17wtywaNjCbMKnfT0ZIg=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_folder_48dp.png
+SHA1-Digest: VoEj/s9N0VcCUiLr4eCmG78blB4=
+
+Name: res/drawable-xhdpi-v4/ic_folder_48dp.png
+SHA1-Digest: rEFKdA9kYbDoMJ9tNBrRUT+Qtlo=
+
+Name: res/layout/toolbar_scroll.xml
+SHA1-Digest: rDHSuUw/Exw5sGNqQlDii5B9h/w=
+
+Name: res/drawable-night-mdpi-v8/ic_drawing_box.png
+SHA1-Digest: wCRrQAC3UIA327ym7KS9OwyQMZ8=
+
+Name: res/layout-v22/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: W2pU1lpCrpYPCmvPV1EZJKKyg3I=
+
+Name: res/color/mtrl_choice_chip_ripple_color.xml
+SHA1-Digest: KK63axAYp1ww63bBHT3X/P71P1I=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: TE1PNkVCa4/Qe4l6j08Ay94JJoI=
+
+Name: res/drawable/ic_close_toolbar.xml
+SHA1-Digest: gFT9ksjS3wiqZ9g6cDtDMf0uJho=
+
+Name: res/layout/activity_detail.xml
+SHA1-Digest: dSEs2EsaLt9zTW+ptmpz7yTM+vg=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: fkHHafZ6woOU+hakgiXNdjO+G0o=
+
+Name: res/drawable/$avd_hide_password__2.xml
+SHA1-Digest: v2a+cXWJcX9PGpQqvuHkPTLPso4=
+
+Name: assets/pics/gallery/sculpture/sc_menshikov.jpg
+SHA1-Digest: uoVLVSD/cqP9PU85unbRZpL9CfA=
+
+Name: assets/pics/columb_ship.jpg
+SHA1-Digest: O80E7fNMd7nqp0+fd0zZ1nYr4yw=
+
+Name: assets/pics/gallery/pers/pers_tolstoy.jpg
+SHA1-Digest: 1SRvmpVlgfFHV1cKnSD9nOQIuw0=
+
+Name: assets/pics/chernobyl.jpg
+SHA1-Digest: H296WTKcU6y17REMzPW6SBu1CCU=
+
+Name: res/color/color_text_btn_ww.xml
+SHA1-Digest: RIGRNH9z7CzVax0pcD04rM6AnEY=
+
+Name: assets/pics/brejnev.jpg
+SHA1-Digest: 6HX3oy1Rw3LZ7+eFJolGosX/e9A=
+
+Name: assets/pics/maryna_mnishek.jpg
+SHA1-Digest: bLGTRQIbsjinNCNu2HNRlGsXZ0I=
+
+Name: assets/pics/hasbulatov.jpg
+SHA1-Digest: FI3aANLDYFZ/sGugTD6n3B6jHSs=
+
+Name: assets/pics/maps/map_stephan_borders.jpg
+SHA1-Digest: W3rFabyGfpwrz9I+fNbnEHbJh+4=
+
+Name: assets/pics/veche.jpg
+SHA1-Digest: pTx3kH9R9PKHv1roS26MmYcB19c=
+
+Name: res/drawable-night-xhdpi-v8/ic_powerpoint_box.png
+SHA1-Digest: k4d36GDVUgmCvtE7WoUmslufRGg=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: nGvwsbkq05blQEQqllA2thZwflc=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA1-Digest: pdP2VE01c2/fkdLBxbKCF1YFCJU=
+
+Name: res/menu/menu_maps_list.xml
+SHA1-Digest: HngSDG2NZ4J8fBGSMOhNLJ7PnPM=
+
+Name: res/drawable-hdpi-v4/ic_video_box.png
+SHA1-Digest: Wd2mgjBE8Q3bXlGUyiSv0oZJoVE=
+
+Name: assets/pics/ship_varyag.jpg
+SHA1-Digest: mKe6kktlBtrwPhKdG3IRoiPsJzg=
+
+Name: res/drawable/mtrl_tabs_default_indicator.xml
+SHA1-Digest: go5DQtaEkTDnO6RdtiWZoV/EA6g=
+
+Name: res/drawable/mtrl_ic_error.xml
+SHA1-Digest: ZCehOHh57MCE5CRlEmfrOqYqWdU=
+
+Name: res/drawable/text_round_green_bg.xml
+SHA1-Digest: Bu1MR3+mawe7JE/nNd8dYGBx+1g=
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005
+ .png
+SHA1-Digest: LpI9vSEdW/n3iNzTIDS8ecyd2BM=
+
+Name: res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+SHA1-Digest: 8+qM2HIkEMMNtmWNCWlfg+7xPYA=
+
+Name: assets/pics/gallery/monument/rodina_mat.jpg
+SHA1-Digest: ipDxAPVySV/QeS/KQ4uKpvoDWyo=
+
+Name: assets/pics/gallery/pers/pers_lomonosov.jpg
+SHA1-Digest: khY67NpqJgNR93v86ylu9OKfjuY=
+
+Name: assets/pics/gallery/pers/pers_bunin.jpg
+SHA1-Digest: dkQumBVChZTWR90NHryzu04EWoA=
+
+Name: assets/pics/savinkov.jpg
+SHA1-Digest: vQmbVB4NgvlzeXZG5UiRtZF263A=
+
+Name: res/layout/mtrl_calendar_day_of_week.xml
+SHA1-Digest: bvtBADSnIJX7dCnCH3R2voiX2bY=
+
+Name: res/menu/search.xml
+SHA1-Digest: 9viaKObiP0/xhutdMFjnugRDNO4=
+
+Name: assets/pics/notes/crown.png
+SHA1-Digest: twNMGdntnaVlDMKXpXaQk/JbPE0=
+
+Name: res/drawable/ic_star_dialog.xml
+SHA1-Digest: 17gvy4/P8w+8Q+B5ew3HTLU4Eho=
+
+Name: assets/pics/maps/map_war_1905.jpg
+SHA1-Digest: bvcvk9yEfClyDofnAUViBvCNUak=
+
+Name: res/drawable-night-hdpi-v8/ic_music_box.png
+SHA1-Digest: JMgpMaBoGoeptY0quna9zCJtCTU=
+
+Name: assets/pics/aleksandr_3.jpg
+SHA1-Digest: dJE4a8q9cvRNSiyPHkcjNYRoYok=
+
+Name: assets/pics/kakhovsky.jpg
+SHA1-Digest: zlpX0eeGrYdkJvQIKFDarQV2P5M=
+
+Name: assets/pics/lefort.jpg
+SHA1-Digest: b52Zg5zO15EjQ/pK5rq0kQh9E2Q=
+
+Name: res/layout/exercise_option_long_less.xml
+SHA1-Digest: Xwx4pzUl+bheoQM2hSef5HujfVA=
+
+Name: res/drawable/ic_nav_send.xml
+SHA1-Digest: mCXNjr3MCWUG/YHOC5R/ZoNIskU=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA1-Digest: /ATvzbtCOmzsuzCrQgdsnyY0I9I=
+
+Name: res/raw/reference.txt
+SHA1-Digest: QLuWj7poC4qnow3emdeQpyLPHDg=
+
+Name: assets/pics/piter_1704.jpg
+SHA1-Digest: 9QeFoIC98lWYJrRHt0N9GZHPqOU=
+
+Name: assets/pics/golytsin.jpg
+SHA1-Digest: t4ih/3pQOr0fQZjhgBNTG6J6qP4=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_image_box.png
+SHA1-Digest: GpeDJATpKsScpiMsFss/Hxvs/tM=
+
+Name: res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: chwh8cp/iajY5r0dEv3NaJiyCTg=
+
+Name: assets/pics/gallery/monument/monument_gagarin.jpg
+SHA1-Digest: TrEUPARGV6AVry41872OkY/xF2M=
+
+Name: assets/pics/lenin.jpg
+SHA1-Digest: fEDdjDAMBRo1pBWf1xrdEqtREGc=
+
+Name: assets/pics/ermolov.jpg
+SHA1-Digest: IIJXeuhUQoIJfL+RTPOX4evERDA=
+
+Name: assets/pics/krasnaya_gvardia.jpg
+SHA1-Digest: pRsL0Jfqw3jRF6x8wKoyZsRlzdk=
+
+Name: res/drawable-xxhdpi-v4/ic_close_white_24dp.png
+SHA1-Digest: 33LXAC3KOhsDXieF/uQmIEgrBZw=
+
+Name: assets/pics/gallery/flag/flag_russia_1991.jpg
+SHA1-Digest: FZW02+pO7gqsYM3CbF//rxhsa8M=
+
+Name: assets/pics/kerenskiy.jpg
+SHA1-Digest: M2xwgo58X/yh1n3f2Dc3woxgVrY=
+
+Name: assets/pics/chechnya_2.jpg
+SHA1-Digest: hTaIecBRGAoYpBbBoVV2xPxCTjw=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: aNChK3Z5iNzvJ+qUQ3+OI+HRSrM=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: Vwg9DnRYcLothTH8G1XotfneeGk=
+
+Name: assets/pics/katkov.jpg
+SHA1-Digest: Og6rPM7HnTwS/77Wkln430S0kWU=
+
+Name: assets/pics/volkonsky.jpg
+SHA1-Digest: kVevKFX3ARPwkMV81sNy0PrgOSM=
+
+Name: assets/pics/notes/pillar.png
+SHA1-Digest: 0rdJlUMvQyEYclugbWtoGsb+yf8=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: oV15/9qsP5hRuo9C8qxJoRotllA=
+
+Name: res/layout/gallery_items_list.xml
+SHA1-Digest: YCXXRnahZGWj9/Vy+/4OB9Yi8aY=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.pn
+ g
+SHA1-Digest: rSwsu8lyFJ2T0/pa5u4O8/J64aI=
+
+Name: res/layout/item_file.xml
+SHA1-Digest: MoVkDoCdH/2E5BRDA365g0h1QnM=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: BM65Mvt5r6omTfvJ1/Og5cDAirs=
+
+Name: res/menu/menu_section_stats.xml
+SHA1-Digest: rDHiBVT1c9ZaZZxxHU3Bg7yXmOw=
+
+Name: assets/data_simple.json
+SHA1-Digest: Vl7IhHQZugD1KF00bx4qnk6PQIE=
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: 7cQXfsf5QK48/FcK7jbr52XLQKs=
+
+Name: assets/pics/usbek.jpg
+SHA1-Digest: Q2Fb1tju/+oTKZm7EOf2BKFErL4=
+
+Name: res/drawable/ic_cat_progress_low.xml
+SHA1-Digest: l37+GKuiSuTAihu9w7bEAZKC0zI=
+
+Name: res/drawable-night-xxhdpi-v8/ic_zip_box.png
+SHA1-Digest: Z+tzs6JLva0bR1mclj4KWSIVzwc=
+
+Name: assets/pics/gallery/pers/pers_nevskiy.jpg
+SHA1-Digest: CJsOHRGSnI047fFmntQ+d3m60X0=
+
+Name: res/drawable-xxhdpi-v4/ic_zip_box.png
+SHA1-Digest: 3ORvx15w7aBtLD9BTrq43J6bf3U=
+
+Name: res/drawable/avd_show_password.xml
+SHA1-Digest: i50vICfmGLFH3vfAaWijt7YPU7I=
+
+Name: res/menu/menu_image_detail.xml
+SHA1-Digest: 6PSxRGzAaZNqzhn5uSjAJOywV4o=
+
+Name: res/drawable/ic_action_unarchive.xml
+SHA1-Digest: /CE/ZFEXvoXaQ+FfODWO+BI2pLE=
+
+Name: res/color/mtrl_navigation_item_icon_tint.xml
+SHA1-Digest: ayHQnCyv7qlAve2hOZTxj0II0ec=
+
+Name: assets/pics/hruschev.jpg
+SHA1-Digest: 5dIVCpNVCBEBA7zwIe2Uwz8A7/o=
+
+Name: res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xm
+ l
+SHA1-Digest: c9cdQHw1AoI+FZg5kaOlm6U6L/M=
+
+Name: res/color/mtrl_calendar_item_stroke_color.xml
+SHA1-Digest: MH0Kv/RF2VTk1rRf+FV4IkAQMyk=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: D5nFlK7kG0vYcx998DwpCz/RBcs=
+
+Name: assets/pics/french_moskva.jpg
+SHA1-Digest: 0RTCV6HAZzNNK8Cc+N21a1Osw8o=
+
+Name: assets/pics/gallery/paint/yermak.jpg
+SHA1-Digest: Z13eMbWuONPGFfuxkx10EOvUrc0=
+
+Name: res/drawable/ic_view_grid_2_outline.xml
+SHA1-Digest: HsJtKSHxEpyWwDdp4umg9mL5ZxI=
+
+Name: assets/pics/gallery/monument/monument_katerina_2.jpg
+SHA1-Digest: Wif1mUu9xvmaGxLwy1r/kKobmfk=
+
+Name: assets/pics/marfa.jpg
+SHA1-Digest: +qhB2Fzy3YRyFjQvRCu7b84U9DY=
+
+Name: res/layout/test_toolbar_surface.xml
+SHA1-Digest: mBgaPKgtPGogvNUDPAsHiDquRrc=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA1-Digest: DA+8uKYp0oG7fqW8KlROM93mcqQ=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: nQwpP5iPxgHyemkkTVZXsf8xvV4=
+
+Name: assets/pics/gallery/paint/grachi.jpg
+SHA1-Digest: bbpotQSxPEuGmQzH4u9g7coyya0=
+
+Name: res/drawable/ic_arrow_forward.xml
+SHA1-Digest: 1N/BJ02275ahrvWZO1vLijK6zRs=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA1-Digest: zfNao8HGbAd4zjpjUiHBuu4k4nk=
+
+Name: assets/pics/gallery/pers/pers_butlerov.jpg
+SHA1-Digest: px+w+22R9FHihIHVlQ0NfllvCx8=
+
+Name: res/anim-v21/mtrl_bottom_sheet_slide_in.xml
+SHA1-Digest: 5ROvw/tN/1fZsN6B34/n+lBOQgI=
+
+Name: assets/pics/krasnoarmeytsi.jpg
+SHA1-Digest: tHn8Lz7M2KskhDLCyi/5ZFj14Po=
+
+Name: assets/pics/yavlinkiy.jpg
+SHA1-Digest: Swzsmm7dCSnOkJK4Ht4ifmdIzpU=
+
+Name: res/interpolator/mtrl_linear.xml
+SHA1-Digest: oGci6f6O4K10nm0c+ibcWV6J7FE=
+
+Name: assets/pics/gallery/sculpture/sc_lomonosov.jpg
+SHA1-Digest: HsoCbIPKcRVFhAeHcO+nLRsdHR8=
+
+Name: assets/pics/ww2_mooskva_defense.jpg
+SHA1-Digest: SXPdc/bjMtTffUqU+C3IQgLyaIg=
+
+Name: assets/pics/moskva_pereslavl.png
+SHA1-Digest: DK6GvZmXggP+58wBcjST0+NUveU=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: EW/WpNliEy+bQjDuiw+U1mX+yZk=
+
+Name: res/layout/result_dialog.xml
+SHA1-Digest: RayqZmAo2cuzM5r/EzytEo/M7kk=
+
+Name: assets/pics/opolchenie_1.jpg
+SHA1-Digest: gzbJpC1eq1NSw3jR4MPzDiYeMZs=
+
+Name: assets/pics/kongress_vienna.jpg
+SHA1-Digest: rPOYcJa1aSkkB2cHGTaH7RoJuqU=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: uWfk23bm97GtczH2YvAwWP/eNOE=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: RA9O2cFjU9moB/SZbNzwDPSQUEU=
+
+Name: assets/pics/jukov.jpg
+SHA1-Digest: fWWCPjEzPT6Ls0fjoVymy6kJHGA=
+
+Name: res/color/mtrl_on_primary_text_btn_text_color_selector.xml
+SHA1-Digest: xI9x9FJzzWLP5Wc/jY+p2X4y428=
+
+Name: res/drawable/ic_emo_great.xml
+SHA1-Digest: ya6Hsc2ihZ+xLkW0CMAbukLYPUQ=
+
+Name: res/layout/activity_full_detail.xml
+SHA1-Digest: K6wo0sJS14lG/i0D9Nh0UqbA0xg=
+
+Name: assets/pics/stolypin.jpg
+SHA1-Digest: QIzD4lesuppOstNXFfYqarOUAWU=
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA1-Digest: n93doK6P9z3SF73e2I94iS9JCbs=
+
+Name: assets/pics/petr_holland.jpg
+SHA1-Digest: PHCAWmhdvV26V2EXPMVCP0k+kPI=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: NhH/qNsjwbuGc/0xqPrgqFgo+9o=
+
+Name: assets/pics/ww_2.jpg
+SHA1-Digest: vdoIXg6wd9ZToh1LKaHXQ5UsVM4=
+
+Name: assets/pics/kuznetsov.jpg
+SHA1-Digest: jtZf2CbJ9kykbklb2J2Vz4Ugiww=
+
+Name: res/layout/activity_cat_stats.xml
+SHA1-Digest: 0fHkSBrTGuymZ1d8QCA8axfKtaI=
+
+Name: res/drawable/ic_school_outline.xml
+SHA1-Digest: Gw1kWFvnsM6TNF9f+oGon95dlHE=
+
+Name: assets/pics/maps/map_russia.jpg
+SHA1-Digest: PxRduXvztMM7wA2Jkm+a2KfLahU=
+
+Name: assets/pics/sputnik.jpg
+SHA1-Digest: elRa5QjTEgy3Q48vqMjPKC7vzXA=
+
+Name: assets/pics/gromyko.jpg
+SHA1-Digest: nWha8QDIdtuvuOfYig5ilT4/24E=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.
+ png
+SHA1-Digest: pf8Tt2oAabuOsAiSswddcfLUQAQ=
+
+Name: assets/pics/gallery/paint/krestniy_hod.jpg
+SHA1-Digest: xJtc6dXPzfdslV9bAyAPxPkupzw=
+
+Name: assets/pics/riot_1993.jpg
+SHA1-Digest: mz9Dv9OeHgxCMF4PWFizgRCRYTQ=
+
+Name: assets/pics/ww2_danzig.jpg
+SHA1-Digest: bydzjlKESD+uUhvInpdIudL2mA4=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: +TY+I9fpZ38ftBWokyGPSIm59vQ=
+
+Name: res/layout-v26/abc_screen_toolbar.xml
+SHA1-Digest: Wfbz/9wiZAbh5DHz6KuAmGnBkeU=
+
+Name: res/anim/abc_tooltip_exit.xml
+SHA1-Digest: qeXN83Yvs0FLNmc4vqVVPx2uV78=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_pdf_box.png
+SHA1-Digest: H8wH7mvBJENr1rGigxs+Ec+Gr3w=
+
+Name: res/drawable-night-mdpi-v8/ic_certificate_box.png
+SHA1-Digest: oCakBv5wtIMrBTVJV7khO6MrVxc=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: VzgmMujgGVTkhZBrXgJyrBpI1fs=
+
+Name: assets/pics/mech.jpg
+SHA1-Digest: voM8cx6tz9P7jjKTLzYTzqMHzOA=
+
+Name: res/drawable/mtrl_dropdown_arrow.xml
+SHA1-Digest: hLRq0Mp9gKuSoHqrnE0cyjX45Vk=
+
+Name: res/color/mtrl_btn_text_color_selector.xml
+SHA1-Digest: 4sFhTjeEtXsEVij7FYUIR5ha3ig=
+
+Name: res/drawable-night-xxxhdpi-v8/ic_drawing_box.png
+SHA1-Digest: rf2SPDTbB9JvD2EDTNoxq67SGM0=
+
+Name: assets/pics/mongol_siege.jpg
+SHA1-Digest: Z7gh6lhM3LTl6Y5xMBqWUIT7FPo=
+
+Name: assets/pics/gallery/monument/kosmos.jpg
+SHA1-Digest: Qp77PdCthsv4CFg0iyUqqEE44O4=
+
+Name: assets/pics/shamil.jpg
+SHA1-Digest: mxIzalflqgYFM6aQvKqEemxay+U=
+
+Name: res/drawable-night-xhdpi-v8/ic_document_box.png
+SHA1-Digest: GceeGOcQqXh/M7j9NJPrUzoxP3M=
+
+Name: assets/pics/kondratenko.jpg
+SHA1-Digest: Gk/iILQviaUnkDrbhf03XhGLdwI=
+
+Name: res/drawable-xxhdpi-v4/ic_drawing_box.png
+SHA1-Digest: RBulMx9jFNae7jp6y+sBhqSmi1g=
+
+Name: assets/pics/maps/rus_1389.png
+SHA1-Digest: rzLnAnQiSOoDPIBfmfbMF/ys2EU=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: mHjDwDkR/x2NDfFDZRQUg2Kc/pQ=
+
+Name: assets/pics/aleksandr_1_2.jpg
+SHA1-Digest: IVV2z+05lECbYt4knUl1xwVauh8=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: suWb5IKMp2YzJCWHQfYCFd9SeWc=
+
+Name: res/layout/fragment_stats_progress_diagram_card_include.xml
+SHA1-Digest: CIjyBq0e509MIBpLx9aD4AyFBZY=
+
+Name: assets/pics/gallery/paint/rozh.jpg
+SHA1-Digest: JHkLkTEq1vPKaE4Oen3WEJSsNJM=
+
+Name: assets/pics/5_let_4.jpg
+SHA1-Digest: Dp52cA6ioDAMrXdHwpxW9ccT1EI=
+
+Name: assets/pics/konev.jpg
+SHA1-Digest: rgulV5jV2A/1rvxGghq1fvVn+vo=
+
+Name: res/layout/radion_option_tem_long_less.xml
+SHA1-Digest: w3+panHkZk/scHkpbqH2sorFjvk=
+
+Name: assets/pics/mestnichestvo.jpg
+SHA1-Digest: Bs3WFZ1VnZYMXsMo3p26CBMwMK8=
+
+Name: assets/pics/gallery/paint/pers_pushkin.jpg
+SHA1-Digest: igx+DKcDJCOCv/iRiD4UdnmF76U=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: cGHh4UvaT4+DpSX2tRF0+f5QOWY=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: zI176QlarHgsgLRcKJcYZrGV9ps=
+
+Name: res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+SHA1-Digest: R63GfQeSzd8rZxg3TllH9vR45uI=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: N+oRdWM4aEr7cCiPhnfkKOx5fCA=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: 0ZqXxaSPdx/iM1JIRZ2NCJNbgjw=
+
+Name: assets/pics/gallery/flag/gerb_18v_elisaveta.jpg
+SHA1-Digest: zQd5qOF0PUwQEaDgXnwtBFzJNAE=
+
+Name: assets/pics/golod_1932.jpg
+SHA1-Digest: ykmxOpexLbA+x2jDlCTXT60vcSo=
+
+Name: res/drawable/ic_star_borded_inactive.xml
+SHA1-Digest: bp6H4xc4qiURb8p6gHXrz5R6Nhc=
+
+Name: res/drawable-hdpi-v4/ic_word_box.png
+SHA1-Digest: I/+aHJerbufzoRz1gXU7YPGa/U4=
+
+Name: assets/pics/gallery/pers/pers_chaikovskiy.jpg
+SHA1-Digest: FEaCy24aZJPn944u8iDgGAreklM=
+
+Name: assets/pics/zemskysobor.jpg
+SHA1-Digest: eETx8Ji4cnW2cLfCO69Y/cGhsPY=
+
+Name: res/color/material_slider_inactive_track_color.xml
+SHA1-Digest: WpCFmaL/EI4kj8UdjfUxMGEcnyM=
+
+Name: res/drawable/design_fab_background.xml
+SHA1-Digest: KSeLE8s5mxiliiM8AR8wj5wvL+k=
+
+Name: assets/pics/gkcp.jpg
+SHA1-Digest: VanxJzSy0Sf7DoDscEBlzvhlzn0=
+
+Name: res/layout/design_layout_tab_icon.xml
+SHA1-Digest: G2NcrLovYYW3jiqA5TvJd3Z2hl8=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.
+ png
+SHA1-Digest: svcMy3RUKynkEHwirQYPCICt1tI=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: qA8ppEiFPc+QUseewdgDRpls1Vs=
+
+Name: res/drawable/ic_mtrl_chip_checked_black.xml
+SHA1-Digest: Mp45xkwiSiuEb04bE1db3zZdTTE=
+
+Name: res/layout/fragment_cat_1.xml
+SHA1-Digest: oS5U0aEFVzCxoqG2wAZOpxn6SS0=
+
+Name: assets/pics/gallery/sculpture/sc_golitsin.jpg
+SHA1-Digest: n7vvsnWErd9NxmvJFd+dC0WpgfE=
+
+Name: res/drawable/ic_play_stop_tool.xml
+SHA1-Digest: YOVE0K/6RpMeX4M85Gqr3tA0FsY=
+
+Name: assets/pics/devalvatsia.jpg
+SHA1-Digest: hyQVozMXDd6PDYH+papMnKoV3o0=
+
+Name: assets/pics/askold_dir.jpg
+SHA1-Digest: jFuR4IpeDqICGZChsomvghoITAg=
+
+Name: assets/pics/oleg_igor.jpg
+SHA1-Digest: z6/r/Aj/2IADYdQ/a10TpIHKVS4=
+
+Name: assets/pics/ivan_5.jpg
+SHA1-Digest: 0ijnl9zcperwnwT6Dc6yFgo5Uo8=
+
+Name: res/drawable-xxhdpi-v4/ic_folder_48dp.png
+SHA1-Digest: MOP82a3G89BfvarBjLUGkWrvHP0=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: res/drawable/ic_counter_bg.xml
+SHA1-Digest: lCZ9z15Kli7OKo5ZDHc1TCC74jw=
+
+Name: res/layout/mtrl_picker_dialog.xml
+SHA1-Digest: THaQkpAuzBOVj5sfM+Iwt6JAFNg=
+
+Name: assets/pics/sudebnik.jpg
+SHA1-Digest: T887w30LyI+jNeHcYFKDUdHGI4k=
+
+Name: res/drawable-mdpi-v4/ic_powerpoint_box.png
+SHA1-Digest: /yU5fGHhopIXVZtOBCu0DfpHMv8=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: DyCvyIzR47TJs7GkQqi7JSnXlz8=
+
+Name: res/layout/text_view_with_line_height_from_style.xml
+SHA1-Digest: fwuMeJX3BnUyoCtBqFVQo/2qEn8=
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA1-Digest: D8aJ20WyVhQRmJcBQw4RgpWbdGo=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA1-Digest: 1Sq+VOFFXYaggLRmUPg5CpP+b1M=
+
+Name: assets/pics/picto/image_green.png
+SHA1-Digest: 2DUjwPHg5miVGVHB9o8u7n/2Y24=
+
+Name: assets/pics/picto/pers_green.png
+SHA1-Digest: k95ZEAxOjuBIalT7meCHuVnz4LE=
+
+Name: res/animator/mtrl_chip_state_list_anim.xml
+SHA1-Digest: som6G+iCyupJdpw76zQtQ54gORQ=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA1-Digest: fnNWYMm69Ja2RoOaoZ4vlS+Ccsg=
+
+Name: assets/pics/riot_solov.jpg
+SHA1-Digest: pK7ny/1n6LjIu9FBQUjUmFOzpKU=
+
+Name: assets/pics/russia_republik.jpg
+SHA1-Digest: n0VjhKf622T6Z98AJUGVnWpYUSU=
+
+Name: assets/pics/gallery/sculpture/sc_felix.jpg
+SHA1-Digest: 9DiCbkxgpE3ZaY2uDaOXyVRJ9P8=
+
+Name: assets/pics/5_letka.jpg
+SHA1-Digest: shqImDwd7hTSYugDplrF6o1GPS4=
+
+Name: res/drawable-mdpi-v4/ic_certificate_box.png
+SHA1-Digest: mL7EN0Rh49s4BadOqEKlJGYHQqI=
+
+Name: res/color/mtrl_chip_ripple_color.xml
+SHA1-Digest: b/3IKpFscK/8Tp5GrElrGYdREKA=
+
+Name: assets/pics/firovanti.jpg
+SHA1-Digest: n1oM04TnWXTDjmEDCt+iOL+LSiI=
+
+Name: res/layout/preference_recyclerview.xml
+SHA1-Digest: IX+Auj6dWCrKjPU2tdcWgTe+47I=
+
+Name: assets/pics/gallery/paint/neravniy_brak.jpg
+SHA1-Digest: FlBeRrvqYXCOg/zCvaEpLKoSF8Y=
+
+Name: assets/pics/ship_potemkin.jpg
+SHA1-Digest: ws+PkpJBQNir9JxaELO/I80z8JE=
+
+Name: assets/pics/syezd_10.jpg
+SHA1-Digest: wkFQyLsnXruOq5ACYGMns5xOP4c=
+
+Name: assets/test_structure_simple.json
+SHA1-Digest: XtSi8imEmubjossA1zxPb/PcYuA=
+
+Name: res/layout/view_img_item_list.xml
+SHA1-Digest: A9Ey+SGuGs13CCTvSWn0FGsb3hU=
+
+Name: res/menu/menu_custom_list.xml
+SHA1-Digest: 0uBKMhNgWvW+h7MDfuNMi/o6Vq8=
+
+Name: assets/pics/gallery/monument/rabochiy.jpg
+SHA1-Digest: WgNAj5gNloixohzkQKi3HNAeBnE=
+
+Name: res/layout/test_toolbar_custom_background.xml
+SHA1-Digest: jZjOA7QDonbAwvvZUb3Hd6oAFXA=
+
+Name: play-services-basement.properties
+SHA1-Digest: vCy52YI6RkR8vL55L8jiEimz/hY=
+
+Name: assets/pics/kulikovskaya.jpg
+SHA1-Digest: JdN+s+KEaPby5G2drAlue8M8cxA=
+
+Name: assets/pics/paskevich.jpg
+SHA1-Digest: ufdPxr0mbZ4F0wyrlQAJHtNwe2A=
+
+Name: assets/pics/battle_1169.jpg
+SHA1-Digest: zs2+t+kGQ57Ma1lhhwjizmZpjE0=
+
+Name: assets/pics/gallery/paint/alenushka.jpg
+SHA1-Digest: lEOjkJAzfuWkHpUYj0qYfFMg+d0=
+
+Name: res/drawable-xxxhdpi-v4/ic_apk_box.png
+SHA1-Digest: fmtglHRhkxgkpMC2/saFpbLZo78=
+
+Name: res/drawable/ic_close.xml
+SHA1-Digest: xaKoWbm/nyKJjawFy1RuzvXFJ70=
+
+Name: assets/pics/kpss.jpg
+SHA1-Digest: 8d4OxcR6EfkZ9UzXHZDCwlsWHDY=
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA1-Digest: dCVUHm7dY5A7RXjz+3p+XCe2174=
+
+Name: assets/pics/notes/handshake.png
+SHA1-Digest: +wGzroKpdAfRKOXcCKi9bYY3g1w=
+
+Name: assets/pics/battle_sevastopol.jpg
+SHA1-Digest: rWZwwd6IXiJA2yqv9MNNG9Zrnos=
+
+Name: assets/pics/rsfsr_suveren.jpg
+SHA1-Digest: V7zBZMArS6eMYOy5uLv04g8q0EE=
+
+Name: assets/pics/anna_2.jpg
+SHA1-Digest: c9wMnXXBLjNOWgfFuTQthc1fj4k=
+
+Name: res/drawable/ic_contact_message.xml
+SHA1-Digest: PLXkFkz+DhX9cfa4bf8ylEVwX00=
+
+Name: res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: sCd/8f+M64k16WLE0LI5oJNkjJQ=
+
+Name: res/drawable/ic_circle_back.xml
+SHA1-Digest: 1Bkdplqffj2zi81ZdNL4YmAIFtk=
+
+Name: assets/pics/ejov.jpg
+SHA1-Digest: bGYKq6ecr+zEN196MFCZBBT3A+o=
+
+Name: assets/pics/yuri_galits.jpg
+SHA1-Digest: IDfGulXySZ+sut1IgOlt7nQFsKk=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+

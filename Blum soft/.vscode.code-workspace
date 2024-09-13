@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../plushking-dev/.vscode"
+		},
+		{
+			"path": "../plushking-dev/app"
+		},
+		{
+			"path": "../plushking-dev/bin"
+		},
+		{
+			"path": "../plushking-dev/doc"
+		},
+		{
+			"path": "../plushking-dev/docs"
+		},
+		{
+			"path": "../plushking-dev/fixture"
+		},
+		{
+			"path": "../plushking-dev/lib"
+		},
+		{
+			"path": "../plushking-dev/project"
+		},
+		{
+			"path": "../plushking-dev/src"
+		},
+		{
+			"path": "../plushking-dev/tmp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}

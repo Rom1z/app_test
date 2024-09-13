@@ -1,0 +1,42 @@
+{
+  "data":
+  [
+
+    {
+      "test": "test_1",
+
+      "tasks": [
+
+        {"quest": "Une députée de Montréal annonce qu'elle passera sa fin de semaine dans sa circonscription. Cela signifie qu'elle serait:",
+          "options": [
+            "Dans la partie de Montréal où elle a été élue.",
+            "Dans son bureau sur la Colline du Parlement.",
+            "Visite de la province de Québec.",
+            "Partir en vacances."
+          ]
+        },
+
+        {"quest": "Après une élection fédérale, quel parti forme le nouveau gouvernement?",
+          "options": [
+            "Le parti qui compte le plus de représentants élus est invité par le gouverneur général à devenir le parti au pouvoir.",
+            "La reine elle-même choisit n'importe quel parti pour diriger le gouvernement.",
+            "Le gouverneur général propose une loi pour que les élus deviennent l'organe directeur.",
+            "Les premiers ministres de chaque province choisissent un parti pour diriger le gouvernement."
+          ]
+        },
+
+        {"quest": "Environ combien de Canadiens ont servi pendant la Première Guerre mondiale?",
+          "options": [
+            "Plus de 600 000.",
+            "7000.",
+            "8 millions.",
+            "Environ 60 000."
+          ]
+        }
+
+      ]
+
+    }
+
+  ]
+}
